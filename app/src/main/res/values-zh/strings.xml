@@ -469,7 +469,7 @@
     <string name="visit_xda_thread">访问XDA论坛</string>
     <string name="add_translation_or_fix">添加翻译或修正</string>
 
-    <!-- add translator name here -->
+    <!-- add translator's name here -->
     <string name="about_description">开发者：jozein@XDA</string>
 
 </resources>

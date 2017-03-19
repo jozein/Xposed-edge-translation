@@ -473,7 +473,7 @@
     <!-- add translator name here -->
     <string name="about_description">Developer: jozein@XDA</string>
 
-
+    <!-- untranslatable -->
     <string name="description" translatable="false">This module provides you system level controls and actions. Remap gesture, keys, phone state, etc…, to trigger actions you want.</string>
 
 </resources>
