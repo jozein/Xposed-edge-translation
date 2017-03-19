@@ -28,7 +28,7 @@
     <string name="rate">评价</string>
     <string name="get_pro_version">获取pro版</string>
     <string name="share">分享</string>
-    <string name="help">帮助</string>
+    <string name="help_and_support">帮助与支持</string>
     <string name="about">关于</string>
 
     <string name="pro_only">pro版</string>
@@ -341,7 +341,7 @@
     <string name="force_no_nav_bar">强制无导航栏</string>
     <string name="force_has_nav_bar">强制有导航栏</string>
 
-    <string name="gestures_triggers_when_swiping_on_hint">划动可以触发Pie与划动调节.</string>
+    <string name="gestures_triggers_when_swiping_on_hint">划动可以触发Pie与划动调节跟手势指针.</string>
     <string name="gestures_triggers_when_swiping_off_hint">往回划可以取消手势</string>
 
     <!-- others -->
@@ -419,7 +419,7 @@
     <string name="sound">声音</string>
     <string name="vibrate">振动</string>
     <string name="light">指示灯</string>
-    <string name="pie_slide_adjust_support">Pie与划动调节未抬手的手势，长按/双击。如果设置了划动中触发，还支持划动触发。</string>
+    <string name="pie_slide_adjust_support">Pie与划动调节与指针仅支持未抬手的手势，长按/双击。或者未设置抬手后触发划动手势，还支持划动触发。</string>
     <string name="app_may_not_has_default_activity">应用可能没有默认入口以运行</string>
     <string name="low_priority">低优先级</string>
     <string name="perform_failed">执行失败：</string>

@@ -28,7 +28,7 @@
     <string name="rate">Rate on play store</string>
     <string name="get_pro_version">Get pro version</string>
     <string name="share">Share</string>
-    <string name="help">Help</string>
+    <string name="help_and_support">Help and support</string>
     <string name="about">About</string>
     <string name="pro_only">Pro only</string>
 
@@ -263,7 +263,7 @@
     <string name="orientation_landscape">Landscape</string>
     <string name="focused">focused</string>
 
-    <!-- phone states -->
+    <!-- more triggers -->
     <string name="state_boot_completed">Boot completed</string>
     <string name="state_screen_on">Screen turned on</string>
     <string name="state_screen_off">Screen turned off</string>
@@ -341,7 +341,7 @@
     <string name="force_no_nav_bar">Force no navigation bar</string>
     <string name="force_has_nav_bar">Force has navigation bar</string>
 
-    <string name="gestures_triggers_when_swiping_on_hint">Pie/Slide adjust can be triggered by swipe.</string>
+    <string name="gestures_triggers_when_swiping_on_hint">Pie/slide adjust/gesture pointer can be triggered by swipe.</string>
     <string name="gestures_triggers_when_swiping_off_hint">You can cancel a swipe by swipe back.</string>
 
     <!-- others -->
@@ -419,7 +419,7 @@
     <string name="sound">Sound</string>
     <string name="vibrate">Vibrate</string>
     <string name="light">Light</string>
-    <string name="pie_slide_adjust_support">Pie/Slide adjust only for gesture long press/double click, or swipes if enabled triggers when swiping.</string>
+    <string name="pie_slide_adjust_support">Pie/slide adjust/gesture pointer only for gesture long press/double click, or swipes if not enabled swipe triggers after finger upped.</string>
     <string name="app_may_not_has_default_activity">App may not has default activity</string>
     <string name="low_priority">Low priority</string>
     <string name="perform_failed">Failed to perform:&#160;</string>
