@@ -121,6 +121,7 @@
     <string name="action_kill_app">结束应用</string>
     <string name="action_app_option_menu">应用菜单</string>
     <string name="action_clear_background_apps">清理后台应用</string>
+    <string name="action_refreeze">重冻结冰箱中应用</string>
     <string name="action_location">定位</string>
     <string name="action_ringer_mode">响铃模式</string>
     <string name="action_auto_brightness">自动亮度</string>
@@ -255,6 +256,7 @@
     <string name="condition_in_months">月份</string>
     <string name="condition_wifi_connected_to">WIFI连接到</string>
     <string name="condition_app_focused">应用获得了焦点</string>
+    <string name="condition_soft_keyboard_showing">输入法显示</string>
 
     <string name="orientation_portrait">竖屏</string>
     <string name="orientation_landscape">横屏</string>
@@ -305,6 +307,7 @@
     <string name="key_double_click_timeout">按键双击延时</string>
     <string name="key_long_click_timeout">按键长按延时</string>
     <string name="gesture_pointer_scale">手势指针放大比例</string>
+    <string name="gesture_pointer_reverse_order">手势指针中反向手势顺序</string>
     <string name="gesture_pointer_color">手势指针颜色</string>
     <string name="screen_filter_color">屏幕过滤器颜色</string>
     <string name="panel_color">面板颜色</string>

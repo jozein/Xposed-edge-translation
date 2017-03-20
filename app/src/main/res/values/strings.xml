@@ -121,7 +121,8 @@
     <string name="action_kill_foreground_app">Kill foreground app</string>
     <string name="action_kill_app">Kill app</string>
     <string name="action_app_option_menu">App option menu</string>
-    <string name="action_clear_background_apps">Clear background apps</string>
+    <string name="action_clear_background_apps">Kill background apps</string>
+    <string name="action_refreeze">Refreeze apps in freezer</string>
     <string name="action_location">Location mode</string>
     <string name="action_ringer_mode">Ringer mode</string>
     <string name="action_auto_brightness">Auto brightness</string>
@@ -258,6 +259,7 @@
     <string name="condition_in_months">In moths</string>
     <string name="condition_wifi_connected_to">Wifi connected to</string>
     <string name="condition_app_focused">App focused</string>
+    <string name="condition_soft_keyboard_showing">Soft keyboard showing</string>
 
     <string name="orientation_portrait">Portrait</string>
     <string name="orientation_landscape">Landscape</string>
@@ -308,6 +310,7 @@
     <string name="key_double_click_timeout">Double click timeout</string>
     <string name="key_long_click_timeout">Long click timeout</string>
     <string name="gesture_pointer_scale">Gesture pointer scale</string>
+    <string name="gesture_pointer_reverse_order">Reverse gesture order of gesture pointer</string>
     <string name="gesture_pointer_color">Gesture pointer color</string>
     <string name="screen_filter_color">Screen filter color</string>
     <string name="panel_color">Panel color</string>p
