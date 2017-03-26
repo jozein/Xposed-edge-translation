@@ -481,7 +481,8 @@
     <string name="visit_xda_thread">Visit XDA thread</string>
     <string name="add_translation_or_fix">Add translation or fix</string>
 
-    <!-- add translator name here -->
+    <!-- add translator name here if you want, like: -->
+    <!--<string name="about_description">Developer: jozein@XDA\nTranslator: your name</string>-->
     <string name="about_description">Developer: jozein@XDA</string>
 
     <!-- untranslatable -->
