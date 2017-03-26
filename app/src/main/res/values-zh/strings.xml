@@ -317,7 +317,7 @@
     <string name="vibrate_effect">振动效果</string>
     <string name="vibrate_strength">振动强度</string>
     <string name="effect_only_screen_on">仅亮屏时有声音与振动效果</string>
-    <string name="toast_level">吐司等级</string>
+    <string name="toast_level">Toast提示等级</string>
     <string name="visual_effect">视觉效果</string>
     <string name="show_text_on_shortcut_panel">快捷面板显示文字</string>
     <string name="show_text_on_side_bar">侧边栏显示文字</string>
@@ -474,5 +474,11 @@
 
     <!-- add translator's name here -->
     <string name="about_description">开发者：jozein@XDA</string>
+    <string name="light_gray_theme">亮灰</string>
+    <string name="insert">插入</string>
+    <string name="action_custom_panel">自定义面板</string>
+    <string name="custom_panels">自定义面板</string>
+    <string name="download_apps_drawer">下载的应用</string>
+    <string name="system_apps_drawer">系统应用</string>
 
 </resources>

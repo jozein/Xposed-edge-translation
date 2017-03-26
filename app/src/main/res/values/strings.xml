@@ -1,4 +1,5 @@
-<!-- please send translation to jozein@sina.com  -->
+<!-- please save translation as utf-8 or utf-16(unicode) -->
+<!-- and send to jozein@sina.com  -->
 <resources>
 
     <string name="app_name">Xposed edge</string>
@@ -11,6 +12,7 @@
     <string name="keys">Keys</string>
     <string name="pie">Pie</string>
     <string name="shortcuts_panel">Shortcuts panel</string>
+    <string name="custom_panels">Custom panels</string>
     <string name="left_side_bar">Left side bar</string>
     <string name="right_side_bar">Right side bar</string>
     <string name="schedule">Schedule</string>
@@ -149,6 +151,7 @@
     <string name="action_freezer_drawer">Freezer drawer</string>
     <string name="action_running_apps_drawer">Running apps drawer</string>
     <string name="action_side_bar">Side bar</string>
+    <string name="action_custom_panel">Custom panel</string>
     <string name="action_inject_key_event">Inject key event</string>
     <string name="action_inject_gesture">Inject gesture</string>
     <string name="action_inject_text">Inject text</string>
@@ -217,6 +220,9 @@
     <string name="side_right">Right side</string>
 
     <string name="stop_speech">Stop speech</string>
+
+    <string name="system_apps_drawer">System apps drawer</string>
+    <string name="download_apps_drawer">Download apps drawer</string>
 
     <!-- conditional -->
     <string name="conditional">Conditional</string>
@@ -332,6 +338,7 @@
 
     <string name="dark_theme">Dark</string>
     <string name="light_theme">Light</string>
+    <string name="light_gray_theme">Light gray</string>
     <string name="never">Never</string>
     <string name="gesture_recording">Gesture recording</string>
     <string name="gesture_injecting">Gesture injecting</string>
@@ -407,6 +414,7 @@
     <string name="saved">Saved</string>
     <string name="edit_action">Edit action</string>
     <string name="edit_icon_and_label">Edit icon and label</string>
+    <string name="insert">Insert</string>
     <string name="not_changed">Not changed!</string>
     <string name="notification_hint">Notification content</string>
     <string name="wifi_ssid">SSID</string>

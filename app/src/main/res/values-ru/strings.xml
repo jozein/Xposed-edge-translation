@@ -424,4 +424,10 @@
     <string name="gesture_pointer_reverse_order">Reverse gesture order of gesture pointer</string>
     <string name="condition_soft_keyboard_showing">Soft keyboard showing</string>
     <string name="action_refreeze">Refreeze apps in freezer</string>
+    <string name="light_gray_theme">Light gray</string>
+    <string name="insert">Insert</string>
+    <string name="action_custom_panel">Custom panel</string>
+    <string name="custom_panels">Custom panels</string>
+    <string name="download_apps_drawer">Download apps drawer</string>
+    <string name="system_apps_drawer">System apps drawer</string>
 </resources>
