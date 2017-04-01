@@ -1,10 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
+    <!-- add translator's name here -->
+    <string name="about_description">开发者：jozein@XDA</string>
+
     <string name="app_name">Xposed edge</string>
     <string name="app_name_pro">Xposed edge pro</string>
-    <string name="shortcut_name">Xposed edge actions</string>
-    <string name="shortcut_name_pro">Xposed edge pro actions</string>
+    <string name="shortcut_name">Xposed edge动作</string>
+    <string name="shortcut_name_pro">Xposed edge pro动作</string>
 
     <!-- main -->
     <string name="gestures">手势</string>
@@ -133,8 +136,8 @@
     <string name="action_sync">同步</string>
     <string name="action_wifi_ap">WIFI热点</string>
     <string name="action_airplane_mode">飞行模式</string>
-    <string name="action_immersive_nav_bar">沉浸导航栏</string>
-    <string name="action_immersive_status_bar">沉浸状态栏</string>
+    <string name="action_immersive_nav_bar">隐藏导航栏</string>
+    <string name="action_immersive_status_bar">隐藏状态栏</string>
     <string name="action_keep_screen_on">保持亮屏</string>
     <string name="action_torch">手电筒</string>
     <string name="action_screen_filter">屏幕过滤</string>
@@ -323,7 +326,6 @@
     <string name="show_text_on_side_bar">侧边栏显示文字</string>
     <string name="show_text_on_other_drawers">抽屉显示文字</string>
     <string name="notify_for_actions">通知</string>
-    <string name="allows_launch_app_when_screen_off">允许息屏启动应用</string>
     <string name="auto_freeze_only_app_died">只在应用完全结束时自动冻结</string>
     <string name="force_nav_bar_state">强制导航栏状态（需要重启）</string>
 
@@ -373,12 +375,9 @@
     <string name="unable_to_freeze_this_app">不能冻结此应用</string>
     <string name="unsafe_to_freeze_system_app">冻结系统应用很危险，是否确认继续？</string>
     <string name="save_failed">保存文件失败！</string>
-    <string name="file_permission_set_failed">设置文件权限失败！</string>
-    <string name="file_permission_set">重置文件权限，需要重启。</string>
     <string name="never_intercept_power_key">从不拦截电源键。</string>
     <string name="enable">启用</string>
     <string name="disable">停用</string>
-    <string name="remove">移除</string>
     <string name="add">添加…</string>
     <string name="app_started">运行</string>
     <string name="app_stopped">结束</string>
@@ -394,7 +393,6 @@
     <string name="last_day_of_month">月末</string>
     <string name="rename">重命名</string>
     <string name="delete">删除</string>
-    <string name="copy_as_multi_action">复制为普通多重动作</string>
     <string name="enter_name">输入名称</string>
     <string name="get_gesture_hint">按返回键取消，其它键保存。\n你也可以通过动作（手势录制）来录制手势。</string>
     <string name="enter_duration">输入时长</string>
@@ -403,11 +401,9 @@
     <string name="move_up">上移</string>
     <string name="move_down">下移</string>
     <string name="check_save_message">是否保存更改？</string>
-    <string name="saved_multi_action">保存的多重动作</string>
     <string name="saved">已保存</string>
     <string name="edit_action">编辑动作</string>
     <string name="edit_icon_and_label">编辑图标与名称</string>
-    <string name="not_changed">未更改</string>
     <string name="notification_hint">通知内容</string>
     <string name="wifi_ssid">WIFI名称</string>
     <string name="speech_hint">要朗读的文字</string>
@@ -418,7 +414,6 @@
     <string name="run_command_failed">运行命令失败：</string>
     <string name="action_info">动作信息</string>
     <string name="text_copied">已复制文本。</string>
-    <string name="invalid_multi_action">无效多重动作</string>
     <string name="sound">声音</string>
     <string name="vibrate">振动</string>
     <string name="light">指示灯</string>
@@ -472,8 +467,6 @@
     <string name="visit_xda_thread">访问XDA论坛</string>
     <string name="add_translation_or_fix">添加翻译或修正</string>
 
-    <!-- add translator's name here -->
-    <string name="about_description">开发者：jozein@XDA</string>
     <string name="light_gray_theme">亮灰</string>
     <string name="insert">插入</string>
     <string name="action_custom_panel">自定义面板</string>

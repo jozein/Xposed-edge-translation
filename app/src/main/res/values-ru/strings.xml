@@ -1,7 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
+<!-- please save translation as utf-8 or utf-16(unicode) -->
+<!-- and send to jozein@sina.com  -->
 <resources>
+
+    <!-- add translator name here if you want -->
+    <string name="about_description">Разработчик: jozein@XDA\nпереводчик : Александр</string>
+
+    <string name="app_name">Xposed edge</string>
+    <string name="app_name_pro">Xposed edge pro</string>
+    <string name="shortcut_name">Действия Xposed edge</string>
+    <string name="shortcut_name_pro">Действия Xposed edge pro</string>
+
     <string name="about">О приложении</string>
-    <string name="about_description">От jozein@XDA</string>
     <string name="action">Действие:</string>
     <string name="action_action_collection">Коллекция действий</string>
     <string name="action_activity">Действие активити</string>
@@ -89,15 +99,12 @@
     <string name="added_to_collection">Добавлено в коллекцию действий</string>
     <string name="adjust_brightness">Яркость</string>
     <string name="adjust_screen_filter_alpha">Альфа фильтр экрана</string>
-    <string name="allows_launch_app_when_screen_off">Позволяет запускать приложение при выключенном экране</string>
     <string name="app_frozen_f">Заморозить: %1$s</string>
     <string name="app_get_focus">приложение сфокусировано</string>
     <string name="app_icons">Значки приложений</string>
     <string name="app_info">Информация о прил.</string>
     <string name="app_lost_focus">приложение расфокусировано</string>
     <string name="app_may_not_has_default_activity">Приложение не имеет действия по умолчанию</string>
-    <string name="app_name">Xposed edge pro</string>
-    <string name="app_name_pro">Xposed edge pro</string>
     <string name="app_started">Приложение запущено</string>
     <string name="app_state">Состояние приложения</string>
     <string name="app_stopped">Приложение остановлено</string>
@@ -159,7 +166,6 @@
     <string name="conditional_if">если</string>
     <string name="conditional_then">тогда</string>
     <string name="confirm_freeze">Подтвердить заморозку!</string>
-    <string name="copy_as_multi_action">Копировать как мульти-действия</string>
     <string name="dark_theme">Тёмная тема</string>
     <string name="delete">Удалить</string>
     <string name="disable">Откл.</string>
@@ -192,8 +198,6 @@
     <string name="enter_name">Введите имя</string>
     <string name="error_freeze_app_f">Не удалось заморозить приложение: %1$s</string>
     <string name="error_thaw_app_f">Не удалось разморозить приложение: %1$s</string>
-    <string name="file_permission_set">Разрешения для файла, нужна перезагрузка!</string>
-    <string name="file_permission_set_failed">Не удалось установить разрешения для файла!</string>
     <string name="focused">фокусировать</string>
     <string name="force_has_nav_bar">Панель навигации принудительно</string>
     <string name="force_nav_bar_state">Принудительное состояние панели навигации (нужна перезагрузка)</string>
@@ -235,7 +239,6 @@
     <string name="import_from_free_version">Импорт из бесплатной версии</string>
     <string name="important">Важный</string>
     <string name="invalid_file">Неверный формат файла</string>
-    <string name="invalid_multi_action">Неверные мульти-действия.</string>
     <string name="key_back">Назад</string>
     <string name="key_click">Нажатие</string>
     <string name="key_click_f">Нажатие %1$s</string>
@@ -271,7 +274,6 @@
     <string name="never_intercept_power_key">Никогда не перехватывать кнопку питания!</string>
     <string name="next_alarm">Следующий сигнал</string>
     <string name="no_alarm">Без сигнала.</string>
-    <string name="not_changed">Не изменилось!</string>
     <string name="notification_hint">Содержимое уведомлений</string>
     <string name="notify_for_actions">Уведомлять о действиях</string>
     <string name="off_f">Откл. %1$s</string>
@@ -293,7 +295,6 @@
     <string name="pro_only">Только в Pro</string>
     <string name="put_on_launcher">Отправить на Дом.экран</string>
     <string name="rate">Оценить в Маркете</string>
-    <string name="remove">Удалить</string>
     <string name="remove_activity_params">Удалить параметры активити</string>
     <string name="rename">Переименовать</string>
     <string name="restore">Импорт</string>
@@ -308,7 +309,6 @@
     <string name="save_failed">Не удалось сохранить файл</string>
     <string name="saved">Сохранено</string>
     <string name="saved_icons">Сохраненные значки</string>
-    <string name="saved_multi_action">Сохранить мульти-действия</string>
     <string name="saved_multi_actions">Сохраненные мульти-действия</string>
     <string name="schedule">Расписание</string>
     <string name="screen_filter_color">Цвет фильтра экрана</string>
@@ -327,8 +327,6 @@
     <string name="select_shortcut">Выбрать ярлык</string>
     <string name="settings_restored">Параметры восстановления, нужно перезагрузить сейчас!</string>
     <string name="share">Поделиться</string>
-    <string name="shortcut_name">Действия Xposed edge pro</string>
-    <string name="shortcut_name_pro">Xposed edge pro actions</string>
     <string name="shortcuts_panel">Панель ярлыков</string>
     <string name="show_activities_exported_only">Показать только экспортированные действия</string>
     <string name="show_all_activities">Показать все действия (небезопастно)</string>
@@ -419,6 +417,10 @@
     <string name="volume_up">вверх</string>
     <string name="wifi_ssid">Имя WiFi</string>
     <string name="xposed_not_installed">Xposed не установлен!</string>
+
+
+    <!-- untranslatable -->
+    <!--<string name="description">Этот модуль предоставляет средства управления и действия на уровне системы. Переоформления жеста, ключи, состояние телефона, и т.д ..., чтобы вызвать действия, которые хотите.</string>-->
 
 
     <string name="gesture_pointer_reverse_order">Reverse gesture order of gesture pointer</string>

@@ -1,5 +1,10 @@
-<!-- please send translation to jozein@sina.com  -->
+<?xml version="1.0" encoding="utf-8"?>
+<!-- please save translation as utf-8 or utf-16(unicode) -->
+<!-- and send to jozein@sina.com  -->
 <resources>
+
+    <!-- add translator name here if you want -->
+    <string name="about_description">Geliştirici: jozein@XDA\Çevirmen: Fatih Fırıncı</string>
 
     <string name="app_name">Xposed edge</string>
     <string name="app_name_pro">Xposed edge pro</string>
@@ -324,7 +329,6 @@
     <string name="show_text_on_side_bar">Metni kenar çubuğunda göster</string>
     <string name="show_text_on_other_drawers">Metni diğer çekmecelerde göster</string>
     <string name="notify_for_actions">Eylemler için bildirim</string>
-    <string name="allows_launch_app_when_screen_off">Ekran kapalıyken uygulama başlat</string>
     <string name="auto_freeze_only_app_died">Sadece uyg sonlandığında otomatik dondur</string>
     <string name="force_nav_bar_state">Gezinti çubuğu durumunu zorla (yeniden başlatma gerekir)</string>
 
@@ -371,12 +375,9 @@
     <string name="unable_to_freeze_this_app">Bu uygulama dondurulamıyor!</string>
     <string name="unsafe_to_freeze_system_app">Sistem uygulamasını dondurmak güvenli değildir, devam etmek istediğinize emin misiniz?</string>
     <string name="save_failed">Dosya kaydedilemiyor!</string>
-    <string name="file_permission_set_failed">Dosya izinleri ayarlanamıyor!</string>
-    <string name="file_permission_set">Dosya izinleri sıfırlandı, şimdi yeniden başlatmanız gerekiyor!</string>
     <string name="never_intercept_power_key">Güç tuşunu asla engellemeyin!</string>
     <string name="enable">Etkinleştir</string>
     <string name="disable">Devre dışı bırak</string>
-    <string name="remove">Kaldır</string>
     <string name="add">Ekle…</string>
     <string name="app_started">başlatıldı</string>
     <string name="app_stopped">durduruldu</string>
@@ -392,7 +393,6 @@
     <string name="last_day_of_month">Son</string>
     <string name="rename">Yeniden adlandır</string>
     <string name="delete">Sil</string>
-    <string name="copy_as_multi_action">Çoklu eylem olarak kopyala</string>
     <string name="enter_name">Adı girin</string>
     <string name="get_gesture_hint">İptal etmek için geriye, hareketi kaydetmek için başka bir tuşa tıklayın. \nAyrıca eylem yoluyla hareketi kaydedebilirsiniz: hareket kaydı.</string>
     <string name="enter_duration">Süreyi girin</string>
@@ -401,11 +401,9 @@
     <string name="move_up">Yukarı taşı</string>
     <string name="move_down">Aşağı taşı</string>
     <string name="check_save_message">Değişiklikleri kaydetmek istiyor musunuz?</string>
-    <string name="saved_multi_action">Kayıtlı çoklu eylem</string>
     <string name="saved">Kaydedildi</string>
     <string name="edit_action">Eylemi düzenle</string>
     <string name="edit_icon_and_label">Simge ve etiketi düzenle</string>
-    <string name="not_changed">Değiştirilmedi!</string>
     <string name="notification_hint">Bildirim içeriği</string>
     <string name="wifi_ssid">Ağ Adı</string>
     <string name="speech_hint">Metin Konuşma</string>
@@ -416,7 +414,6 @@
     <string name="run_command_failed">Komut çalıştırılamıyor:&#160;</string>
     <string name="action_info">Eylem bilgileri</string>
     <string name="text_copied">Metin kopyalandı.</string>
-    <string name="invalid_multi_action">Geçersiz çoklu eylem.</string>
     <string name="sound">Ses</string>
     <string name="vibrate">Titreşim</string>
     <string name="light">Işık</string>
@@ -471,8 +468,9 @@
     <string name="visit_xda_thread">XDA konusunu ziyaret et</string>
     <string name="add_translation_or_fix">Çeviri ekle veya düzelt</string>
 
-    <!-- Fatih Fırıncı -->
-    <string name="about_description">Geliştirici: jozein@XDA</string>
+    <!-- untranslatable -->
+    <!--<string name="description" translatable="false">Bu modül size sistem düzeyinde kontroller ve eylemler sunar. İstediğiniz eylemleri tetiklemek için hareketi, tuşları, telefon durumunu, vb…, yeniden eşleştirin.</string>-->
+
 
     <string name="condition_soft_keyboard_showing">Soft keyboard showing</string>
     <string name="action_refreeze">Refreeze apps in freezer</string>

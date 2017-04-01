@@ -1,6 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
 <!-- please save translation as utf-8 or utf-16(unicode) -->
 <!-- and send to jozein@sina.com  -->
 <resources>
+
+    <!-- add translator name here if you want, like: -->
+    <!--<string name="about_description">Developer: jozein@XDA\nTranslator: your name</string>-->
+    <string name="about_description">Developer: jozein@XDA</string>
 
     <string name="app_name">Xposed edge</string>
     <string name="app_name_pro">Xposed edge pro</string>
@@ -332,7 +337,6 @@
     <string name="show_text_on_side_bar">Show text on side bar</string>
     <string name="show_text_on_other_drawers">Show text on other drawers</string>
     <string name="notify_for_actions">Notify for actions</string>
-    <string name="allows_launch_app_when_screen_off">Allows launch app when screen off</string>
     <string name="auto_freeze_only_app_died">Auto freeze only when app died</string>
     <string name="force_nav_bar_state">Force navigation bar state(need reboot)</string>
 
@@ -380,12 +384,9 @@
     <string name="unable_to_freeze_this_app">Unable to freeze this app!</string>
     <string name="unsafe_to_freeze_system_app">Unsafe to freeze system app, are you sure to continue?</string>
     <string name="save_failed">Failed to save file!</string>
-    <string name="file_permission_set_failed">Failed to set file permission!</string>
-    <string name="file_permission_set">File permission reset, need reboot now!</string>
     <string name="never_intercept_power_key">Never intercept power key!</string>
     <string name="enable">Enable</string>
     <string name="disable">Disable</string>
-    <string name="remove">Remove</string>
     <string name="add">Add…</string>
     <string name="app_started">started</string>
     <string name="app_stopped">stopped</string>
@@ -401,7 +402,6 @@
     <string name="last_day_of_month">Last</string>
     <string name="rename">Rename</string>
     <string name="delete">Delete</string>
-    <string name="copy_as_multi_action">Copy as multi-action</string>
     <string name="enter_name">Enter name</string>
     <string name="get_gesture_hint">Click back to cancel, other key to save gesture. \nYou can also record gesture via action: gesture record.</string>
     <string name="enter_duration">Enter duration</string>
@@ -410,12 +410,10 @@
     <string name="move_up">Move up</string>
     <string name="move_down">Move down</string>
     <string name="check_save_message">Do you want to save changes?</string>
-    <string name="saved_multi_action">Saved multi-action</string>
     <string name="saved">Saved</string>
     <string name="edit_action">Edit action</string>
     <string name="edit_icon_and_label">Edit icon and label</string>
     <string name="insert">Insert</string>
-    <string name="not_changed">Not changed!</string>
     <string name="notification_hint">Notification content</string>
     <string name="wifi_ssid">SSID</string>
     <string name="speech_hint">Text to speech</string>
@@ -426,7 +424,6 @@
     <string name="run_command_failed">Failed to ru command:&#160;</string>
     <string name="action_info">Action info</string>
     <string name="text_copied">Text copied.</string>
-    <string name="invalid_multi_action">Invalid multi-action.</string>
     <string name="sound">Sound</string>
     <string name="vibrate">Vibrate</string>
     <string name="light">Light</string>
@@ -481,9 +478,6 @@
     <string name="visit_xda_thread">Visit XDA thread</string>
     <string name="add_translation_or_fix">Add translation or fix</string>
 
-    <!-- add translator name here if you want, like: -->
-    <!--<string name="about_description">Developer: jozein@XDA\nTranslator: your name</string>-->
-    <string name="about_description">Developer: jozein@XDA</string>
 
     <!-- untranslatable -->
     <string name="description" translatable="false">This module provides you system level controls and actions. Remap gesture, keys, phone state, etc…, to trigger actions you want.</string>
