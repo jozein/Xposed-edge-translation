@@ -481,7 +481,6 @@
     <string name="visit_xda_thread">Visit XDA thread</string>
     <string name="add_translation_or_fix">Add translation or fix</string>
 
-
     <!-- untranslatable -->
     <string name="description" translatable="false">This module provides you system level controls and actions. Remap gesture, keys, phone state, etc…, to trigger actions you want.</string>
 
