@@ -327,6 +327,7 @@
     <string name="panel_color">Panel color</string>p
     <string name="pie_color">Pie color</string>
     <string name="pen_color">Pen color</string>
+    <string name="pen_colors">Pen colors</string>
     <string name="sound_effect">Sound effect</string>
     <string name="vibrate_effect">Vibrate effect</string>
     <string name="vibrate_strength">Vibrate strength</string>
@@ -414,6 +415,8 @@
     <string name="edit_action">Edit action</string>
     <string name="edit_icon_and_label">Edit icon and label</string>
     <string name="insert">Insert</string>
+    <string name="edit">Edit</string>
+    <string name="invalid_color">Invalid color</string>
     <string name="notification_hint">Notification content</string>
     <string name="wifi_ssid">SSID</string>
     <string name="speech_hint">Text to speech</string>

@@ -475,5 +475,8 @@
     <string name="custom_panels">自定义面板</string>
     <string name="download_apps_drawer">下载的应用</string>
     <string name="system_apps_drawer">系统应用</string>
+    <string name="edit">编辑</string>
+    <string name="pen_colors">画笔颜色</string>
+    <string name="invalid_color">无效颜色</string>
 
 </resources>

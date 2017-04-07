@@ -480,4 +480,8 @@
     <string name="custom_panels">Custom panels</string>
     <string name="download_apps_drawer">Download apps drawer</string>
     <string name="system_apps_drawer">System apps drawer</string>
+    <string name="edit">Edit</string>
+    <string name="pen_colors">Pen colors</string>
+    <string name="invalid_color">Invalid color</string>
+
 </resources>
