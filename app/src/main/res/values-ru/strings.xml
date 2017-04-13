@@ -4,7 +4,7 @@
 <resources>
 
     <!-- add translator name here if you want -->
-    <string name="about_description">Разработчик: jozein@XDA\nпереводчик : Александр</string>
+    <string name="about_description">Разработчик: jozein\nпереводчик : Александр</string>
 
     <string name="app_name">Xposed edge</string>
     <string name="app_name_pro">Xposed edge pro</string>
@@ -100,7 +100,7 @@
     <string name="adjust_brightness">Яркость</string>
     <string name="adjust_screen_filter_alpha">Альфа фильтр экрана</string>
     <string name="app_frozen_f">Заморозить: %1$s</string>
-    <string name="app_get_focus">приложение сфокусировано</string>
+    <string name="app_got_focus">приложение сфокусировано</string>
     <string name="app_icons">Значки приложений</string>
     <string name="app_info">Информация о прил.</string>
     <string name="app_lost_focus">приложение расфокусировано</string>
@@ -282,7 +282,6 @@
     <string name="orientation_landscape">Ландшафт</string>
     <string name="orientation_portrait">Портрет</string>
     <string name="panel_color">Цвет панели</string>
-    <string name="pen_color">Цвет пера</string>
     <string name="perform">Выполнить</string>
     <string name="perform_failed">Не удалось выполнить:</string>
     <string name="permission_denied">Доступ запрещен!</string>
@@ -363,8 +362,8 @@
     <string name="state_screen_rotated_landscape">Поворот экрана в ландшафт</string>
     <string name="state_screen_rotated_portrait">Поворот экрана в портрет</string>
     <string name="state_sms_received">SMS получено</string>
-    <string name="state_soft_keyboard_hide">Скрыть софт клавиатуру</string>
-    <string name="state_soft_keyboard_show">Показать софт клавиатуру</string>
+    <string name="state_soft_keyboard_hidden">Скрыть софт клавиатуру</string>
+    <string name="state_soft_keyboard_shown">Показать софт клавиатуру</string>
     <string name="state_usb_plugged">USB подключено</string>
     <string name="state_usb_unplugged">USB отключено</string>
     <string name="state_user_present">Кнопка защиты отменена</string>
@@ -400,7 +399,7 @@
     <string name="view_on_play_store">Открыть в Play Маркете</string>
     <string name="visit_xda_thread">Посетить форум XDA</string>
     <string name="visual_effect">Визуальный эффект</string>
-    <string name="volume_down">вниз</string>
+    <string name="adjust_down">вниз</string>
     <string name="volume_mute">без звука</string>
     <string name="volume_set_level">установить уровень громкости</string>
     <string name="volume_stream_alarm">Громкость</string>
@@ -414,7 +413,7 @@
     <string name="volume_stream_system_enforced">Принудительная громкость системы</string>
     <string name="volume_stream_tts">Громкость текста в речь</string>
     <string name="volume_stream_voice_call">Громкость голосовогo вызовa</string>
-    <string name="volume_up">вверх</string>
+    <string name="adjust_up">вверх</string>
     <string name="wifi_ssid">Имя WiFi</string>
     <string name="xposed_not_installed">Xposed не установлен!</string>
 
@@ -435,5 +434,23 @@
     <string name="edit">Edit</string>
     <string name="pen_colors">Pen colors</string>
     <string name="invalid_color">Invalid color</string>
+    <string name="action_soft_keyboard">Soft keyboard</string>
+    <string name="hide_soft_keyboard">Hide soft keyboard</string>
+    <string name="show_soft_keyboard">Show soft keyboard</string>
+    <string name="toggle_soft_keyboard">Toggle soft keyboard</string>
+    <string name="action_successive_adjust">Successive adjust</string>
+    <string name="adjust_scroll">Scroll</string>
+    <string name="down_f">%1$s down</string>
+    <string name="scroll_down">Scroll down</string>
+    <string name="scroll_up">Scroll up</string>
+    <string name="up_f">%1$s up</string>
+    <string name="condition_nav_bar_showing">Navigation bar showing</string>
+    <string name="condition_status_bar_showing">Status bar showing</string>
+    <string name="state_exit_full_screen">Exit full screen</string>
+    <string name="state_full_screen">Full screen</string>
+    <string name="state_nav_bar_hidden">Navigation bar hidden</string>
+    <string name="state_nav_bar_shown">Navigation bar shown</string>
+    <string name="state_status_bar_hidden">Status bar hidden</string>
+    <string name="state_status_bar_shown">Status bar shown</string>
 
 </resources>

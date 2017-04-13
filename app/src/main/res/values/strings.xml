@@ -4,8 +4,8 @@
 <resources>
 
     <!-- add translator name here if you want, like: -->
-    <!--<string name="about_description">Developer: jozein@XDA\nTranslator: your name</string>-->
-    <string name="about_description">Developer: jozein@XDA</string>
+    <!--<string name="about_description">Developer: jozein\nTranslator: your name</string>-->
+    <string name="about_description">Developer: jozein</string>
 
     <string name="app_name">Xposed edge</string>
     <string name="app_name_pro">Xposed edge pro</string>
@@ -141,8 +141,8 @@
     <string name="action_sync">Sync</string>
     <string name="action_wifi_ap">Wifi AP</string>
     <string name="action_airplane_mode">Airplane mode</string>
-    <string name="action_immersive_nav_bar">Immersive navigation bar</string>
-    <string name="action_immersive_status_bar">Immersive status bar</string>
+    <string name="action_immersive_nav_bar">Hide navigation bar</string>
+    <string name="action_immersive_status_bar">Show status bar</string>
     <string name="action_keep_screen_on">Stay awake</string>
     <string name="action_torch">Torch</string>
     <string name="action_screen_filter">Screen filter</string>
@@ -151,6 +151,7 @@
     <string name="action_key_enabled">Key enabled</string>
     <string name="action_rotate_screen">Rotate screen</string>
     <string name="action_dismiss_keyguard">Dismiss keyguard</string>
+    <string name="action_soft_keyboard">Soft keyboard</string>
     <string name="action_shortcuts_panel">Shortcuts panel</string>
     <string name="action_apps_drawer">Apps drawer</string>
     <string name="action_freezer_drawer">Freezer drawer</string>
@@ -167,6 +168,7 @@
     <string name="action_pie">Pie</string>
     <string name="action_slide_adjust">Slide adjust</string>
     <string name="action_gesture_pointer">Gesture pointer</string>
+    <string name="action_successive_adjust">Successive adjust</string>
     <string name="action_app">App</string>
     <string name="action_activity">Activity</string>
     <string name="action_shortcut">Shortcut</string>
@@ -209,17 +211,23 @@
 
     <string name="adjust_screen_filter_alpha">Screen filter alpha</string>
     <string name="adjust_brightness">Brightness</string>
-
-    <string name="volume_up">up</string>
-    <string name="volume_down">down</string>
-    <string name="volume_mute">mute</string>
-    <string name="volume_set_level">set level</string>
-
-    <string name="rotate_portrait">Rotate to portrait</string>
-    <string name="rotate_landscape">Rotate to landscape</string>
+    <string name="adjust_scroll">Scroll</string>
 
     <string name="scroll_to_top">Scroll to top</string>
     <string name="scroll_to_bottom">Scroll to bottom</string>
+    <string name="scroll_up">Scroll up</string>
+    <string name="scroll_down">Scroll down</string>
+
+    <string name="adjust_up">up</string>
+    <string name="adjust_down">down</string>
+    <string name="volume_mute">mute</string>
+    <string name="volume_set_level">set level</string>
+
+    <string name="up_f">%1$s up</string>
+    <string name="down_f">%1$s down</string>
+
+    <string name="rotate_portrait">Rotate to portrait</string>
+    <string name="rotate_landscape">Rotate to landscape</string>
 
     <string name="side_left">Left side</string>
     <string name="side_right">Right side</string>
@@ -228,6 +236,10 @@
 
     <string name="system_apps_drawer">System apps drawer</string>
     <string name="download_apps_drawer">Download apps drawer</string>
+
+    <string name="toggle_soft_keyboard">Toggle soft keyboard</string>
+    <string name="show_soft_keyboard">Show soft keyboard</string>
+    <string name="hide_soft_keyboard">Hide soft keyboard</string>
 
     <!-- conditional -->
     <string name="conditional">Conditional</string>
@@ -271,6 +283,8 @@
     <string name="condition_wifi_connected_to">Wifi connected to</string>
     <string name="condition_app_focused">App focused</string>
     <string name="condition_soft_keyboard_showing">Soft keyboard showing</string>
+    <string name="condition_status_bar_showing">Status bar showing</string>
+    <string name="condition_nav_bar_showing">Navigation bar showing</string>
 
     <string name="orientation_portrait">Portrait</string>
     <string name="orientation_landscape">Landscape</string>
@@ -306,8 +320,14 @@
     <string name="state_outgoing_call_dialed">Outgoing call dialed</string>
     <string name="state_outgoing_call_connected">Outgoing call connected</string>
     <string name="state_outgoing_call_ended">Outgoing call ended</string>
-    <string name="state_soft_keyboard_show">Soft keyboard show</string>
-    <string name="state_soft_keyboard_hide">Soft keyboard hide</string>
+    <string name="state_soft_keyboard_shown">Soft keyboard shown</string>
+    <string name="state_soft_keyboard_hidden">Soft keyboard hidden</string>
+    <string name="state_status_bar_shown">Status bar shown</string>
+    <string name="state_status_bar_hidden">Status bar hidden</string>
+    <string name="state_nav_bar_shown">Navigation bar shown</string>
+    <string name="state_nav_bar_hidden">Navigation bar hidden</string>
+    <string name="state_full_screen">Full screen</string>
+    <string name="state_exit_full_screen">Exit full screen</string>
 
     <!-- preferences -->
     <string name="theme">Theme</string>
@@ -326,7 +346,6 @@
     <string name="screen_filter_color">Screen filter color</string>
     <string name="panel_color">Panel color</string>p
     <string name="pie_color">Pie color</string>
-    <string name="pen_color">Pen color</string>
     <string name="pen_colors">Pen colors</string>
     <string name="sound_effect">Sound effect</string>
     <string name="vibrate_effect">Vibrate effect</string>
@@ -391,7 +410,7 @@
     <string name="add">Add…</string>
     <string name="app_started">started</string>
     <string name="app_stopped">stopped</string>
-    <string name="app_get_focus">get focus</string>
+    <string name="app_got_focus">got focus</string>
     <string name="app_lost_focus">lost focus</string>
     <string name="show_activities_exported_only">Show exported activities only</string>
     <string name="show_all_activities">Show all activities(unsafe)</string>

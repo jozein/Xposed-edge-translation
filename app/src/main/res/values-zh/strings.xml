@@ -4,7 +4,7 @@
 <resources>
 
     <!-- add translator's name here -->
-    <string name="about_description">开发者：jozein@XDA</string>
+    <string name="about_description">开发者：jozein</string>
 
     <string name="app_name">Xposed edge</string>
     <string name="app_name_pro">Xposed edge pro</string>
@@ -31,7 +31,7 @@
 
     <string name="backup_restore">备份/导入</string>
     <string name="rate">评价</string>
-    <string name="get_pro_version">获取pro版</string>
+    <string name="get_pro_version">获取pro版（中国大陆需翻墙）</string>
     <string name="share">分享</string>
     <string name="help_and_support">帮助与支持</string>
     <string name="about">关于</string>
@@ -204,8 +204,8 @@
     <string name="adjust_screen_filter_alpha">屏幕过滤深浅</string>
     <string name="adjust_brightness">亮度</string>
 
-    <string name="volume_up">加</string>
-    <string name="volume_down">减</string>
+    <string name="adjust_up">加</string>
+    <string name="adjust_down">减</string>
     <string name="volume_mute">静音</string>
     <string name="volume_set_level">指定</string>
 
@@ -297,8 +297,8 @@
     <string name="state_outgoing_call_dialed">拨出电话</string>
     <string name="state_outgoing_call_connected">去电接通</string>
     <string name="state_outgoing_call_ended">去电结束</string>
-    <string name="state_soft_keyboard_show">输入法弹出</string>
-    <string name="state_soft_keyboard_hide">输入法隐藏</string>
+    <string name="state_soft_keyboard_shown">输入法弹出</string>
+    <string name="state_soft_keyboard_hidden">输入法隐藏</string>
 
     <!-- preferences -->
     <string name="theme">主题</string>
@@ -317,7 +317,6 @@
     <string name="screen_filter_color">屏幕过滤器颜色</string>
     <string name="panel_color">面板颜色</string>
     <string name="pie_color">Pie颜色</string>
-    <string name="pen_color">画笔颜色</string>
     <string name="sound_effect">声音效果</string>
     <string name="vibrate_effect">振动效果</string>
     <string name="vibrate_strength">振动强度</string>
@@ -383,7 +382,7 @@
     <string name="add">添加…</string>
     <string name="app_started">运行</string>
     <string name="app_stopped">结束</string>
-    <string name="app_get_focus">获得焦点</string>
+    <string name="app_got_focus">获得焦点</string>
     <string name="app_lost_focus">失去焦点</string>
     <string name="show_activities_exported_only">仅显示导出的活动</string>
     <string name="show_all_activities">显示全部活动（不安全）</string>
@@ -478,6 +477,24 @@
     <string name="edit">编辑</string>
     <string name="pen_colors">画笔颜色</string>
     <string name="invalid_color">无效颜色</string>
+    <string name="action_soft_keyboard">输入法</string>
+    <string name="hide_soft_keyboard">隐藏输入法</string>
+    <string name="show_soft_keyboard">显示输入法</string>
+    <string name="toggle_soft_keyboard">开关输入法</string>
+    <string name="action_successive_adjust">连续调节</string>
+    <string name="adjust_scroll">滚动</string>
+    <string name="down_f">%1$s减</string>
+    <string name="scroll_down">向下滚动</string>
+    <string name="scroll_up">向上滚动</string>
+    <string name="up_f">%1$s加</string>
+    <string name="condition_nav_bar_showing">导航栏显示</string>
+    <string name="condition_status_bar_showing">状态栏显示</string>
+    <string name="state_full_screen">全屏</string>
+    <string name="state_exit_full_screen">退出全屏</string>
+    <string name="state_nav_bar_hidden">导航栏隐藏</string>
+    <string name="state_nav_bar_shown">导航栏显示</string>
+    <string name="state_status_bar_hidden">状态栏隐藏</string>
+    <string name="state_status_bar_shown">状态栏显示</string>
 
 
 </resources>

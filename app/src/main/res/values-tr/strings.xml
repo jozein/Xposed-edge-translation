@@ -4,7 +4,7 @@
 <resources>
 
     <!-- add translator name here if you want -->
-    <string name="about_description">Geliştirici: jozein@XDA\Çevirmen: Fatih Fırıncı</string>
+    <string name="about_description">Geliştirici: jozein\nÇevirmen: Fatih Fırıncı</string>
 
     <string name="app_name">Xposed edge</string>
     <string name="app_name_pro">Xposed edge pro</string>
@@ -206,8 +206,8 @@
     <string name="adjust_screen_filter_alpha">Ekran filtresi alfa</string>
     <string name="adjust_brightness">Parlaklık</string>
 
-    <string name="volume_up">arttır</string>
-    <string name="volume_down">azalt</string>
+    <string name="adjust_up">arttır</string>
+    <string name="adjust_down">azalt</string>
     <string name="volume_mute">kıs</string>
     <string name="volume_set_level">düzeyi ayarla</string>
 
@@ -298,8 +298,8 @@
     <string name="state_outgoing_call_dialed">Giden arama çevrildi</string>
     <string name="state_outgoing_call_connected">Giden arama bağlandı</string>
     <string name="state_outgoing_call_ended">Giden arama sona erdi</string>
-    <string name="state_soft_keyboard_show">Yazılımsal klavye gösterildi</string>
-    <string name="state_soft_keyboard_hide">Yazılımsal klavye gizlendi</string>
+    <string name="state_soft_keyboard_shown">Yazılımsal klavye gösterildi</string>
+    <string name="state_soft_keyboard_hidden">Yazılımsal klavye gizlendi</string>
 
     <!-- preferences -->
     <string name="theme">Tema</string>
@@ -318,7 +318,6 @@
     <string name="screen_filter_color">Ekran filtresi rengi</string>
     <string name="panel_color">Panel rengi</string>p
     <string name="pie_color">Pasta dilimi rengi</string>
-    <string name="pen_color">Kalem rengi</string>
     <string name="sound_effect">Ses efekti</string>
     <string name="vibrate_effect">Titreşim efekti</string>
     <string name="vibrate_strength">Titreşim uzunluğu</string>
@@ -381,7 +380,7 @@
     <string name="add">Ekle…</string>
     <string name="app_started">başlatıldı</string>
     <string name="app_stopped">durduruldu</string>
-    <string name="app_get_focus">odaklan</string>
+    <string name="app_got_focus">odaklan</string>
     <string name="app_lost_focus">odağı kaybet</string>
     <string name="show_activities_exported_only">Yalnızca dışa aktarılan etkinlikleri göster</string>
     <string name="show_all_activities">Tüm etkinlikleri göster(güvenli değil)</string>
@@ -483,6 +482,24 @@
     <string name="edit">Edit</string>
     <string name="pen_colors">Pen colors</string>
     <string name="invalid_color">Invalid color</string>
+    <string name="action_soft_keyboard">Soft keyboard</string>
+    <string name="hide_soft_keyboard">Hide soft keyboard</string>
+    <string name="show_soft_keyboard">Show soft keyboard</string>
+    <string name="toggle_soft_keyboard">Toggle soft keyboard</string>
+    <string name="action_successive_adjust">Successive adjust</string>
+    <string name="adjust_scroll">Scroll</string>
+    <string name="down_f">%1$s down</string>
+    <string name="scroll_down">Scroll down</string>
+    <string name="scroll_up">Scroll up</string>
+    <string name="up_f">%1$s up</string>
+    <string name="condition_nav_bar_showing">Navigation bar showing</string>
+    <string name="condition_status_bar_showing">Status bar showing</string>
+    <string name="state_exit_full_screen">Exit full screen</string>
+    <string name="state_full_screen">Full screen</string>
+    <string name="state_nav_bar_hidden">Navigation bar hidden</string>
+    <string name="state_nav_bar_shown">Navigation bar shown</string>
+    <string name="state_status_bar_hidden">Status bar hidden</string>
+    <string name="state_status_bar_shown">Status bar shown</string>
 
 
 </resources>

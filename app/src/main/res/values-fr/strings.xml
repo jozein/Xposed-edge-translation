@@ -4,7 +4,7 @@
 <resources>
 
     <!-- add translator name here if you want -->
-    <string name="about_description">Développeur: jozein@XDA\nTraducteur: DThrawn / DeadneM(fr)</string>
+    <string name="about_description">Développeur: jozein\nTraducteur: DThrawn / DeadneM(fr)</string>
 
     <string name="app_name">Xposed edge</string>
     <string name="app_name_pro">Xposed edge pro</string>
@@ -207,8 +207,8 @@
     <string name="adjust_screen_filter_alpha">Filtre d\'écran (transparence)</string>
     <string name="adjust_brightness">Luminosité</string>
 
-    <string name="volume_up">plus</string>
-    <string name="volume_down">moins</string>
+    <string name="adjust_up">plus</string>
+    <string name="adjust_down">moins</string>
     <string name="volume_mute">muet</string>
     <string name="volume_set_level">Définir le niveau</string>
 
@@ -299,8 +299,8 @@
     <string name="state_outgoing_call_dialed">Appel sortant composé</string>
     <string name="state_outgoing_call_connected">Appel sortant décroché</string>
     <string name="state_outgoing_call_ended">Appel sortant raccroché</string>
-    <string name="state_soft_keyboard_show">Clavier est affiché</string>
-    <string name="state_soft_keyboard_hide">Clavier est caché</string>
+    <string name="state_soft_keyboard_shown">Clavier est affiché</string>
+    <string name="state_soft_keyboard_hidden">Clavier est caché</string>
 
     <!-- preferences -->
     <string name="theme">Theme</string>
@@ -318,7 +318,6 @@
     <string name="screen_filter_color">Couleur du filtre d\'écran</string>
     <string name="panel_color">Couleur du panneau</string>
     <string name="pie_color">Couleur des touches flottantes</string>
-    <string name="pen_color">Couleur du stylo</string>
     <string name="sound_effect">Effet sonore</string>
     <string name="vibrate_effect">Vibration</string>
     <string name="vibrate_strength">Temps de vibration</string>
@@ -381,7 +380,7 @@
     <string name="add">Ajouter</string>
     <string name="app_started">Démarrer</string>
     <string name="app_stopped">Stopper</string>
-    <string name="app_get_focus">Visible</string>
+    <string name="app_got_focus">Visible</string>
     <string name="app_lost_focus">Cacher</string>
     <string name="show_activities_exported_only">Afficher uniquement les activitées exporté par l\'application.</string>
     <string name="show_all_activities">Afficher toutes les activitèes (risqué!)</string>
@@ -451,7 +450,7 @@
     <string name="icon">Icône:</string>
     <string name="built_in">Icônes interne</string>
     <string name="gallery_apps">Gallerie</string>
-    <string name="app_icons">Icônes d'applications</string>
+    <string name="app_icons">Icônes d\'applications</string>
     <string name="saved_icons">Icônes sauvegardées</string>
     <string name="empty_as_default">Par défaut si laissé vide</string>
     <string name="only_if_keyguard_not_secure">Ignore le verrouillage s\'il n\'est pas securisé.</string>
@@ -482,6 +481,24 @@
 
     <string name="invalid_color">Invalid color</string>
     <string name="pen_colors">Pen colors</string>
+    <string name="action_soft_keyboard">Soft keyboard</string>
+    <string name="hide_soft_keyboard">Hide soft keyboard</string>
+    <string name="show_soft_keyboard">Show soft keyboard</string>
+    <string name="toggle_soft_keyboard">Toggle soft keyboard</string>
+    <string name="action_successive_adjust">Successive adjust</string>
+    <string name="adjust_scroll">Scroll</string>
+    <string name="down_f">%1$s down</string>
+    <string name="scroll_down">Scroll down</string>
+    <string name="scroll_up">Scroll up</string>
+    <string name="up_f">%1$s up</string>
+    <string name="condition_nav_bar_showing">Navigation bar showing</string>
+    <string name="condition_status_bar_showing">Status bar showing</string>
+    <string name="state_exit_full_screen">Exit full screen</string>
+    <string name="state_full_screen">Full screen</string>
+    <string name="state_nav_bar_hidden">Navigation bar hidden</string>
+    <string name="state_nav_bar_shown">Navigation bar shown</string>
+    <string name="state_status_bar_hidden">Status bar hidden</string>
+    <string name="state_status_bar_shown">Status bar shown</string>
 
 
 </resources>
