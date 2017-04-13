@@ -4,7 +4,7 @@
 <resources>
 
     <!-- add translator name here if you want -->
-    <string name="about_description">Développeur: jozein@XDA\nTraducteur: DThrawn / DeadneM(fr)</string>
+    <string name="about_description">Développeur: jozein\nTraducteur: DThrawn / DeadneM(fr)</string>
 
     <string name="app_name">Xposed edge</string>
     <string name="app_name_pro">Xposed edge pro</string>
