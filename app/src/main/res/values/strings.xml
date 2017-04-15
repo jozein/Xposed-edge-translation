@@ -152,6 +152,7 @@
     <string name="action_rotate_screen">Rotate screen</string>
     <string name="action_dismiss_keyguard">Dismiss keyguard</string>
     <string name="action_soft_keyboard">Soft keyboard</string>
+    <string name="action_content">Edit</string>
     <string name="action_shortcuts_panel">Shortcuts panel</string>
     <string name="action_apps_drawer">Apps drawer</string>
     <string name="action_freezer_drawer">Freezer drawer</string>
@@ -169,11 +170,13 @@
     <string name="action_slide_adjust">Slide adjust</string>
     <string name="action_gesture_pointer">Gesture pointer</string>
     <string name="action_successive_adjust">Successive adjust</string>
+    <string name="action_adjust">Adjust</string>
     <string name="action_app">App</string>
     <string name="action_activity">Activity</string>
     <string name="action_shortcut">Shortcut</string>
     <string name="action_command">Shell command</string>
     <string name="action_delay">Delay</string>
+    <string name="action_set_variable">Set variable</string>
     <string name="action_conditional">Conditional</string>
     <string name="action_multi_action">Multi-action</string>
     <string name="action_saved_multi_action">Saved multi-action</string>
@@ -218,10 +221,13 @@
     <string name="scroll_up">Scroll up</string>
     <string name="scroll_down">Scroll down</string>
 
+    <string name="caret_left">Cursor left shift</string>
+    <string name="caret_right">Cursor right shift</string>
+
     <string name="adjust_up">up</string>
     <string name="adjust_down">down</string>
-    <string name="volume_mute">mute</string>
-    <string name="volume_set_level">set level</string>
+    <string name="mute">mute</string>
+    <string name="set_level">set level</string>
 
     <string name="up_f">%1$s up</string>
     <string name="down_f">%1$s down</string>
@@ -285,6 +291,7 @@
     <string name="condition_soft_keyboard_showing">Soft keyboard showing</string>
     <string name="condition_status_bar_showing">Status bar showing</string>
     <string name="condition_nav_bar_showing">Navigation bar showing</string>
+    <string name="condition_variable">Variable</string>
 
     <string name="orientation_portrait">Portrait</string>
     <string name="orientation_landscape">Landscape</string>
@@ -340,6 +347,7 @@
     <string name="gesture_long_press_timeout">Gesture long press timeout</string>
     <string name="key_double_click_timeout">Double click timeout</string>
     <string name="key_long_click_timeout">Long click timeout</string>
+    <string name="scroll_speed">Scrolling speed of successive adjust</string>
     <string name="gesture_pointer_scale">Gesture pointer scale</string>
     <string name="gesture_pointer_reverse_order">Reverse gesture order of gesture pointer</string>
     <string name="gesture_pointer_color">Gesture pointer color</string>
@@ -453,8 +461,6 @@
     <string name="app_may_not_has_default_activity">App may not has default activity</string>
     <string name="low_priority">Low priority</string>
     <string name="perform_failed">Failed to perform:&#160;</string>
-    <string name="no_alarm">No alarm.</string>
-    <string name="next_alarm">Next alarm</string>
     <string name="click_to_continue">Click to continue…</string>
     <string name="backups">Backups</string>
     <string name="import_from_free_version">Import from free version</string>
@@ -486,6 +492,14 @@
     <string name="saved_icons">Saved icons</string>
     <string name="empty_as_default">Empty as default</string>
     <string name="only_if_keyguard_not_secure">Dismiss keyguard only if keyguard not secure.</string>
+    <string name="no_alarm">No alarm.</string>
+    <string name="next_alarm">Next alarm</string>
+    <string name="as_week">As week</string>
+    <string name="as_date">As date</string>
+    <string name="modify_months">Modify months</string>
+    <string name="modify_days_of_month">Modify days of months</string>
+    <string name="show_value">Show value</string>
+    <string name="variable_hint" formatted="false"><![CDATA[Variable:\n  32 bit signed integer.\nSupported operators:\n  +, -, *, /, %, <<, >>, &, ^, |, ~, ++, --.\n  Same as C/C++/Java…\nExample:\n  (var + 1) % 2]]></string>
 
     <!-- help -->
     <string name="help_how_to_set">How to set(click to learn):</string>
@@ -502,6 +516,7 @@
 
     <!-- untranslatable -->
     <string name="description" translatable="false">This module provides you system level controls and actions. Remap gesture, keys, phone state, etc…, to trigger actions you want.</string>
+    <string name="adjust_caret">Cursor</string>
 
 </resources>
 

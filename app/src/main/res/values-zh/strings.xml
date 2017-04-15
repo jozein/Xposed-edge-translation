@@ -31,7 +31,7 @@
 
     <string name="backup_restore">备份/导入</string>
     <string name="rate">评价</string>
-    <string name="get_pro_version">获取pro版（中国大陆需翻墙）</string>
+    <string name="get_pro_version">获取pro版（Google play）</string>
     <string name="share">分享</string>
     <string name="help_and_support">帮助与支持</string>
     <string name="about">关于</string>
@@ -206,8 +206,8 @@
 
     <string name="adjust_up">加</string>
     <string name="adjust_down">减</string>
-    <string name="volume_mute">静音</string>
-    <string name="volume_set_level">指定</string>
+    <string name="mute">静音</string>
+    <string name="set_level">指定</string>
 
     <string name="rotate_portrait">转至竖屏</string>
     <string name="rotate_landscape">转至横屏</string>
@@ -495,6 +495,20 @@
     <string name="state_nav_bar_shown">导航栏显示</string>
     <string name="state_status_bar_hidden">状态栏隐藏</string>
     <string name="state_status_bar_shown">状态栏显示</string>
+    <string name="as_date">按日期</string>
+    <string name="as_week">按星期</string>
+    <string name="modify_months">修改月</string>
+    <string name="modify_days_of_month">修改日</string>
+    <string name="action_content">编辑</string>
+    <string name="adjust_caret">光标</string>
+    <string name="caret_left">光标左移</string>
+    <string name="caret_right">光标右移</string>
+    <string name="action_set_variable">设置变量</string>
+    <string name="condition_variable">变量</string>
+    <string name="show_value">显示变量值</string>
+    <string name="action_adjust">调节</string>
+    <string name="scroll_speed">持续调节中的滚动速度</string>
+    <string name="variable_hint" formatted="false"><![CDATA[变量：\n  32位有符号整数。\n支持的操作符：\n  +, -, *, /, %, <<, >>, &, ^, |, ~, ++, --。\n  同C/C++/Java…\n例子：\n  (var + 1) % 2]]></string>
 
 
 </resources>

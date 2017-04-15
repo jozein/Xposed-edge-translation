@@ -208,8 +208,8 @@
 
     <string name="adjust_up">arttır</string>
     <string name="adjust_down">azalt</string>
-    <string name="volume_mute">kıs</string>
-    <string name="volume_set_level">düzeyi ayarla</string>
+    <string name="mute">kıs</string>
+    <string name="set_level">düzeyi ayarla</string>
 
     <string name="rotate_portrait">Dikeye döndür</string>
     <string name="rotate_landscape">Yataya döndür</string>
@@ -425,7 +425,7 @@
     <string name="click_to_continue">Devam etmek için tıklayın…</string>
     <string name="backups">Yedekler</string>
     <string name="import_from_free_version">Ücretsiz sürümden içe aktar</string>
-    <string name="check_import_from_free_version">Ücretsiz sürümden içe aktarılacak. Devam etmek istediğiniz emin misiniz?</string>
+    <string name="check_import_from_free_version">Ücretsiz sürümden içe aktarılacak. Devam etmek istediğinize emin misiniz?</string>
     <string name="add_backup">Yedek ekle</string>
     <string name="restore">İçe aktar</string>
     <string name="backups_path">Yedekleme yolu</string>
@@ -470,36 +470,50 @@
     <!-- untranslatable -->
     <!--<string name="description" translatable="false">Bu modül size sistem düzeyinde kontroller ve eylemler sunar. İstediğiniz eylemleri tetiklemek için hareketi, tuşları, telefon durumunu, vb…, yeniden eşleştirin.</string>-->
 
+    <string name="condition_soft_keyboard_showing">Yazılımsal klavye gösteriliyor</string>
+    <string name="action_refreeze">Dondurucudaki uygulamaları yeniden dondur</string>
+    <string name="light_gray_theme">Açık gri</string>
+    <string name="insert">Ekle</string>
+    <string name="action_custom_panel">Özel panel</string>
+    <string name="custom_panels">Özel paneller</string>
+    <string name="download_apps_drawer">İndirilen uygulamalar çekmecesi</string>
+    <string name="system_apps_drawer">Sistem uygulamaları çekmecesi</string>
+    <string name="edit">Düzenle</string>
+    <string name="pen_colors">Kalem renkleri</string>
+    <string name="invalid_color">Geçersiz renk</string>
+    <string name="action_soft_keyboard">Yazılımsal klavye</string>
+    <string name="hide_soft_keyboard">Yazılımsal klavyeyi gizle</string>
+    <string name="show_soft_keyboard">Yazılımsal klavyeyi göster</string>
+    <string name="toggle_soft_keyboard">Yazılımsal klavyeyi gizle/göster</string>
+    <string name="action_successive_adjust">Ardışık ayarlama</string>
+    <string name="adjust_scroll">Kaydırma</string>
+    <string name="down_f">%1$s aşagı</string>
+    <string name="scroll_down">Aşağı kaydır</string>
+    <string name="scroll_up">Yukarı kaydır</string>
+    <string name="up_f">%1$s yukarı</string>
+    <string name="condition_nav_bar_showing">Gezinti çubuğu gösteriliyor</string>
+    <string name="condition_status_bar_showing">Durum çubuğu gösteriliyor</string>
+    <string name="state_exit_full_screen">Tam ekrandan çık</string>
+    <string name="state_full_screen">Tam ekran</string>
+    <string name="state_nav_bar_hidden">Gezinti çubuğu gizlendi</string>
+    <string name="state_nav_bar_shown">Gezinti çubuğu gösterildi</string>
+    <string name="state_status_bar_hidden">Durum çubuğu gizlendi</string>
+    <string name="state_status_bar_shown">Durum çubuğu gösterildi</string>
 
-    <string name="condition_soft_keyboard_showing">Soft keyboard showing</string>
-    <string name="action_refreeze">Refreeze apps in freezer</string>
-    <string name="light_gray_theme">Light gray</string>
-    <string name="insert">Insert</string>
-    <string name="action_custom_panel">Custom panel</string>
-    <string name="custom_panels">Custom panels</string>
-    <string name="download_apps_drawer">Download apps drawer</string>
-    <string name="system_apps_drawer">System apps drawer</string>
-    <string name="edit">Edit</string>
-    <string name="pen_colors">Pen colors</string>
-    <string name="invalid_color">Invalid color</string>
-    <string name="action_soft_keyboard">Soft keyboard</string>
-    <string name="hide_soft_keyboard">Hide soft keyboard</string>
-    <string name="show_soft_keyboard">Show soft keyboard</string>
-    <string name="toggle_soft_keyboard">Toggle soft keyboard</string>
-    <string name="action_successive_adjust">Successive adjust</string>
-    <string name="adjust_scroll">Scroll</string>
-    <string name="down_f">%1$s down</string>
-    <string name="scroll_down">Scroll down</string>
-    <string name="scroll_up">Scroll up</string>
-    <string name="up_f">%1$s up</string>
-    <string name="condition_nav_bar_showing">Navigation bar showing</string>
-    <string name="condition_status_bar_showing">Status bar showing</string>
-    <string name="state_exit_full_screen">Exit full screen</string>
-    <string name="state_full_screen">Full screen</string>
-    <string name="state_nav_bar_hidden">Navigation bar hidden</string>
-    <string name="state_nav_bar_shown">Navigation bar shown</string>
-    <string name="state_status_bar_hidden">Status bar hidden</string>
-    <string name="state_status_bar_shown">Status bar shown</string>
+    <string name="as_date">As date</string>
+    <string name="as_week">As week</string>
+    <string name="modify_days_of_month">Modify days of months</string>
+    <string name="modify_months">Modify months</string>
+    <string name="action_content">Edit</string>
+    <string name="adjust_caret">Cursor</string>
+    <string name="caret_left">Cursor left shift</string>
+    <string name="caret_right">Cursor right shift</string>
+    <string name="action_set_variable">Set variable</string>
+    <string name="condition_variable">Variable</string>
+    <string name="show_value">Show variable</string>
+    <string name="action_adjust">Adjust</string>
+    <string name="scroll_speed">Scrolling speed of successive adjust</string>
+    <string name="variable_hint" formatted="false"><![CDATA[Variable:\n  32 bit signed integer.\nSupported operators:\n  +, -, *, /, %, <<, >>, &, ^, |, ~, ++, --.\n  Same as C/C++/Java…\nExample:\n  (var + 1) % 2]]></string>
 
 
 </resources>

@@ -400,8 +400,8 @@
     <string name="visit_xda_thread">Посетить форум XDA</string>
     <string name="visual_effect">Визуальный эффект</string>
     <string name="adjust_down">вниз</string>
-    <string name="volume_mute">без звука</string>
-    <string name="volume_set_level">установить уровень громкости</string>
+    <string name="mute">без звука</string>
+    <string name="set_level">установить уровень громкости</string>
     <string name="volume_stream_alarm">Громкость</string>
     <string name="volume_stream_bluetooth_sco">Громкость Bluetooth</string>
     <string name="volume_stream_default">Громкость по умолчанию</string>
@@ -421,37 +421,52 @@
     <!-- untranslatable -->
     <!--<string name="description">Этот модуль предоставляет средства управления и действия на уровне системы. Переоформления жеста, ключи, состояние телефона, и т.д ..., чтобы вызвать действия, которые хотите.</string>-->
 
+    <string name="gesture_pointer_reverse_order">Обратный порядок жестов указателя</string>
+    <string name="condition_soft_keyboard_showing">Отображение клавиатуры</string>
+    <string name="action_refreeze">Перезаморозить замороженные приложения</string>
+    <string name="light_gray_theme">Светло-серая тема</string>
+    <string name="insert">Вставка</string>
+    <string name="action_custom_panel">Настраиваемая панель</string>
+    <string name="custom_panels">Пользовательские панели</string>
+    <string name="download_apps_drawer">Загрузка драйвера приложений</string>
+    <string name="system_apps_drawer">Драйвера системных приложений</string>
+    <string name="edit">Редактировать</string>
+    <string name="pen_colors">Цвет пера</string>
+    <string name="invalid_color">Недопустимый цвет</string>
+    <string name="action_soft_keyboard">Програмная Клавиатура</string>
+    <string name="hide_soft_keyboard">Скрыть программную клавиатуру</string>
+    <string name="show_soft_keyboard">Показать програмную клавиатуру</string>
+    <string name="toggle_soft_keyboard">Включить програмную клавиатуру</string>
+    <string name="action_successive_adjust">Последовательная корректировка</string>
+    <string name="adjust_scroll">Прокрутка</string>
+    <string name="down_f">%1$s вниз</string>
+    <string name="scroll_down">Прокрутить вниз</string>
+    <string name="scroll_up">Прокрутить вверх</string>
+    <string name="up_f">%1$s вверх</string>
+    <string name="condition_nav_bar_showing">Отображение панели навигации</string>
+    <string name="condition_status_bar_showing">Отображение строки состояния</string>
+    <string name="state_exit_full_screen">Выйти из полноэкранного режима</string>
+    <string name="state_full_screen">Полноэкранный режим</string>
+    <string name="state_nav_bar_hidden">Скрытая панель навигации</string>
+    <string name="state_nav_bar_shown">Отображается навигационная панель</string>
+    <string name="state_status_bar_hidden">Строка состояния скрыта</string>
+    <string name="state_status_bar_shown">Строка состояния отображается</string>
 
-    <string name="gesture_pointer_reverse_order">Reverse gesture order of gesture pointer</string>
-    <string name="condition_soft_keyboard_showing">Soft keyboard showing</string>
-    <string name="action_refreeze">Refreeze apps in freezer</string>
-    <string name="light_gray_theme">Light gray</string>
-    <string name="insert">Insert</string>
-    <string name="action_custom_panel">Custom panel</string>
-    <string name="custom_panels">Custom panels</string>
-    <string name="download_apps_drawer">Download apps drawer</string>
-    <string name="system_apps_drawer">System apps drawer</string>
-    <string name="edit">Edit</string>
-    <string name="pen_colors">Pen colors</string>
-    <string name="invalid_color">Invalid color</string>
-    <string name="action_soft_keyboard">Soft keyboard</string>
-    <string name="hide_soft_keyboard">Hide soft keyboard</string>
-    <string name="show_soft_keyboard">Show soft keyboard</string>
-    <string name="toggle_soft_keyboard">Toggle soft keyboard</string>
-    <string name="action_successive_adjust">Successive adjust</string>
-    <string name="adjust_scroll">Scroll</string>
-    <string name="down_f">%1$s down</string>
-    <string name="scroll_down">Scroll down</string>
-    <string name="scroll_up">Scroll up</string>
-    <string name="up_f">%1$s up</string>
-    <string name="condition_nav_bar_showing">Navigation bar showing</string>
-    <string name="condition_status_bar_showing">Status bar showing</string>
-    <string name="state_exit_full_screen">Exit full screen</string>
-    <string name="state_full_screen">Full screen</string>
-    <string name="state_nav_bar_hidden">Navigation bar hidden</string>
-    <string name="state_nav_bar_shown">Navigation bar shown</string>
-    <string name="state_status_bar_hidden">Status bar hidden</string>
-    <string name="state_status_bar_shown">Status bar shown</string>
+    <string name="as_date">As date</string>
+    <string name="as_week">As week</string>
+    <string name="modify_days_of_month">Modify days of months</string>
+    <string name="modify_months">Modify months</string>
+    <string name="action_content">Edit</string>
+    <string name="adjust_caret">Cursor</string>
+    <string name="caret_left">Cursor left shift</string>
+    <string name="caret_right">Cursor right shift</string>
+    <string name="action_set_variable">Set variable</string>
+    <string name="condition_variable">Variable</string>
+    <string name="show_value">Show variable</string>
+    <string name="action_adjust">Adjust</string>
+    <string name="scroll_speed">Scrolling speed of successive adjust</string>
+    <string name="variable_hint" formatted="false"><![CDATA[Variable:\n  32 bit signed integer.\nSupported operators:\n  +, -, *, /, %, <<, >>, &, ^, |, ~, ++, --.\n  Same as C/C++/Java…\nExample:\n  (var + 1) % 2]]></string>
+
 
 
 </resources>
