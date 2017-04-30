@@ -513,7 +513,8 @@
     <string name="show_value">Show variable</string>
     <string name="action_adjust">Adjust</string>
     <string name="scroll_speed">Scrolling speed of successive adjust</string>
-    <string name="variable_hint" formatted="false"><![CDATA[Variable:\n  32 bit signed integer.\nSupported operators:\n  +, -, *, /, %, <<, >>, &, ^, |, ~, ++, --.\n  Same as C/C++/Java…\nExample:\n  (var + 1) % 2]]></string>
+    <string name="variable_name_hint">Variable name contains letters, numbers, _ and $, not start with number.</string>
+    <string name="variable_expression_hint" formatted="false"><![CDATA[Variable:\n  32 bit signed integer.\nSupported operators:\n  +, -, *, /, %, <<, >>, &, ^, |, ~, ++, --.\n  Same as C/C++/Java…\nExample:\n  (var + 1) % 2]]></string>
 
 
 </resources>
