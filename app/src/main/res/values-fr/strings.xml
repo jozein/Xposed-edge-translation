@@ -18,15 +18,15 @@
     <string name="shortcuts_panel">Panneau de raccourcis</string>
     <string name="left_side_bar">Barre latérale gauche</string>
     <string name="right_side_bar">Barre latérale droite</string>
-    <string name="schedule">Règles automatiques</string>
-    <string name="app_state">Etat des applications</string>
-    <string name="more_triggers">Actions automatiques</string>
-    <string name="gesture_records">Simmulateur de gestes</string>
-    <string name="saved_multi_actions">Multi-actions</string>
+    <string name="schedule">Règles automatiques - Temps</string>
+    <string name="app_state">Règles automatiques - Applis</string>
+    <string name="more_triggers">Règles automatiques - Etat</string>
+    <string name="gesture_records">Simulateur de gestes</string>
+    <string name="saved_multi_actions">Collections multi-actions</string>
     <string name="action_collection">Collections d\'actions</string>
     <string name="freezer">Freezer d\'applications</string>
-    <string name="hidden_apps">Cacher applis de l\écran d\'acceuil</string>
-    <string name="preferences">Préférences</string>
+    <string name="hidden_apps">Cacher applis de l\'écran d\'acceuil</string>
+    <string name="preferences">Paramètres</string>
     <string name="more">Plus</string>
 
     <string name="backup_restore">Sauvegarder/restaurer</string>
@@ -121,12 +121,12 @@
     <string name="action_reboot">Redémarrer</string>
     <string name="action_soft_reboot">Redémarrage software</string>
     <string name="action_shutdown">Eteindre</string>
-    <string name="action_last_app">Dernière app</string>
+    <string name="action_last_app">Dernière appli</string>
     <string name="action_previous_app">Appli précèdente</string>
     <string name="action_next_app">Appli suivante</string>
     <string name="action_kill_foreground_app">Arrêter appli au premier plan</string>
     <string name="action_kill_app">Arrêter une appli</string>
-    <string name="action_app_option_menu">Menu d\'applictions</string>
+    <string name="action_app_option_menu">Menu d\'applications</string>
     <string name="action_clear_background_apps">Arrêter applis en arrière plan</string>
     <string name="action_location">Localisation</string>
     <string name="action_ringer_mode">Mode de sonnerie </string>
@@ -147,14 +147,14 @@
     <string name="action_gesture_record">Enregistrer gestes</string>
     <string name="action_gesture_enabled">Gestes</string>
     <string name="action_key_enabled">Touches physique</string>
-    <string name="action_rotate_screen">Rotation d\écran</string>
+    <string name="action_rotate_screen">Rotation d\'écran</string>
     <string name="action_dismiss_keyguard">Ecran de verrouillage</string>
     <string name="action_shortcuts_panel">Panneau de raccourcis</string>
     <string name="action_apps_drawer">Tiroir d\'applications</string>
     <string name="action_freezer_drawer">Tiroir d\'applis congelés</string>
     <string name="action_running_apps_drawer">Tiroir d\'appli en cours</string>
     <string name="action_side_bar">Barre latérale</string>
-    <string name="action_inject_key_event">Simuler touches de clavier</string>
+    <string name="action_inject_key_event">Simuler touche de clavier</string>
     <string name="action_inject_gesture">Ajouter un geste</string>
     <string name="action_inject_text">Ajouter texte</string>
     <string name="action_notify">Créer une notification</string>
@@ -181,10 +181,10 @@
     <!-- %1$s: action label -->
     <string name="turn_on_f">Activer %1$s</string>
     <string name="turn_off_f">Désactiver %1$s</string>
-    <string name="on_f">%1$s Marche</string>
-    <string name="off_f">%1$s Arrêt</string>
+    <string name="on_f">%1$s ON</string>
+    <string name="off_f">%1$s OFF</string>
 
-    <string name="sub_action_switch">Changer</string>
+    <string name="sub_action_switch">Alterner</string>
     <string name="sub_action_sleep">Mettre en veille</string>
     <string name="sub_action_wake_up">Réveiller</string>
 
@@ -207,8 +207,8 @@
     <string name="adjust_screen_filter_alpha">Filtre d\'écran (transparence)</string>
     <string name="adjust_brightness">Luminosité</string>
 
-    <string name="mute">muet</string>
-    <string name="set_level">Définir le niveau</string>
+    <string name="volume_mute">muet</string>
+    <string name="volume_set_level">Définir le niveau</string>
 
     <string name="rotate_portrait">Rotation en portrait</string>
     <string name="rotate_landscape">Rotation en paysage</string>
@@ -271,10 +271,10 @@
     <string name="state_boot_completed">Au démarrage</string>
     <string name="state_screen_on">Ecran allumé</string>
     <string name="state_screen_off">Ecran éteint</string>
-    <string name="state_user_present">Déverouillé</string>
+    <string name="state_user_present">Ecran déverrouillé</string>
     <string name="state_battery_full">Batterie chargé</string>
     <string name="state_battery_low">Batterie faible</string>
-    <string name="state_battery_okay">Batterie</string>
+    <string name="state_battery_okay">Sur la batterie</string>
     <string name="state_power_connected">Chargeur branché</string>
     <string name="state_power_disconnected">Chargeur débranché</string>
     <string name="state_wifi_connected">Wifi connecté</string>
@@ -302,9 +302,9 @@
     <string name="theme">Theme</string>
     <string name="edge_width">largeur du déclenchement des gestes</string>
     <string name="edge_height">Hauteur du déclenchement des gestes</string>
-    <string name="swipe_triggers_after_finger_upped">Executer le geste après relachement du doigt</string>
-    <string name="distance_to_trigger_swipe">Distance du balayage pour activer</string>
-    <string name="disable_gesture_on_soft_keyboard">Désactiver les gestes quand le clavier est actif</string>
+    <string name="swipe_triggers_after_finger_upped">Executer le geste après \n relachement du doigt</string>
+    <string name="distance_to_trigger_swipe">Distance à parcourir pour executer</string>
+    <string name="disable_gesture_on_soft_keyboard">Désactiver les gestes avec le clavier</string>
     <string name="gesture_double_tap_timeout">Délais double appuis</string>
     <string name="gesture_long_press_timeout">Délais appuis long</string>
     <string name="key_double_click_timeout">Délais double clic</string>
@@ -317,15 +317,15 @@
     <string name="sound_effect">Effet sonore</string>
     <string name="vibrate_effect">Vibration</string>
     <string name="vibrate_strength">Temps de vibration</string>
-    <string name="effect_only_screen_on">Son/vibration sur écran allumé seulement</string>
+    <string name="effect_only_screen_on">Son/vibration \n uniquement l\'écran allumé</string>
     <string name="toast_level">Niveau d\'affichage des notifications toast</string>
     <string name="visual_effect">Effet visuel</string>
     <string name="show_text_on_shortcut_panel">Voir texte sur le panneau de raccourci</string>
     <string name="show_text_on_side_bar">Voir texte sur barre latérale</string>
     <string name="show_text_on_other_drawers">Voir texte sur les autres tiroir d\'applis</string>
-    <string name="notify_for_actions">Notificatin pour ces actions</string>
-    <string name="auto_freeze_only_app_died">Congeler uniquement si l\'appli crash</string>
-    <string name="force_nav_bar_state">Forcer l\'état de la barre de navigation(après redémarrage)</string>
+    <string name="notify_for_actions">Notification pour ces actions</string>
+    <string name="auto_freeze_only_app_died">Freezer uniquement si l\'appli crash</string>
+    <string name="force_nav_bar_state">Forcer l\'état de la barre de navigation \n (après redémarrage)</string>
 
     <string name="dark_theme">Sombre</string>
     <string name="light_theme">Lumineux</string>
@@ -333,8 +333,8 @@
     <string name="gesture_recording">Enregistrer un geste</string>
     <string name="gesture_injecting">Ajouter un geste</string>
     <string name="both">Tous les deux</string>
-    <string name="important">Important</string>
-    <string name="general">Général</string>
+    <string name="important">Important uniquement</string>
+    <string name="general">Normal</string>
     <string name="verbose">Verbeux</string>
     <string name="as_default">Par défaut</string>
     <string name="system_default">Par défaut</string>
@@ -360,8 +360,8 @@
     <string name="stop_app">Stop</string>
     <string name="put_on_launcher">Raccourci sur écran d\'accueil</string>
     <string name="app_info">Info appli</string>
-    <string name="unfreeze">Décongeler app</string>
-    <string name="freeze">Congeler app</string>
+    <string name="unfreeze">Refreezer appli</string>
+    <string name="freeze">Freezer appli</string>
     <string name="code">Code:&#160;</string>
     <string name="click_a_key_to_add">Appuyer sur la touche que vous voulez ajouter.</string>
     <string name="keycode_overflow">Keycode dépasse le keycode max.</string>
@@ -374,9 +374,9 @@
     <string name="enable">Activer</string>
     <string name="disable">Désactiver</string>
     <string name="add">Ajouter</string>
-    <string name="app_started">Démarrer</string>
-    <string name="app_stopped">Stopper</string>
-    <string name="app_lost_focus">Cacher</string>
+    <string name="app_started">Démarrée</string>
+    <string name="app_stopped">Stoppée</string>
+    <string name="app_lost_focus">Cachée</string>
     <string name="show_activities_exported_only">Afficher uniquement les activitées exporté par l\'application.</string>
     <string name="show_all_activities">Afficher toutes les activitèes (risqué!)</string>
     <string name="check_clear_all">Etes vous sur de vouloir tout supprimer?</string>
@@ -401,7 +401,7 @@
     <string name="notification_hint">Contenu de la notification</string>
     <string name="wifi_ssid">SSID</string>
     <string name="speech_hint">Répéter le texte</string>
-    <string name="speech_description">%t: l\'heure.\n%w: jour de la semaine.\n%d: date.\nNote: Peut-être que vous devrez installer un moteur pour votre langue(Ex. Google TTS).</string>
+    <string name="speech_description">%t: Heure.\n%w: Jour de la semaine.\n%d: Date.\nNote: Peut-être que vous devrez installer un moteur pour votre langue(Ex. Google TTS).</string>
     <string name="command_hint">Ligne de commande pour développeur seulement</string>
     <string name="command_on_system_process">Activé comme processus système</string>
     <string name="su_not_supported_on_system">"su" Non pris en charge par le procéssus système.</string>
@@ -429,7 +429,7 @@
     <string name="permission_denied">Permission refusée!</string>
     <string name="memory_released_size_f">Memoire libérée: %1$dM.</string>
 
-    <!-- %1$s: �tiquette de l\'app -->
+    <!-- %1$s: Etiquette de l\'app -->
     <string name="app_frozen_f">Congelé: %1$s</string>
     <string name="app_thawed_f">Décongelé: %1$s</string>
     <string name="error_freeze_app_f">Echec du gel de l\'appli: %1$s</string>
@@ -451,69 +451,71 @@
     <string name="only_if_keyguard_not_secure">Ignore le verrouillage s\'il n\'est pas securisé.</string>
 
     <!-- help -->
-    <string name="help_how_to_set">Comment configurer (cliquer pour apprendre):</string>
+    <string name="help_how_to_set">Clique ici pour une démo:</string>
     <string name="help_item_0">- Cochez la case [Gestes] pour activer les gestes sur le bord de l\'écran.</string>
     <string name="help_item_1">- Appuyez sur [Gestes] pour paramétrer les gestes voulut.</string>
     <string name="help_item_2">- Cochez la case [Gauche centre] pour activer le bouton à gauche au centre.</string>
     <string name="help_item_3">- Appuyez sur  [Gauche centre] pour étendre les sous options.</string>
     <string name="help_item_4">- Appuyez sur [Glisser à droite] pour selectionner une action.</string>
     <string name="help_item_5">- Appuyez sur [Retour] pour selectionner cette action.</string>
-    <string name="help_item_6">- Maintenant, glisser depuis le bord gauche au centre, vers la droite. L\'action [Retour] seras éxecuté si le module est activé.</string>
+    <string name="help_item_6">- Maintenant, glisser depuis le bord gauche au centre, vers la droite. L\'action [Retour] seras éxecuté si [Gestes] est activé.</string>
 
     <string name="visit_xda_thread">Visitez le forum sur XDA</string>
-    <string name="add_translation_or_fix">Ajouter une traduction ou faire une correction</string>
-    <string name="gesture_pointer_reverse_order">Inverser l\'ordre des gestes du pointeur de geste</string>
+    <string name="add_translation_or_fix">Ajouter ou améliorer une traduction</string>
+
+    <string name="gesture_pointer_reverse_order">Inverser les gestes pointé</string>
     <string name="condition_soft_keyboard_showing">Clavier activé</string>
-    <string name="action_refreeze">Recongeler les applis dans le freezer d\'application</string>
+    <string name="action_refreeze">Refreezer les applis</string>
     <string name="light_gray_theme">Gris</string>
     <string name="insert">Insérer</string>
-    <string name="action_custom_panel">Personnaliser le panneau</string>
+    <string name="action_custom_panel">Panneau personnalisé</string>
     <string name="custom_panels">Panneau personnalisable</string>
     <string name="download_apps_drawer">Tiroir de téléchargement d\'applis</string>
     <string name="system_apps_drawer">Tiroir d\'applis système</string>
 
 
+
     <string name="action_soft_keyboard">Soft keyboard</string>
-    <string name="action_successive_adjust">Successive adjust</string>
+    <string name="action_successive_adjust">Ajustement successif</string>
     <string name="adjust_down">down</string>
     <string name="adjust_scroll">Scroll</string>
     <string name="adjust_up">up</string>
     <string name="app_got_focus">Visible</string>
-    <string name="condition_nav_bar_showing">Navigation bar showing</string>
-    <string name="condition_status_bar_showing">Status bar showing</string>
-    <string name="down_f">%1$s down</string>
+    <string name="condition_nav_bar_showing">Barre de navigation affichée</string>
+    <string name="condition_status_bar_showing">Barre d\'état affichée</string>
+    <string name="down_f">%1$s bas</string>
     <string name="edit">Edit</string>
-    <string name="hide_soft_keyboard">Hide soft keyboard</string>
-    <string name="invalid_color">Invalid color</string>
-    <string name="pen_colors">Pen colors</string>
-    <string name="scroll_down">Scroll down</string>
-    <string name="scroll_up">Scroll up</string>
-    <string name="show_soft_keyboard">Show soft keyboard</string>
-    <string name="state_exit_full_screen">Exit full screen</string>
-    <string name="state_full_screen">Full screen</string>
-    <string name="state_nav_bar_hidden">Navigation bar hidden</string>
-    <string name="state_nav_bar_shown">Navigation bar shown</string>
-    <string name="state_soft_keyboard_hidden">Clavier est caché</string>
-    <string name="state_soft_keyboard_shown">Clavier est affiché</string>
-    <string name="state_status_bar_hidden">Status bar hidden</string>
-    <string name="state_status_bar_shown">Status bar shown</string>
-    <string name="toggle_soft_keyboard">Toggle soft keyboard</string>
-    <string name="up_f">%1$s up</string>
-    <string name="as_date">As date</string>
-    <string name="as_week">As week</string>
-    <string name="modify_days_of_month">Modify days of months</string>
-    <string name="modify_months">Modify months</string>
-    <string name="action_content">Edit</string>
-    <string name="adjust_caret">Cursor</string>
-    <string name="caret_left">Cursor left shift</string>
-    <string name="caret_right">Cursor right shift</string>
-    <string name="action_set_variable">Set variable</string>
+    <string name="hide_soft_keyboard">Cacher le clavier</string>
+    <string name="invalid_color">Couleur invalide</string>
+    <string name="pen_colors">Couleurs du stylo</string>
+    <string name="scroll_down">Défilement bas</string>
+    <string name="scroll_up">Défilement haut</string>
+    <string name="show_soft_keyboard">Afficher le clavier</string>
+    <string name="state_exit_full_screen">Plein écran quitté</string>
+    <string name="state_full_screen">Plein écran</string>
+    <string name="state_nav_bar_hidden">Barre de navigation cachée</string>
+    <string name="state_nav_bar_shown">Barre de navigation affichée</string>
+    <string name="state_soft_keyboard_hidden">Clavier caché</string>
+    <string name="state_soft_keyboard_shown">Clavier affiché</string>
+    <string name="state_status_bar_hidden">Barre d\'état cachée</string>
+    <string name="state_status_bar_shown">Barre d\'état affichée</string>
+    <string name="toggle_soft_keyboard">Afficher/Cacher le clavier</string>
+    <string name="up_f">%1$s haut</string>
+    <string name="as_date">Par date précise</string>
+    <string name="as_week">Par jour de la semaine</string>
+    <string name="modify_days_of_month">Modifier jour du mois</string>
+    <string name="modify_months">Modifier mois</string>
+    <string name="action_content">Editer</string>
+    <string name="adjust_caret">Curseur</string>
+    <string name="caret_left">Curseur gauche</string>
+    <string name="caret_right">Curseur droit</string>
+    <string name="action_set_variable">Configurer variable</string>
     <string name="condition_variable">Variable</string>
-    <string name="show_value">Show variable</string>
+    <string name="show_value">Montrer variable</string>
     <string name="action_adjust">Ajuster</string>
-    <string name="scroll_speed">Scrolling speed of successive adjust</string>
-    <string name="variable_name_hint">Variable name contains letters, numbers, _ and $, not start with number.</string>
-    <string name="variable_expression_hint" formatted="false"><![CDATA[Variable:\n  32 bit signed integer.\nSupported operators:\n  +, -, *, /, %, <<, >>, &, ^, |, ~, ++, --.\n  Same as C/C++/Java…\nExample:\n  (var + 1) % 2]]></string>
+    <string name="scroll_speed">Vitesse de l\'ajustement successif</string>
+    <string name="variable_name_hint">Le nom des variables contient des lettres, nombres, _ et $, mais ne commence pas par un nombre.</string>
+    <string name="variable_expression_hint" formatted="false"><![CDATA[Variable:\n  32 bit signed integer.\nOpérateurs supportés:\n  +, -, *, /, %, <<, >>, &, ^, |, ~, ++, --.\n  Comme en C/C++/Java…\nExemple:\n  (var + 1) % 2]]></string>
 
 
 </resources>
