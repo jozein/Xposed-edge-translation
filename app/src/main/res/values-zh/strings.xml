@@ -1,6 +1,4 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- please save translation as utf-8 or utf-16(unicode) -->
-<!-- and send to jozein@sina.com  -->
 <resources>
 
     <!-- add translator's name here -->
@@ -508,8 +506,13 @@
     <string name="show_value">显示变量值</string>
     <string name="action_adjust">调节</string>
     <string name="scroll_speed">持续调节中的滚动速度</string>
+    <string name="input_expression">输入表达式</string>
     <string name="variable_name_hint">变量名可以包含：字母，数字，_和$，首字母不能为数字。</string>
     <string name="variable_expression_hint" formatted="false"><![CDATA[变量：\n  32位有符号整数。\n支持的操作符：\n  +, -, *, /, %, <<, >>, &, ^, |, ~, ++, --。\n  同C/C++/Java…\n例子：\n  (var + 1) % 2]]></string>
+    <string name="action_clipboard">剪贴板</string>
+    <string name="clip_history_size">剪贴板历史数量</string>
+    <string name="redo">重做</string>
+    <string name="undo">撤销</string>
 
 
 </resources>
