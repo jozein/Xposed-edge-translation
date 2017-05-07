@@ -1,6 +1,4 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- please save translation as utf-8 or utf-16(unicode) -->
-<!-- and send to jozein@sina.com  -->
 <resources>
 
     <!-- add translator name here if you want -->
@@ -206,9 +204,6 @@
 
     <string name="adjust_screen_filter_alpha">Filtre d\'écran (transparence)</string>
     <string name="adjust_brightness">Luminosité</string>
-
-    <string name="volume_mute">muet</string>
-    <string name="volume_set_level">Définir le niveau</string>
 
     <string name="rotate_portrait">Rotation en portrait</string>
     <string name="rotate_landscape">Rotation en paysage</string>
@@ -472,9 +467,6 @@
     <string name="custom_panels">Panneau personnalisable</string>
     <string name="download_apps_drawer">Tiroir de téléchargement d\'applis</string>
     <string name="system_apps_drawer">Tiroir d\'applis système</string>
-
-
-
     <string name="action_soft_keyboard">Soft keyboard</string>
     <string name="action_successive_adjust">Ajustement successif</string>
     <string name="adjust_down">down</string>
@@ -516,6 +508,14 @@
     <string name="scroll_speed">Vitesse de l\'ajustement successif</string>
     <string name="variable_name_hint">Le nom des variables contient des lettres, nombres, _ et $, mais ne commence pas par un nombre.</string>
     <string name="variable_expression_hint" formatted="false"><![CDATA[Variable:\n  32 bit signed integer.\nOpérateurs supportés:\n  +, -, *, /, %, <<, >>, &, ^, |, ~, ++, --.\n  Comme en C/C++/Java…\nExemple:\n  (var + 1) % 2]]></string>
+
+    <string name="action_clipboard">Clipboard</string>
+    <string name="input_expression">Input expression</string>
+    <string name="set_level">set level</string>
+    <string name="mute">muet</string>
+    <string name="clip_history_size">Clip history size</string>
+    <string name="redo">Redo</string>
+    <string name="undo">Undo</string>
 
 
 </resources>

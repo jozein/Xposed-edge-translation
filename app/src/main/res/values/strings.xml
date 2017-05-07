@@ -153,6 +153,7 @@
     <string name="action_dismiss_keyguard">Dismiss keyguard</string>
     <string name="action_soft_keyboard">Soft keyboard</string>
     <string name="action_content">Edit</string>
+    <string name="action_clipboard">Clipboard</string>
     <string name="action_shortcuts_panel">Shortcuts panel</string>
     <string name="action_apps_drawer">Apps drawer</string>
     <string name="action_freezer_drawer">Freezer drawer</string>
@@ -247,6 +248,9 @@
     <string name="toggle_soft_keyboard">Toggle soft keyboard</string>
     <string name="show_soft_keyboard">Show soft keyboard</string>
     <string name="hide_soft_keyboard">Hide soft keyboard</string>
+
+    <string name="undo">Undo</string>
+    <string name="redo">Redo</string>
 
     <!-- conditional -->
     <string name="conditional">Conditional</string>
@@ -349,6 +353,7 @@
     <string name="key_double_click_timeout">Double click timeout</string>
     <string name="key_long_click_timeout">Long click timeout</string>
     <string name="scroll_speed">Scrolling speed of successive adjust</string>
+    <string name="clip_history_size">Clip history size</string>
     <string name="gesture_pointer_scale">Gesture pointer scale</string>
     <string name="gesture_pointer_reverse_order">Reverse gesture order of gesture pointer</string>
     <string name="gesture_pointer_color">Gesture pointer color</string>
@@ -500,6 +505,7 @@
     <string name="modify_months">Modify months</string>
     <string name="modify_days_of_month">Modify days of months</string>
     <string name="show_value">Show value</string>
+    <string name="input_expression">Input expression</string>
     <string name="variable_name_hint">Variable name contains letters, numbers, _ and $, not start with number.</string>
     <string name="variable_expression_hint" formatted="false"><![CDATA[Variable:\n  32 bit signed integer.\nSupported operators:\n  +, -, *, /, %, <<, >>, &, ^, |, ~, ++, --.\n  Same as C/C++/Java…\nExample:\n  (var + 1) % 2]]></string>
 
