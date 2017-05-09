@@ -56,12 +56,12 @@
     <string name="edge_bottom">Borde inferior</string>
 
     <!-- keys -->
-    <string name="add_key">Agregar un nuevo botón…</string>
+    <string name="add_key">Agregar una nueva tecla…</string>
     <string name="key_power">Encendido</string>
     <string name="key_volume_up">Subir volumen</string>
     <string name="key_volume_down">Bajar volumen</string>
-    <string name="key_home">Home</string>
-    <string name="key_back">Regresar</string>
+    <string name="key_home">Inicio</string>
+    <string name="key_back">Atrás</string>
     <string name="key_menu">Menú</string>
     <string name="key_recent_apps">Aplicaciones recientes</string>
     <string name="key_headset_hook">Headset hook</string>
@@ -86,8 +86,8 @@
 
     <!-- pie item -->
     <!-- %1$d: item number -->
-    <string name="pie_level_1_item_index_f">Ítem nivel 1 %1$d</string>
-    <string name="pie_level_2_item_index_f">Ítem nivel 2 %1$d</string>
+    <string name="pie_level_1_item_index_f">Ítem nivel 1 - %1$d</string>
+    <string name="pie_level_2_item_index_f">Ítem nivel 2 - %1$d</string>
 
     <!-- shortcut penal -->
     <!-- %1$d: item number -->
@@ -96,16 +96,16 @@
 
     <!-- actions -->
     <string name="action_as_default">Defecto</string>
-    <string name="action_none">Ninguna</string>
+    <string name="action_none">Ninguno</string>
     <string name="action_back">Atrás</string>
-    <string name="action_home">Home</string>
+    <string name="action_home">Inicio</string>
     <string name="action_recent_apps">Aplicaciones recientes</string>
     <string name="action_menu">Menú</string>
-    <string name="action_sleep_wake">Dormir/despertar</string>
+    <string name="action_sleep_wake">Dormir/Despertar</string>
     <string name="action_volume_up">Subir volumen</string>
     <string name="action_volume_down">Bajar volumen</string>
     <string name="action_adjust_volume">Ajustar volumen</string>
-    <string name="action_media_play_pause">Reproducir/pausar</string>
+    <string name="action_media_play_pause">Reproducir/Pausar</string>
     <string name="action_media_stop">Detener</string>
     <string name="action_media_previous">Anterior</string>
     <string name="action_media_next">Siguiente</string>
@@ -122,33 +122,33 @@
     <string name="action_last_app">Última aplicación</string>
     <string name="action_previous_app">Aplicación anterior</string>
     <string name="action_next_app">Apliación siguiente</string>
-    <string name="action_kill_foreground_app">Detener aplicaciones en primer plano</string>
+    <string name="action_kill_foreground_app">Detener apps en primer plano</string>
     <string name="action_kill_app">Detener aplicación</string>
     <string name="action_app_option_menu">Menú de opciones de la aplicación</string>
-    <string name="action_clear_background_apps">Detener aplicaciones en segundo plano</string>
+    <string name="action_clear_background_apps">Detener apps en segundo plano</string>
     <string name="action_refreeze">Refreeze apps in freezer</string>
-    <string name="action_location">Modo de ubicación</string>
-    <string name="action_ringer_mode">Modo de timbre</string>
+    <string name="action_location">Modo ubicación</string>
+    <string name="action_ringer_mode">Modo timbre</string>
     <string name="action_auto_brightness">Brillo automático</string>
     <string name="action_auto_rotation">Rotación automática</string>
-    <string name="action_wifi">WIFI</string>
+    <string name="action_wifi">WiFi</string>
     <string name="action_mobile_data">Datos móviles</string>
     <string name="action_bluetooth">Bluetooth</string>
     <string name="action_nfc">NFC</string>
     <string name="action_sync">Sincronizar</string>
-    <string name="action_wifi_ap">Wifi AP</string>
+    <string name="action_wifi_ap">WiFi AP</string>
     <string name="action_airplane_mode">Modo avión</string>
     <string name="action_immersive_nav_bar">Ocultar barra de navegación</string>
     <string name="action_immersive_status_bar">Mostrar barra de estado</string>
-    <string name="action_keep_screen_on">Mantener despierto</string>
+    <string name="action_keep_screen_on">Mantener pantalla encendida</string>
     <string name="action_torch">Linterna</string>
     <string name="action_screen_filter">Filtro de pantalla</string>
     <string name="action_gesture_record">Grabador de gestos</string>
-    <string name="action_gesture_enabled">Gesto habilitado</string>
-    <string name="action_key_enabled">Botón habilitado</string>
+    <string name="action_gesture_enabled">Gestos habilitados</string>
+    <string name="action_key_enabled">Teclas habilitadas</string>
     <string name="action_rotate_screen">Rotar pantalla</string>
     <string name="action_dismiss_keyguard">Descartar bloqueo de teclado</string>
-    <string name="action_soft_keyboard">Soft keyboard</string>
+    <string name="action_soft_keyboard">Teclado</string>
     <string name="action_content">Editar</string>
     <string name="action_shortcuts_panel">Panel de accesos directos</string>
     <string name="action_apps_drawer">Cajón de aplicaciones</string>
@@ -157,12 +157,12 @@
     <string name="action_side_bar">Barra lateral</string>
     <string name="action_custom_panel">Panel personalizado</string>
     <string name="action_inject_key_event">Inject key event</string>
-    <string name="action_inject_gesture">Inject gesture</string>
-    <string name="action_inject_text">Inject text</string>
+    <string name="action_inject_gesture">Insertar gesto</string>
+    <string name="action_inject_text">Insertar texto</string>
     <string name="action_notify">Notificación</string>
     <string name="action_speech">Voz</string>
     <string name="action_read_clipboard">Leer texto del portapapeles</string>
-    <string name="action_pen">Pen</string>
+    <string name="action_pen">Bolígrafo</string>
     <string name="action_pie">Pie</string>
     <string name="action_slide_adjust">Slide adjust</string>
     <string name="action_gesture_pointer">Gesture pointer</string>
@@ -186,10 +186,10 @@
     <!-- %1$s: action label -->
     <string name="turn_on_f">Encender %1$s</string>
     <string name="turn_off_f">Apagar %1$s</string>
-    <string name="on_f">%1$s on</string>
-    <string name="off_f">%1$s off</string>
+    <string name="on_f">%1$s activado</string>
+    <string name="off_f">%1$s desactivado</string>
 
-    <string name="sub_action_switch">Interruptor</string>
+    <string name="sub_action_switch">Conmutar</string>
     <string name="sub_action_sleep">Dormir</string>
     <string name="sub_action_wake_up">Despertar</string>
 
@@ -198,20 +198,20 @@
     <string name="ringer_mode_normal">Modo normal</string>
 
     <string name="volume_stream_default">Volumen predeterminado</string>
-    <string name="volume_stream_voice_call">Volumen de la llamada de voz</string>
-    <string name="volume_stream_system">Volumen del sistema</string>
-    <string name="volume_stream_ring">Volumen del timbre</string>
-    <string name="volume_stream_music">Volumen de la música</string>
-    <string name="volume_stream_alarm">Volumen de la alarma</string>
-    <string name="volume_stream_notification">Volumen de notificación</string>
+    <string name="volume_stream_voice_call">Volumen de llamada de voz</string>
+    <string name="volume_stream_system">Volumen del sistema </string>
+    <string name="volume_stream_ring">Volumen timbre</string>
+    <string name="volume_stream_music">Volumen música</string>
+    <string name="volume_stream_alarm">Volumen alarma</string>
+    <string name="volume_stream_notification">Volumen notificación</string>
     <string name="volume_stream_bluetooth_sco">Volumen Bluetooth</string>
-    <string name="volume_stream_system_enforced">Volumen de aplicación del sistema</string>
-    <string name="volume_stream_dtmf">Volumen de tonos DTMF</string>
-    <string name="volume_stream_tts">Volumen de texto a voz</string>
+    <string name="volume_stream_system_enforced">Volumen de aplicación del sistema </string>
+    <string name="volume_stream_dtmf">Volumen de tonos DTMF </string>
+    <string name="volume_stream_tts">Volumen de texto a voz </string>
 
     <string name="adjust_screen_filter_alpha">Filtro de pantalla (alpha)</string>
     <string name="adjust_brightness">Brillo</string>
-    <string name="adjust_scroll">Scroll</string>
+    <string name="adjust_scroll">Desplazar</string>
     <string name="adjust_caret">Cursor</string>
 
     <string name="scroll_to_top">Desplazar al inicio</string>
@@ -230,8 +230,8 @@
     <string name="up_f">%1$s up</string>
     <string name="down_f">%1$s down</string>
 
-    <string name="rotate_portrait">Rotar a retrato</string>
-    <string name="rotate_landscape">Rotar a paisaje</string>
+    <string name="rotate_portrait">Rotar verticalmente</string>
+    <string name="rotate_landscape">Rotar horizontalmente</string>
 
     <string name="side_left">Lado izquierdo</string>
     <string name="side_right">Lado derecho</string>
@@ -241,15 +241,15 @@
     <string name="system_apps_drawer">Cajón de aplicaciones del sistema</string>
     <string name="download_apps_drawer">Cajón de aplicaciones descargadas</string>
 
-    <string name="toggle_soft_keyboard">Toggle soft keyboard</string>
-    <string name="show_soft_keyboard">Show soft keyboard</string>
-    <string name="hide_soft_keyboard">Hide soft keyboard</string>
+    <string name="toggle_soft_keyboard">Alternar teclado</string>
+    <string name="show_soft_keyboard">Mostrar teclado</string>
+    <string name="hide_soft_keyboard">Ocultar teclado</string>
 
     <!-- conditional -->
     <string name="conditional">Condicional</string>
-    <string name="conditional_if">if</string>
-    <string name="conditional_then">then</string>
-    <string name="conditional_else">else</string>
+    <string name="conditional_if">if (si)</string>
+    <string name="conditional_then">then (entonces)</string>
+    <string name="conditional_else">else (sino)</string>
 
     <!-- conditions -->
     <string name="condition_invalid">No válido</string>
@@ -266,25 +266,25 @@
     <string name="condition_bluetooth_on">Bluetooth activado</string>
     <string name="condition_nfc_on">NFC activado</string>
     <string name="condition_sync_on">Sincronización activada</string>
-    <string name="condition_wifi_ap_on">Wifi ap on</string>
+    <string name="condition_wifi_ap_on">WiFi AP activado</string>
     <string name="condition_airplane_mode_on">Modo avión activado</string>
     <string name="condition_gesture_enabled">Gestos habilitados</string>
     <string name="condition_key_enabled">Teclas habilitadas</string>
-    <string name="condition_power_connected">Power connected</string>
-    <string name="condition_wifi_connected">Wifi connected</string>
-    <string name="condition_net_connected">Net connected</string>
-    <string name="condition_headset_plugged">Headset plugged</string>
-    <string name="condition_usb_plugged">Usb plugged</string>
-    <string name="condition_music_active">Music active</string>
+    <string name="condition_power_connected">Cargador conectado</string>
+    <string name="condition_wifi_connected">WiFi conectado</string>
+    <string name="condition_net_connected">Red conectada</string>
+    <string name="condition_headset_plugged">Auricular enchufado</string>
+    <string name="condition_usb_plugged">USB enchufado</string>
+    <string name="condition_music_active">Música activa</string>
     <string name="condition_ringing">Ringing</string>
     <string name="condition_off_hook">Off hook</string>
-    <string name="condition_orientation">Orientation</string>
-    <string name="condition_battery_level">Battery level</string>
+    <string name="condition_orientation">Orientación</string>
+    <string name="condition_battery_level">Nivel de bateria</string>
     <string name="condition_time_period">Time period</string>
-    <string name="condition_in_days_of_week">In days of week</string>
-    <string name="condition_in_days_of_month">In days of month</string>
+    <string name="condition_in_days_of_week">En los días de la semana</string>
+    <string name="condition_in_days_of_month">En los días del mes</string>
     <string name="condition_in_months">In moths</string>
-    <string name="condition_wifi_connected_to">Wifi connected to</string>
+    <string name="condition_wifi_connected_to">WiFi conectado a</string>
     <string name="condition_app_focused">App focused</string>
     <string name="condition_soft_keyboard_showing">Soft keyboard showing</string>
     <string name="condition_status_bar_showing">Status bar showing</string>
@@ -298,7 +298,7 @@
     <!-- more triggers -->
     <string name="state_boot_completed">Arranque completo</string>
     <string name="state_screen_on">Pantalla activada</string>
-    <string name="state_screen_off">Pantalla activada</string>
+    <string name="state_screen_off">Pantalla desactivada</string>
     <string name="state_user_present">Keyguard dismissed</string>
     <string name="state_battery_full">Batería llena</string>
     <string name="state_battery_low">Batería baja</string>
@@ -309,15 +309,15 @@
     <string name="state_wifi_disconnected">WiFi desconectado</string>
     <string name="state_net_connected">Red conectada</string>
     <string name="state_net_disconnected">Red desconectada</string>
-    <string name="state_airplane_mode_on">Modo de avión activado</string>
-    <string name="state_airplane_mode_off">Modo de avión desactivado</string>
+    <string name="state_airplane_mode_on">Modo avión activado</string>
+    <string name="state_airplane_mode_off">Modo avión desactivado</string>
     <string name="state_headset_plugged">Auricular enchufado</string>
     <string name="state_headset_unplugged">Auricular desenchufado</string>
     <string name="state_usb_plugged">USB enchufado</string>
     <string name="state_usb_unplugged">USB desenchufado</string>
     <string name="state_screen_rotated">Pantalla rotada</string>
-    <string name="state_screen_rotated_portrait">Pantalla rotada a retrato</string>
-    <string name="state_screen_rotated_landscape">Pantalla rotada a paisaje</string>
+    <string name="state_screen_rotated_portrait">Pantalla rotada verticalmente</string>
+    <string name="state_screen_rotated_landscape">Pantalla rotada horizontalmente</string>
     <string name="state_sms_received">SMS recibido</string>
     <string name="state_incoming_call_ringed">Llamada entrante ringed</string>
     <string name="state_incoming_call_connected">Llamada entrante conectada</string>
