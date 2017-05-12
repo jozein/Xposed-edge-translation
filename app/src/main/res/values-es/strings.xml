@@ -285,10 +285,10 @@
     <string name="condition_in_days_of_month">En los días del mes</string>
     <string name="condition_in_months">In moths</string>
     <string name="condition_wifi_connected_to">WiFi conectado a</string>
-    <string name="condition_app_focused">App focused</string>
-    <string name="condition_soft_keyboard_showing">Soft keyboard showing</string>
-    <string name="condition_status_bar_showing">Status bar showing</string>
-    <string name="condition_nav_bar_showing">Navigation bar showing</string>
+    <string name="condition_app_focused">Aplicación enfocada</string>
+    <string name="condition_soft_keyboard_showing">Mostrando teclado</string>
+    <string name="condition_status_bar_showing">Mostrando barra de estado</string>
+    <string name="condition_nav_bar_showing">Mostrando barra de navegación</string>
     <string name="condition_variable">Variable</string>
 
     <string name="orientation_portrait">Retrato</string>
@@ -325,8 +325,8 @@
     <string name="state_outgoing_call_dialed">Llamada saliente marcada</string>
     <string name="state_outgoing_call_connected">Llamada saliente conectada</string>
     <string name="state_outgoing_call_ended">Llamada saliente finalizada</string>
-    <string name="state_soft_keyboard_shown">Teclado de software visible</string>
-    <string name="state_soft_keyboard_hidden">Teclado de software oculto</string>
+    <string name="state_soft_keyboard_shown">Teclado visible</string>
+    <string name="state_soft_keyboard_hidden">Teclado oculto</string>
     <string name="state_status_bar_shown">Barra de estado visible</string>
     <string name="state_status_bar_hidden">Barra de estado oculta</string>
     <string name="state_nav_bar_shown">Barra de navegación visible</string>
@@ -352,7 +352,7 @@
     <string name="screen_filter_color">Color del filtro de la pantalla</string>
     <string name="panel_color">Color del panel</string>p
     <string name="pie_color">Color del pie</string>
-    <string name="pen_colors">Pen colors</string>
+    <string name="pen_colors">Colores del bolígrafo</string>
     <string name="sound_effect">Efecto de sonido</string>
     <string name="vibrate_effect">Efecto de vibración</string>
     <string name="vibrate_strength">Vibrate strength</string>
@@ -372,10 +372,10 @@
     <string name="never">Nunca</string>
     <string name="gesture_recording">Gesture recording</string>
     <string name="gesture_injecting">Gesture injecting</string>
-    <string name="both">Both</string>
+    <string name="both">Ambos</string>
     <string name="important">Importante</string>
     <string name="general">General</string>
-    <string name="verbose">Verbose</string>
+    <string name="verbose">Detallado</string>
     <string name="as_default">Por defecto</string>
     <string name="system_default">as system default</string>
     <string name="force_no_nav_bar">Force no navigation bar</string>
@@ -433,8 +433,8 @@
     <string name="enter_duration">Ingrese duración</string>
     <string name="time_in_milliseconds">Tiempo en milisegundos</string>
     <string name="view">Ver</string>
-    <string name="move_up">Ascender</string>
-    <string name="move_down">Descender</string>
+    <string name="move_up">Subir</string>
+    <string name="move_down">Bajar</string>
     <string name="check_save_message">Desea guardar los cambios?</string>
     <string name="saved">Guardado</string>
     <string name="edit_action">Editar acción</string>
@@ -449,7 +449,7 @@
     <string name="command_hint">Comando Shell sólo para desarroladores</string>
     <string name="command_on_system_process">Runs on system process</string>
     <string name="su_not_supported_on_system">"su" not supported to run on system process.</string>
-    <string name="run_command_failed">Failed to ru command:&#160;</string>
+    <string name="run_command_failed">No se pudo ejecutar el comando:&#160;</string>
     <string name="action_info">Action info</string>
     <string name="text_copied">Texto copiado.</string>
     <string name="sound">Sound</string>
