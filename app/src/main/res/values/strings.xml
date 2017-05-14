@@ -163,6 +163,7 @@
     <string name="action_inject_gesture">Inject gesture</string>
     <string name="action_inject_text">Inject text</string>
     <string name="action_notify">Notification</string>
+    <string name="action_toast">Toast</string>
     <string name="action_speech">Speech</string>
     <string name="action_read_clipboard">Read clipboard text</string>
     <string name="action_pen">Pen</string>
@@ -182,7 +183,6 @@
     <string name="action_saved_multi_action">Saved multi-action</string>
     <string name="action_action_collection">Action collection</string>
     <string name="action_editable_action">Select and edit</string>
-
     <string name="toggle">Toggle</string>
     <string name="turn_on">Turn on</string>
     <string name="turn_off">Turn off</string>
@@ -448,7 +448,8 @@
     <string name="notification_hint">Notification content</string>
     <string name="wifi_ssid">SSID</string>
     <string name="speech_hint">Text to speech</string>
-    <string name="speech_description">%t: for time.\n%w: for day of week.\n%d: for date.\nEmpty triggers stop speech.\nNote: Maybe you should install a engine for local language(e.g. Google text to speech engine).</string>
+    <string name="speech_description">%t: time.\n%w: day of week.\n%d: date.\n%b: battery level.\nEmpty triggers stop speech.\nNote: Maybe you should install a engine for local language(e.g. Google text to speech engine).</string>
+    <string name="toast_description">%t: time.\n%w: day of week.\n%d: date.\n%b: battery level.</string>
     <string name="command_hint">Shell command for developers only</string>
     <string name="command_on_system_process">Runs on system process</string>
     <string name="su_not_supported_on_system">"su" not supported to run on system process.</string>
@@ -518,6 +519,11 @@
 
     <!-- untranslatable -->
     <string name="description" translatable="false">This module provides you system level controls and actions. Remap gesture, keys, phone state, etc…, to trigger actions you want.</string>
+    <string name="action_clipboard">Clipboard</string>
+    <string name="clip_history_size">Clipboard</string>
+    <string name="input_expression">Input expression</string>
+    <string name="redo">Redo</string>
+    <string name="undo">Undo</string>
 
 </resources>
 

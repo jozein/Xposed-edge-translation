@@ -336,7 +336,8 @@
     <string name="side_right">Правая сторона</string>
     <string name="sound">Звук</string>
     <string name="sound_effect">Звуковой эффект</string>
-    <string name="speech_description" formatted="false">"%t: для времени.\n%w: для дня недели.\n%d: для даты.\nПустые триггеры для остановки речи.\nПримечание: возможно, следует установить движок на местном языке. Рекомендуем: Google текст в речь. "</string>
+    <string name="speech_description" formatted="false">"%t: для времени.\n%w: для дня недели.\n%b: Уровень заряда аккумулятора.\n%d: для даты.\nПустые триггеры для остановки речи.\nПримечание: возможно, следует установить движок на местном языке. Рекомендуем: Google текст в речь. "</string>
+    <string name="toast_description">%t: для времени.\n%w: для дня недели.\n%d: для даты.\n%b: Уровень заряда аккумулятора.</string>
     <string name="speech_hint">Текст в речь</string>
     <string name="state_airplane_mode_off">Режим полета выкл.</string>
     <string name="state_airplane_mode_on">Режим полета вкл.</string>
@@ -467,7 +468,12 @@
     <string name="scroll_speed">Scrolling speed of successive adjust</string>
     <string name="variable_name_hint">Variable name contains letters, numbers, _ and $, not start with number.</string>
     <string name="variable_expression_hint" formatted="false"><![CDATA[Variable:\n  32 bit signed integer.\nSupported operators:\n  +, -, *, /, %, <<, >>, &, ^, |, ~, ++, --.\n  Same as C/C++/Java…\nExample:\n  (var + 1) % 2]]></string>
-
+    <string name="action_clipboard">Clipboard</string>
+    <string name="clip_history_size">Clipboard</string>
+    <string name="input_expression">Input expression</string>
+    <string name="redo">Redo</string>
+    <string name="undo">Undo</string>
+    <string name="action_toast">Toast</string>
 
 
 </resources>

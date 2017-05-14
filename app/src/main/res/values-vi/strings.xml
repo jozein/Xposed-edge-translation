@@ -450,7 +450,8 @@
     <string name="notification_hint">Nội dung thông báo</string>
     <string name="wifi_ssid">Tên wifi</string>
     <string name="speech_hint">Văn bản để nói</string>
-    <string name="speech_description">%t: cho giờ.\n%w: cho ngày của tuần.\n%d: cho ngày.\nCác bộ kích hoạt trống dừng phát biểu.\nLưu ý: Có lẽ bạn nên cài đặt một công cụ cho ngôn ngữ địa phương(vd: Công cụ đọc văn bản của Google).</string>
+    <string name="speech_description">%t: cho giờ.\n%w: cho ngày của tuần.\n%d: cho ngày.\n%b: Cấp pin.\nCác bộ kích hoạt trống dừng phát biểu.\nLưu ý: Có lẽ bạn nên cài đặt một công cụ cho ngôn ngữ địa phương(vd: Công cụ đọc văn bản của Google).</string>
+    <string name="toast_description">%t: cho giờ.\n%w: cho ngày của tuần.\n%d: cho ngày.\n%b: Cấp pin.</string>
     <string name="command_hint">Lệnh Shell chỉ dành cho nhà phát triển</string>
     <string name="command_on_system_process">Chạy trên tiến trình hệ thống</string>
     <string name="su_not_supported_on_system">"su" không được hỗ trợ để chạy trên tiến trình hệ thống.</string>
@@ -526,6 +527,7 @@
     <string name="input_expression">Input expression</string>
     <string name="redo">Redo</string>
     <string name="undo">Undo</string>
+    <string name="action_toast">Toast</string>
 
 </resources>
 

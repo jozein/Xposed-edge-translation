@@ -445,7 +445,8 @@
     <string name="notification_hint">Notification content</string>
     <string name="wifi_ssid">SSID</string>
     <string name="speech_hint">Texto a voz</string>
-    <string name="speech_description">%t: for time.\n%w: for day of week.\n%d: for date.\nEmpty triggers stop speech.\nNote: Maybe you should install a engine for local language(e.g. Google text to speech engine).</string>
+    <string name="speech_description">%t: time.\n%w: day of week.\n%d: date.\n%b: battery level.\nEmpty triggers stop speech.\nNote: Maybe you should install a engine for local language(e.g. Google text to speech engine).</string>
+    <string name="toast_description">%t: time.\n%w: day of week.\n%d: date.\n%b: battery level.</string>
     <string name="command_hint">Comando Shell sólo para desarroladores</string>
     <string name="command_on_system_process">Runs on system process</string>
     <string name="su_not_supported_on_system">"su" not supported to run on system process.</string>
@@ -521,5 +522,6 @@
     <string name="input_expression">Input expression</string>
     <string name="redo">Redo</string>
     <string name="undo">Undo</string>
+    <string name="action_toast">Toast</string>
 
 </resources>

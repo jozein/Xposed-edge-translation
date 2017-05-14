@@ -396,7 +396,8 @@
     <string name="notification_hint">Contenu de la notification</string>
     <string name="wifi_ssid">SSID</string>
     <string name="speech_hint">Répéter le texte</string>
-    <string name="speech_description">%t: Heure.\n%w: Jour de la semaine.\n%d: Date.\nNote: Peut-être que vous devrez installer un moteur pour votre langue(Ex. Google TTS).</string>
+    <string name="speech_description">%t: Heure.\n%w: Jour de la semaine.\n%d: Date.\n%b: Niveau de batterie.\nNote: Peut-être que vous devrez installer un moteur pour votre langue(Ex. Google TTS).</string>
+    <string name="toast_description">%t: Heure.\n%w: Jour de la semaine.\n%d: Date.\n%b: Niveau de batterie.</string>
     <string name="command_hint">Ligne de commande pour développeur seulement</string>
     <string name="command_on_system_process">Activé comme processus système</string>
     <string name="su_not_supported_on_system">"su" Non pris en charge par le procéssus système.</string>
@@ -516,6 +517,7 @@
     <string name="clip_history_size">Clipboard history size</string>
     <string name="redo">Redo</string>
     <string name="undo">Undo</string>
+    <string name="action_toast">Toast</string>
 
 
 </resources>

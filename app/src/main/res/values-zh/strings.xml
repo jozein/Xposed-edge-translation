@@ -406,7 +406,8 @@
     <string name="notification_hint">通知内容</string>
     <string name="wifi_ssid">WIFI名称</string>
     <string name="speech_hint">要朗读的文字</string>
-    <string name="speech_description">%t: 目标时间。\n%w: 目标星期.\n%d: 目标日期。\n空内容触发停止语音朗读。\n注意: 你可能需要安装文字转语音引擎以支持本地语言。比如谷歌文字转语音引擎。</string>
+    <string name="speech_description">%t: 时间。\n%w: 星期.\n%d: 日期。\n%b: 电量。\n空内容触发停止语音朗读。\n注意: 你可能需要安装文字转语音引擎以支持本地语言。比如谷歌文字转语音引擎。</string>
+    <string name="toast_description">%t: 时间。\n%w: 星期.\n%d: 日期。\n%b: 电量。</string>
     <string name="command_hint">Shell命令仅供开发人员使用</string>
     <string name="command_on_system_process">在系统中运行</string>
     <string name="su_not_supported_on_system">su命令不能运行于系统中</string>
@@ -513,6 +514,7 @@
     <string name="clip_history_size">剪贴板历史数量</string>
     <string name="redo">重做</string>
     <string name="undo">撤销</string>
+    <string name="action_toast">Toast提示</string>
 
 
 </resources>
