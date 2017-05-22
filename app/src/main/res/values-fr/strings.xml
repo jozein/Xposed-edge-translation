@@ -369,8 +369,6 @@
     <string name="enable">Activer</string>
     <string name="disable">Désactiver</string>
     <string name="add">Ajouter</string>
-    <string name="app_started">Démarrée</string>
-    <string name="app_stopped">Stoppée</string>
     <string name="app_lost_focus">Cachée</string>
     <string name="show_activities_exported_only">Afficher uniquement les activitées exporté par l\'application.</string>
     <string name="show_all_activities">Afficher toutes les activitèes (risqué!)</string>
@@ -510,6 +508,8 @@
     <string name="variable_name_hint">Le nom des variables contient des lettres, nombres, _ et $, mais ne commence pas par un nombre.</string>
     <string name="variable_expression_hint" formatted="false"><![CDATA[Variable:\n  32 bit signed integer.\nOpérateurs supportés:\n  +, -, *, /, %, <<, >>, &, ^, |, ~, ++, --.\n  Comme en C/C++/Java…\nExemple:\n  (var + 1) % 2]]></string>
 
+    <string name="app_started">Démarrée</string>
+    <string name="app_stopped">Stoppée</string>
     <string name="action_clipboard">Clipboard</string>
     <string name="input_expression">Input expression</string>
     <string name="set_level">set level</string>
@@ -518,6 +518,8 @@
     <string name="redo">Redo</string>
     <string name="undo">Undo</string>
     <string name="action_toast">Toast</string>
+    <string name="icon_color">Icon color</string>
+    <string name="user_not_supported">Current user is not supported!!!</string>
 
 
 </resources>

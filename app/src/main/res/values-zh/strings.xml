@@ -436,7 +436,7 @@
     <string name="memory_released_size_f">释放内存：%1$dM.</string>
     <string name="app_frozen_f">已冻结：%1$s</string>
     <string name="app_thawed_f">已解冻：%1$s</string>
-    <string name="error_freeze_app_f">冻结失败%1$s：</string>
+    <string name="error_freeze_app_f">冻结失败：%1$s</string>
     <string name="error_thaw_app_f">解冻失败：%1$s</string>
     <string name="view_on_play_store">在市场中查看</string>
     <string name="collect_activity">提取活动</string>
@@ -515,6 +515,8 @@
     <string name="redo">重做</string>
     <string name="undo">撤销</string>
     <string name="action_toast">Toast提示</string>
+    <string name="icon_color">图标颜色</string>
+    <string name="user_not_supported">不支持当前用户！！！</string>
 
 
 </resources>

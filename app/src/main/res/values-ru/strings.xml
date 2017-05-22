@@ -105,8 +105,6 @@
     <string name="app_info">Информация о прил.</string>
     <string name="app_lost_focus">приложение расфокусировано</string>
     <string name="app_may_not_has_default_activity">Приложение не имеет действия по умолчанию</string>
-    <string name="app_started">Приложение запущено</string>
-    <string name="app_state">Состояние приложения</string>
     <string name="app_stopped">Приложение остановлено</string>
     <string name="app_thawed_f">Разморозка: %1$s</string>
     <string name="as_default">По умолчанию</string>
@@ -453,6 +451,8 @@
     <string name="state_status_bar_hidden">Строка состояния скрыта</string>
     <string name="state_status_bar_shown">Строка состояния отображается</string>
 
+    <string name="app_started">Приложение запущено</string>
+    <string name="app_state">Состояние приложения(foreground)</string>
     <string name="as_date">As date</string>
     <string name="as_week">As week</string>
     <string name="modify_days_of_month">Modify days of months</string>
@@ -469,11 +469,13 @@
     <string name="variable_name_hint">Variable name contains letters, numbers, _ and $, not start with number.</string>
     <string name="variable_expression_hint" formatted="false"><![CDATA[Variable:\n  32 bit signed integer.\nSupported operators:\n  +, -, *, /, %, <<, >>, &, ^, |, ~, ++, --.\n  Same as C/C++/Java…\nExample:\n  (var + 1) % 2]]></string>
     <string name="action_clipboard">Clipboard</string>
-    <string name="clip_history_size">Clipboard</string>
+    <string name="clip_history_size">Clipboard history size</string>
     <string name="input_expression">Input expression</string>
     <string name="redo">Redo</string>
     <string name="undo">Undo</string>
     <string name="action_toast">Toast</string>
+    <string name="icon_color">Icon color</string>
+    <string name="user_not_supported">Current user is not supported!!!</string>
 
 
 </resources>

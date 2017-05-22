@@ -414,8 +414,6 @@
     <string name="enable">Habilitar</string>
     <string name="disable">Deshabilitar</string>
     <string name="add">Agregar…</string>
-    <string name="app_started">iniciado</string>
-    <string name="app_stopped">detenido</string>
     <string name="app_got_focus">got focus</string>
     <string name="app_lost_focus">lost focus</string>
     <string name="show_activities_exported_only">Mostrar sólo actividades exportadas</string>
@@ -517,11 +515,15 @@
     <!-- untranslatable -->
     <!--<string name="description" translatable="false">This module provides you system level controls and actions. Remap gesture, keys, phone state, etc…, to trigger actions you want.</string>-->
 
+    <string name="app_started">iniciado</string>
+    <string name="app_stopped">detenido</string>
     <string name="action_clipboard">Clipboard</string>
     <string name="clip_history_size">Clipboard history size</string>
     <string name="input_expression">Input expression</string>
     <string name="redo">Redo</string>
     <string name="undo">Undo</string>
     <string name="action_toast">Toast</string>
+    <string name="icon_color">Icon color</string>
+    <string name="user_not_supported">Current user is not supported!!!</string>
 
 </resources>

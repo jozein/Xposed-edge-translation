@@ -376,8 +376,6 @@
     <string name="enable">Etkinleştir</string>
     <string name="disable">Devre dışı bırak</string>
     <string name="add">Ekle…</string>
-    <string name="app_started">başlatıldı</string>
-    <string name="app_stopped">durduruldu</string>
     <string name="app_got_focus">odaklan</string>
     <string name="app_lost_focus">odağı kaybet</string>
     <string name="show_activities_exported_only">Yalnızca dışa aktarılan etkinlikleri göster</string>
@@ -499,6 +497,8 @@
     <string name="state_status_bar_hidden">Durum çubuğu gizlendi</string>
     <string name="state_status_bar_shown">Durum çubuğu gösterildi</string>
 
+    <string name="app_started">başlatıldı</string>
+    <string name="app_stopped">durduruldu</string>
     <string name="as_date">As date</string>
     <string name="as_week">As week</string>
     <string name="modify_days_of_month">Modify days of months</string>
@@ -520,6 +520,8 @@
     <string name="redo">Redo</string>
     <string name="undo">Undo</string>
     <string name="action_toast">Toast</string>
+    <string name="icon_color">Icon color</string>
+    <string name="user_not_supported">Current user is not supported!!!</string>
 
 
 </resources>

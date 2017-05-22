@@ -150,7 +150,7 @@
     <string name="action_gesture_enabled">Gesture enabled</string>
     <string name="action_key_enabled">Key enabled</string>
     <string name="action_rotate_screen">Rotate screen</string>
-    <string name="action_dismiss_keyguard">Dismiss keyguard</string>
+    <string name="action_dismiss_keyguard">Unlock keyguard</string>
     <string name="action_soft_keyboard">Soft keyboard</string>
     <string name="action_content">Edit</string>
     <string name="action_shortcuts_panel">Shortcuts panel</string>
@@ -161,7 +161,7 @@
     <string name="action_custom_panel">Custom panel</string>
     <string name="action_inject_key_event">Inject key event</string>
     <string name="action_inject_gesture">Inject gesture</string>
-    <string name="action_inject_text">Inject text</string>
+    <string name="action_inject_text">Input text</string>
     <string name="action_notify">Notification</string>
     <string name="action_toast">Toast</string>
     <string name="action_speech">Speech</string>
@@ -302,7 +302,7 @@
     <string name="state_boot_completed">Boot completed</string>
     <string name="state_screen_on">Screen turned on</string>
     <string name="state_screen_off">Screen turned off</string>
-    <string name="state_user_present">Keyguard dismissed</string>
+    <string name="state_user_present">Keyguard unlocked</string>
     <string name="state_battery_full">Battery full</string>
     <string name="state_battery_low">Battery low</string>
     <string name="state_battery_okay">Battery okay</string>
@@ -353,8 +353,9 @@
     <string name="gesture_pointer_reverse_order">Reverse gesture order of gesture pointer</string>
     <string name="gesture_pointer_color">Gesture pointer color</string>
     <string name="screen_filter_color">Screen filter color</string>
-    <string name="panel_color">Panel color</string>p
+    <string name="panel_color">Panel color</string>
     <string name="pie_color">Pie color</string>
+    <string name="icon_color">Icon color</string>
     <string name="pen_colors">Pen colors</string>
     <string name="sound_effect">Sound effect</string>
     <string name="vibrate_effect">Vibrate effect</string>
@@ -408,6 +409,7 @@
     <string name="code">Code:&#160;</string>
     <string name="click_a_key_to_add">Click a key which you want to add.</string>
     <string name="keycode_overflow">Keycode greeter than max keycode.</string>
+    <string name="user_not_supported">Current user is not supported!!!</string>
     <string name="xposed_not_installed">Xposed not installed!!!</string>
     <string name="module_not_activated">Module not activated yet(or not updated)! Please activate this module in Xposed installer, and reboot.</string>
     <string name="unable_to_freeze_this_app">Unable to freeze this app!</string>
@@ -452,8 +454,8 @@
     <string name="toast_description">%t: time.\n%w: day of week.\n%d: date.\n%b: battery level.</string>
     <string name="command_hint">Shell command for developers only</string>
     <string name="command_on_system_process">Runs on system process</string>
-    <string name="su_not_supported_on_system">"su" not supported to run on system process.</string>
-    <string name="run_command_failed">Failed to ru command:&#160;</string>
+    <string name="su_not_supported_on_system">su not supported run on system process.</string>
+    <string name="run_command_failed">Failed to run command:&#160;</string>
     <string name="action_info">Action info</string>
     <string name="text_copied">Text copied.</string>
     <string name="sound">Sound</string>
@@ -493,7 +495,7 @@
     <string name="app_icons">App icons</string>
     <string name="saved_icons">Saved icons</string>
     <string name="empty_as_default">Empty as default</string>
-    <string name="only_if_keyguard_not_secure">Dismiss keyguard only if keyguard not secure.</string>
+    <string name="only_if_keyguard_not_secure">Unlock keyguard only if keyguard is not secure.</string>
     <string name="no_alarm">No alarm.</string>
     <string name="next_alarm">Next alarm</string>
     <string name="as_week">As week</string>
@@ -520,7 +522,7 @@
     <!-- untranslatable -->
     <string name="description" translatable="false">This module provides you system level controls and actions. Remap gesture, keys, phone state, etc…, to trigger actions you want.</string>
     <string name="action_clipboard">Clipboard</string>
-    <string name="clip_history_size">Clipboard</string>
+    <string name="clip_history_size">Clipboard history size</string>
     <string name="input_expression">Input expression</string>
     <string name="redo">Redo</string>
     <string name="undo">Undo</string>

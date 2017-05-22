@@ -419,8 +419,6 @@
     <string name="enable">Bật</string>
     <string name="disable">Tắt</string>
     <string name="add">Add…</string>
-    <string name="app_started">Đã bắt đầu</string>
-    <string name="app_stopped">Đã dừng</string>
     <string name="app_got_focus">Có tập chung</string>
     <string name="app_lost_focus">mất tập trung</string>
     <string name="show_activities_exported_only">Chỉ hiện nhưng hành động được xuất ra</string>
@@ -522,12 +520,16 @@
     <!-- untranslatable -->
     <!--<string name="description" translatable="false">Mô-đun này cung cấp cho bạn các kiểm soát mức hệ thống và các hành động. Sửa lại cử chỉ, các phím, Trạng thái điện thoại, v.v…, để kích hoạt các hành động mà bạn muốn.</string>-->
 
+    <string name="app_started">Đã bắt đầu</string>
+    <string name="app_stopped">Đã dừng</string>
     <string name="action_clipboard">Clipboard</string>
     <string name="clip_history_size">Clipboard history size</string>
     <string name="input_expression">Input expression</string>
     <string name="redo">Redo</string>
     <string name="undo">Undo</string>
     <string name="action_toast">Toast</string>
+    <string name="icon_color">Icon color</string>
+    <string name="user_not_supported">Current user is not supported!!!</string>
 
 </resources>
 
