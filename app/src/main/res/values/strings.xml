@@ -384,7 +384,7 @@
     <string name="general">General</string>
     <string name="verbose">Verbose</string>
     <string name="as_default">As default</string>
-    <string name="system_default">as system default</string>
+    <string name="system_default">System default</string>
     <string name="force_no_nav_bar">Force no navigation bar</string>
     <string name="force_has_nav_bar">Force has navigation bar</string>
 

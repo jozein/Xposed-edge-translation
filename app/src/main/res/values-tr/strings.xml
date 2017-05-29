@@ -339,7 +339,7 @@
     <string name="general">Genel</string>
     <string name="verbose">Ayrıntılı</string>
     <string name="as_default">Varsayılan gibi</string>
-    <string name="system_default">sistem varsayılanı gibi</string>
+    <string name="system_default">Sistem varsayılanı gibi</string>
     <string name="force_no_nav_bar">Gezinti çubuğu zorlanmaz</string>
     <string name="force_has_nav_bar">Gezinti çubuğu zorlanır</string>
 
