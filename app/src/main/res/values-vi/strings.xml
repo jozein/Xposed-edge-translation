@@ -246,7 +246,6 @@
     <string name="system_apps_drawer">Ngăn kéo ứng dụng hệ thống</string>
     <string name="download_apps_drawer">Ngăn kéo ứng dụng tải về</string>
 
-    <string name="toggle_soft_keyboard">Bật tắt bàn phím mềm</string>
     <string name="show_soft_keyboard">Hiện bàn phím mềm</string>
     <string name="hide_soft_keyboard">Tắt bàn phím mềm </string>
 
@@ -530,6 +529,15 @@
     <string name="action_toast">Toast</string>
     <string name="icon_color">Icon color</string>
     <string name="user_not_supported">Current user is not supported!!!</string>
+    <string name="action_play_sound">Play sound</string>
+    <string name="action_vibrate">Vibrate</string>
+    <string name="alarm">Alarm</string>
+    <string name="notification">Notification</string>
+    <string name="ringtone">Ringtone</string>
+    <string name="stop_play_sound">Stop play sound</string>
+    <string name="vibrate_duration">Vibrate duration</string>
+    <string name="repeat">Repeat</string>
+    <string name="play_once">Once</string>
 
 </resources>
 

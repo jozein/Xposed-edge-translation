@@ -490,7 +490,6 @@
     <string name="state_soft_keyboard_shown">Clavier affiché</string>
     <string name="state_status_bar_hidden">Barre d\'état cachée</string>
     <string name="state_status_bar_shown">Barre d\'état affichée</string>
-    <string name="toggle_soft_keyboard">Afficher/Cacher le clavier</string>
     <string name="up_f">%1$s haut</string>
     <string name="as_date">Par date précise</string>
     <string name="as_week">Par jour de la semaine</string>
@@ -520,6 +519,15 @@
     <string name="action_toast">Toast</string>
     <string name="icon_color">Icon color</string>
     <string name="user_not_supported">Current user is not supported!!!</string>
+    <string name="action_play_sound">Play sound</string>
+    <string name="action_vibrate">Vibrate</string>
+    <string name="alarm">Alarm</string>
+    <string name="notification">Notification</string>
+    <string name="ringtone">Ringtone</string>
+    <string name="stop_play_sound">Stop play sound</string>
+    <string name="vibrate_duration">Vibrate duration</string>
+    <string name="repeat">Repeat</string>
+    <string name="play_once">Once</string>
 
 
 </resources>

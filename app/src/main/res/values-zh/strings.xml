@@ -479,7 +479,6 @@
     <string name="action_soft_keyboard">输入法</string>
     <string name="hide_soft_keyboard">隐藏输入法</string>
     <string name="show_soft_keyboard">显示输入法</string>
-    <string name="toggle_soft_keyboard">开关输入法</string>
     <string name="action_successive_adjust">连续调节</string>
     <string name="adjust_scroll">滚动</string>
     <string name="down_f">%1$s减</string>
@@ -517,6 +516,15 @@
     <string name="action_toast">Toast提示</string>
     <string name="icon_color">图标颜色</string>
     <string name="user_not_supported">不支持当前用户！！！</string>
+    <string name="action_play_sound">播放音频</string>
+    <string name="action_vibrate">振动</string>
+    <string name="alarm">闹钟</string>
+    <string name="notification">通知</string>
+    <string name="ringtone">铃声</string>
+    <string name="stop_play_sound">停止播放音频</string>
+    <string name="vibrate_duration">振动时长</string>
+    <string name="repeat">重复</string>
+    <string name="play_once">单次</string>
 
 
 </resources>

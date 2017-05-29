@@ -481,7 +481,6 @@
     <string name="action_soft_keyboard">Yazılımsal klavye</string>
     <string name="hide_soft_keyboard">Yazılımsal klavyeyi gizle</string>
     <string name="show_soft_keyboard">Yazılımsal klavyeyi göster</string>
-    <string name="toggle_soft_keyboard">Yazılımsal klavyeyi gizle/göster</string>
     <string name="action_successive_adjust">Ardışık ayarlama</string>
     <string name="adjust_scroll">Kaydırma</string>
     <string name="down_f">%1$s aşagı</string>
@@ -522,6 +521,15 @@
     <string name="action_toast">Toast</string>
     <string name="icon_color">Icon color</string>
     <string name="user_not_supported">Current user is not supported!!!</string>
+    <string name="action_play_sound">Play sound</string>
+    <string name="action_vibrate">Vibrate</string>
+    <string name="alarm">Alarm</string>
+    <string name="notification">Notification</string>
+    <string name="ringtone">Ringtone</string>
+    <string name="stop_play_sound">Stop play sound</string>
+    <string name="vibrate_duration">Vibrate duration</string>
+    <string name="repeat">Repeat</string>
+    <string name="play_once">Once</string>
 
 
 </resources>

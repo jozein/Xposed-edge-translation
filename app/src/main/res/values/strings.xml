@@ -164,6 +164,8 @@
     <string name="action_inject_text">Input text</string>
     <string name="action_notify">Notification</string>
     <string name="action_toast">Toast</string>
+    <string name="action_vibrate">Vibrate</string>
+    <string name="action_play_sound">Play sound</string>
     <string name="action_speech">Speech</string>
     <string name="action_read_clipboard">Read clipboard text</string>
     <string name="action_pen">Pen</string>
@@ -204,7 +206,7 @@
     <string name="volume_stream_voice_call">Voice call volume</string>
     <string name="volume_stream_system">System volume</string>
     <string name="volume_stream_ring">Ring volume</string>
-    <string name="volume_stream_music">Music volume</string>
+    <string name="volume_stream_music">Media volume</string>
     <string name="volume_stream_alarm">Alarm volume</string>
     <string name="volume_stream_notification">Notification volume</string>
     <string name="volume_stream_bluetooth_sco">Bluetooth sco volume</string>
@@ -239,12 +241,12 @@
     <string name="side_left">Left side</string>
     <string name="side_right">Right side</string>
 
+    <string name="stop_play_sound">Stop play sound</string>
     <string name="stop_speech">Stop speech</string>
 
     <string name="system_apps_drawer">System apps drawer</string>
     <string name="download_apps_drawer">Download apps drawer</string>
 
-    <string name="toggle_soft_keyboard">Toggle soft keyboard</string>
     <string name="show_soft_keyboard">Show soft keyboard</string>
     <string name="hide_soft_keyboard">Hide soft keyboard</string>
 
@@ -360,6 +362,7 @@
     <string name="sound_effect">Sound effect</string>
     <string name="vibrate_effect">Vibrate effect</string>
     <string name="vibrate_strength">Vibrate strength</string>
+    <string name="vibrate_duration">Vibrate duration</string>
     <string name="effect_only_screen_on">Sound/vibrate only when screen on</string>
     <string name="toast_level">Toast level</string>
     <string name="visual_effect">Visual effect</string>
@@ -505,6 +508,16 @@
     <string name="show_value">Show value</string>
     <string name="variable_name_hint">Variable name contains letters, numbers, _ and $, not start with number.</string>
     <string name="variable_expression_hint" formatted="false"><![CDATA[Variable:\n  32 bit signed integer.\nSupported operators:\n  +, -, *, /, %, <<, >>, &, ^, |, ~, ++, --.\n  Same as C/C++/Java…\nExample:\n  (var + 1) % 2]]></string>
+    <string name="ringtone">Ringtone</string>
+    <string name="notification">Notification</string>
+    <string name="alarm">Alarm</string>
+    <string name="play_once">Once</string>
+    <string name="repeat">Repeat</string>
+    <string name="action_clipboard">Clipboard</string>
+    <string name="clip_history_size">Clipboard history size</string>
+    <string name="input_expression">Input expression</string>
+    <string name="redo">Redo</string>
+    <string name="undo">Undo</string>
 
     <!-- help -->
     <string name="help_how_to_set">How to set(click to learn):</string>
@@ -521,11 +534,6 @@
 
     <!-- untranslatable -->
     <string name="description" translatable="false">This module provides you system level controls and actions. Remap gesture, keys, phone state, etc…, to trigger actions you want.</string>
-    <string name="action_clipboard">Clipboard</string>
-    <string name="clip_history_size">Clipboard history size</string>
-    <string name="input_expression">Input expression</string>
-    <string name="redo">Redo</string>
-    <string name="undo">Undo</string>
 
 </resources>
 
