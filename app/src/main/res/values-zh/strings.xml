@@ -310,7 +310,6 @@
     <string name="key_double_click_timeout">按键双击延时</string>
     <string name="key_long_click_timeout">按键长按延时</string>
     <string name="gesture_pointer_scale">手势指针放大比例</string>
-    <string name="gesture_pointer_reverse_order">手势指针中反向手势顺序</string>
     <string name="gesture_pointer_color">手势指针颜色</string>
     <string name="screen_filter_color">屏幕过滤器颜色</string>
     <string name="panel_color">面板颜色</string>
@@ -525,6 +524,30 @@
     <string name="vibrate_duration">振动时长</string>
     <string name="repeat">重复</string>
     <string name="play_once">单次</string>
+    <string name="action_floating_widget">悬浮小部件</string>
+    <string name="delete_all">清空</string>
+    <string name="invalid_widget">无效小部件！</string>
+    <string name="widgets">小部件</string>
+    <string name="select_floating_widget">选择小部件</string>
+    <string name="save_clip_data">保存剪贴板</string>
+    <string name="save_clip_data_hint">不支持通过命令行关机（重启）。</string>
+    <string name="mode_tap">单击模式</string>
+    <string name="mode_long_press">长按模式</string>
+    <string name="mode_double_tap">双击模式</string>
+    <string name="mode_transform">转移模式</string>
+    <string name="gesture_pointer_modes">手势指针模式</string>
+    <string name="export_as_command">转为命令行</string>
+    <string name="variables">变量</string>
+    <string name="allows_perform_by_broadcast">允许通过广播执行</string>
+    <string name="perform_by_broadcast_not_allowed">不允许通过广播执行！</string>
+    <string name="tutorial_online">在线教程</string>
+    <string name="disable_gesture_on_keyguard">锁屏禁用手势</string>
+    <string name="slide_adjust_color">滑动调节颜色</string>
+    <string name="disable_auto_brightness_when_brightness_adjusted">亮度调节后停用自动亮度</string>
+    <string name="screenshot_fullscreen">全屏截屏</string>
+    <string name="screenshot_selected_region">局部截屏</string>
+    <string name="effect_sound">效果音</string>
+    <string name="action_split_screen">分屏</string>
 
 
 </resources>

@@ -346,7 +346,6 @@
     <string name="key_long_click_timeout">Tiempo de espera de clic largo</string>
     <string name="scroll_speed">Velocidad de desplazamiento del ajuste sucesivo</string>
     <string name="gesture_pointer_scale">Gesture pointer scale</string>
-    <string name="gesture_pointer_reverse_order">Reverse gesture order of gesture pointer</string>
     <string name="gesture_pointer_color">Gesture pointer color</string>
     <string name="screen_filter_color">Color del filtro de la pantalla</string>
     <string name="panel_color">Color del panel</string>p
@@ -533,5 +532,29 @@
     <string name="vibrate_duration">Vibrate duration</string>
     <string name="repeat">Repeat</string>
     <string name="play_once">Once</string>
+    <string name="action_floating_widget">Floating widget</string>
+    <string name="delete_all">Delete all</string>
+    <string name="invalid_widget">Invalid widget!</string>
+    <string name="widgets">Widgets</string>
+    <string name="select_floating_widget">Select floating widget</string>
+    <string name="save_clip_data">Save clipboard data</string>
+    <string name="save_clip_data_hint">Shutdown(reboot) via command line is not supported.</string>
+    <string name="gesture_pointer_modes">Gesture pointer modes</string>
+    <string name="mode_double_tap">Double tap mode</string>
+    <string name="mode_long_press">Long press mode</string>
+    <string name="mode_tap">Tap mode</string>
+    <string name="mode_transform">Transform mode</string>
+    <string name="export_as_command">Export as command</string>
+    <string name="variables">Variables</string>
+    <string name="allows_perform_by_broadcast">Allows perform by broadcast</string>
+    <string name="perform_by_broadcast_not_allowed">Perform by broadcast not allowed!</string>
+    <string name="tutorial_online">Tutorial online</string>
+    <string name="disable_gesture_on_keyguard">Disable gesture on keyguard</string>
+    <string name="slide_adjust_color">Slide adjust color</string>
+    <string name="disable_auto_brightness_when_brightness_adjusted">Disable auto brightness when brightness adjusted</string>
+    <string name="screenshot_fullscreen">Screenshot fullscreen</string>
+    <string name="screenshot_selected_region">Screenshot selected region</string>
+    <string name="effect_sound">Effect sound</string>
+    <string name="action_split_screen">Split screen</string>
 
 </resources>
