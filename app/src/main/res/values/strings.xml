@@ -150,6 +150,7 @@
     <string name="action_gesture_record">Gesture record</string>
     <string name="action_gesture_enabled">Gesture control</string>
     <string name="action_key_enabled">Key control</string>
+    <string name="action_game_mode">Game mode</string>
     <string name="action_rotate_screen">Rotate screen</string>
     <string name="action_dismiss_keyguard">Unlock keyguard</string>
     <string name="action_soft_keyboard">Soft keyboard</string>
@@ -240,6 +241,11 @@
 
     <string name="rotate_portrait">Rotate to portrait</string>
     <string name="rotate_landscape">Rotate to landscape</string>
+    <string name="rotate_upside_down">Rotate to upside down</string>
+    <string name="rotate_seascape">Rotate to seascape</string>
+    <string name="rotate_90">Rotate 90°</string>
+    <string name="rotate_180">Rotate 180°</string>
+    <string name="rotate_270">Rotate -90°</string>
 
     <string name="side_left">Left side</string>
     <string name="side_right">Right side</string>
@@ -369,6 +375,7 @@
     <string name="slide_adjust_color">Slide adjust color</string>
     <string name="icon_color">Icon color</string>
     <string name="pen_colors">Pen colors</string>
+    <string name="do_not_show_pen_toolbar_automatically">Do not show pen toolbar automatically</string>
     <string name="sound_effect">Sound effect</string>
     <string name="effect_sound">Effect sound</string>
     <string name="vibrate_effect">Vibrate effect</string>
@@ -377,6 +384,7 @@
     <string name="effect_only_screen_on">Sound/vibrate only when screen on</string>
     <string name="toast_level">Toast level</string>
     <string name="visual_effect">Visual effect</string>
+    <string name="windows_not_focusable">Windows not focusable</string>
     <string name="show_text_on_shortcut_panel">Show text on shortcut panel</string>
     <string name="show_text_on_side_bar">Show text on side bar</string>
     <string name="show_text_on_other_drawers">Show text on other drawers</string>
@@ -389,6 +397,7 @@
     <string name="dark_theme">Dark</string>
     <string name="light_theme">Light</string>
     <string name="light_gray_theme">Light gray</string>
+    <string name="black_theme">Black</string>
     <string name="never">Never</string>
     <string name="gesture_recording">Gesture recording</string>
     <string name="gesture_injecting">Gesture injecting</string>
@@ -404,6 +413,9 @@
 
     <string name="gestures_triggers_when_swiping_on_hint">Pie/slide adjust/gesture pointer can be triggered by swipe.</string>
     <string name="gestures_triggers_when_swiping_off_hint">You can cancel a swipe by swipe back.</string>
+
+    <string name="do_not_show_pen_toolbar_automatically_hint">You can also show toolbar by tap with two fingers.</string>
+    <string name="windows_not_focusable_hint">Windows(panels, drawers…) shows above soft keyboard, can not receive key event if set.</string>
 
     <!-- others -->
     <string name="select_action">Select action</string>
@@ -542,6 +554,8 @@
     <string name="mode_double_tap">Double tap mode</string>
     <string name="mode_transform">Transform mode</string>
     <string name="perform_by_broadcast_not_allowed">Perform by broadcast not allowed!</string>
+    <string name="ignore_edges">Ignore edges</string>
+    <string name="intercept_keys">Intercept keys</string>
 
     <!-- help -->
     <string name="help_how_to_set">How to set(click to learn):</string>

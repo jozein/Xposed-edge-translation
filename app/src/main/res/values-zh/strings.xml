@@ -548,6 +548,19 @@
     <string name="screenshot_selected_region">局部截屏</string>
     <string name="effect_sound">效果音</string>
     <string name="action_split_screen">分屏</string>
+    <string name="black_theme">黑色</string>
+    <string name="rotate_180">旋转180°</string>
+    <string name="rotate_270">旋转-90°</string>
+    <string name="rotate_90">旋转90°</string>
+    <string name="rotate_seascape">转至反向横屏</string>
+    <string name="rotate_upside_down">转至反向竖屏</string>
+    <string name="windows_not_focusable">窗口不获取焦点</string>
+    <string name="windows_not_focusable_hint">如果设置了，窗口(面板，抽屉等)将显示在软键盘之上，而不能接收按键事件.</string>
+    <string name="action_game_mode">游戏模式</string>
+    <string name="ignore_edges">忽略边缘</string>
+    <string name="intercept_keys">拦截按键</string>
+    <string name="do_not_show_pen_toolbar_automatically">不自动显示画笔工具栏</string>
+    <string name="do_not_show_pen_toolbar_automatically_hint">你也可以通过双指点击来显示工具栏。</string>
 
 
 </resources>

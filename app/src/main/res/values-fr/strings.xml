@@ -551,6 +551,19 @@
     <string name="screenshot_selected_region">Screenshot selected region</string>
     <string name="effect_sound">Effect sound</string>
     <string name="action_split_screen">Split screen</string>
+    <string name="black_theme">Black</string>
+    <string name="rotate_180">Rotate 180°</string>
+    <string name="rotate_270">Rotate -90°</string>
+    <string name="rotate_90">Rotate 90°</string>
+    <string name="rotate_seascape">Rotate to seascape</string>
+    <string name="rotate_upside_down">Rotate to upside down</string>
+    <string name="windows_not_focusable">Windows not focusable</string>
+    <string name="windows_not_focusable_hint">Windows(panels, drawers…) shows above soft keyboard, can not receive key event if set.</string>
+    <string name="action_game_mode">Game mode</string>
+    <string name="ignore_edges">Ignore edges</string>
+    <string name="intercept_keys">Intercept keys</string>
+    <string name="do_not_show_pen_toolbar_automatically">Do not show pen toolbar automatically</string>
+    <string name="do_not_show_pen_toolbar_automatically_hint">You can also show toolbar by tap with two fingers.</string>
 
 
 </resources>
