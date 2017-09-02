@@ -489,7 +489,6 @@
     <string name="widgets">Widgets</string>
     <string name="select_floating_widget">Select floating widget</string>
     <string name="save_clip_data">Save clipboard data</string>
-    <string name="save_clip_data_hint">Shutdown(reboot) via command line is not supported.</string>
     <string name="gesture_pointer_modes">Gesture pointer modes</string>
     <string name="mode_double_tap">Double tap mode</string>
     <string name="mode_long_press">Long press mode</string>
@@ -520,6 +519,9 @@
     <string name="intercept_keys">Intercept keys</string>
     <string name="do_not_show_pen_toolbar_automatically">Do not show pen toolbar automatically</string>
     <string name="do_not_show_pen_toolbar_automatically_hint">You can also show toolbar by tap with two fingers.</string>
+    <string name="nothing_copied">Nothing copied!</string>
+    <string name="action_universal_copy">Universal copy</string>
+    <string name="clipboard_color">Clipboard color</string>
 
 
 </resources>

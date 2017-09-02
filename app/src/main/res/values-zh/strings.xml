@@ -530,7 +530,6 @@
     <string name="widgets">小部件</string>
     <string name="select_floating_widget">选择小部件</string>
     <string name="save_clip_data">保存剪贴板</string>
-    <string name="save_clip_data_hint">不支持通过命令行关机（重启）。</string>
     <string name="mode_tap">单击模式</string>
     <string name="mode_long_press">长按模式</string>
     <string name="mode_double_tap">双击模式</string>
@@ -561,6 +560,9 @@
     <string name="intercept_keys">拦截按键</string>
     <string name="do_not_show_pen_toolbar_automatically">不自动显示画笔工具栏</string>
     <string name="do_not_show_pen_toolbar_automatically_hint">你也可以通过双指点击来显示工具栏。</string>
+    <string name="nothing_copied">无文字被复制！</string>
+    <string name="action_universal_copy">全局复制</string>
+    <string name="clipboard_color">剪贴板颜色</string>
 
 
 </resources>

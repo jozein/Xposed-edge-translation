@@ -155,6 +155,7 @@
     <string name="action_dismiss_keyguard">Unlock keyguard</string>
     <string name="action_soft_keyboard">Soft keyboard</string>
     <string name="action_content">Edit</string>
+    <string name="action_universal_copy">Universal copy</string>
     <string name="action_shortcuts_panel">Shortcuts panel</string>
     <string name="action_apps_drawer">Apps drawer</string>
     <string name="action_freezer_drawer">Freezer drawer</string>
@@ -373,6 +374,7 @@
     <string name="panel_color">Panel color</string>
     <string name="pie_color">Pie color</string>
     <string name="slide_adjust_color">Slide adjust color</string>
+    <string name="clipboard_color">Clipboard color</string>
     <string name="icon_color">Icon color</string>
     <string name="pen_colors">Pen colors</string>
     <string name="do_not_show_pen_toolbar_automatically">Do not show pen toolbar automatically</string>
@@ -409,7 +411,6 @@
     <string name="system_default">System default</string>
     <string name="force_no_nav_bar">Force no navigation bar</string>
     <string name="force_has_nav_bar">Force has navigation bar</string>
-    <string name="save_clip_data_hint">Shutdown(reboot) via command line is not supported.</string>
 
     <string name="gestures_triggers_when_swiping_on_hint">Pie/slide adjust/gesture pointer can be triggered by swipe.</string>
     <string name="gestures_triggers_when_swiping_off_hint">You can cancel a swipe by swipe back.</string>
@@ -489,6 +490,7 @@
     <string name="action_info">Action info</string>
     <string name="export_as_command">Export as command</string>
     <string name="text_copied">Text copied.</string>
+    <string name="nothing_copied">Nothing copied!</string>
     <string name="sound">Sound</string>
     <string name="vibrate">Vibrate</string>
     <string name="light">Light</string>
