@@ -273,7 +273,7 @@
     <string name="state_battery_full">电量满</string>
     <string name="state_battery_low">电量低</string>
     <string name="state_battery_okay">电量不低</string>
-    <string name="state_power_connected">充电器出入</string>
+    <string name="state_power_connected">充电器插入</string>
     <string name="state_power_disconnected">充电器移除</string>
     <string name="state_wifi_connected">WIFI连上</string>
     <string name="state_wifi_disconnected">WIFI断开</string>
@@ -560,9 +560,23 @@
     <string name="intercept_keys">拦截按键</string>
     <string name="do_not_show_pen_toolbar_automatically">不自动显示画笔工具栏</string>
     <string name="do_not_show_pen_toolbar_automatically_hint">你也可以通过双指点击来显示工具栏。</string>
-    <string name="nothing_copied">无文字被复制！</string>
+    <string name="nothing_fetched">无文字被提取！</string>
     <string name="action_universal_copy">全局复制</string>
     <string name="clipboard_color">剪贴板颜色</string>
+    <string name="pie_scale">Pie比例</string>
+    <string name="by_two_finger">仅通过双指</string>
+    <string name="floating_widget_timeout">悬浮小部件自动消失</string>
+    <string name="settings_should_be_moved">需要将设置从 /data/data/com.jozein… 移至 /data/user_de/0/com.jozein…\\n请启动应用，然后重启或软重启。</string>
+    <string name="action_finish_activity">结束活动</string>
+    <string name="input_method_menu">输入法菜单</string>
+    <string name="last_input_method">上一输入法</string>
+    <string name="action_abort">终止</string>
+    <string name="action_repeat">重复</string>
+    <string name="command_request_root">以root身份运行</string>
+    <string name="count">次数：</string>
+    <string name="enter_count">输入次数</string>
+    <string name="not_need_to_exec_su_explicitly">勾选了以root身份运行就不需要显示调用su了。</string>
+    <string name="panel_scale">面板尺寸比例</string>
 
 
 </resources>

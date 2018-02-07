@@ -126,6 +126,7 @@
     <string name="action_last_app">Last app</string>
     <string name="action_previous_app">Previous app</string>
     <string name="action_next_app">Next app</string>
+    <string name="action_finish_activity">Finish activity</string>
     <string name="action_kill_foreground_app">Kill foreground app</string>
     <string name="action_kill_app">Kill app</string>
     <string name="action_app_option_menu">App option menu</string>
@@ -184,6 +185,8 @@
     <string name="action_command">Shell command</string>
     <string name="action_delay">Delay</string>
     <string name="action_set_variable">Set variable</string>
+    <string name="action_repeat">Repeat</string>
+    <string name="action_abort">Abort</string>
     <string name="action_conditional">Conditional</string>
     <string name="action_multi_action">Multi-action</string>
     <string name="action_saved_multi_action">Saved multi-action</string>
@@ -259,6 +262,8 @@
 
     <string name="show_soft_keyboard">Show soft keyboard</string>
     <string name="hide_soft_keyboard">Hide soft keyboard</string>
+    <string name="input_method_menu">Input method menu</string>
+    <string name="last_input_method">Last input method</string>
 
     <string name="screenshot_fullscreen">Screenshot fullscreen</string>
     <string name="screenshot_selected_region">Screenshot selected region</string>
@@ -364,12 +369,15 @@
     <string name="gesture_long_press_timeout">Gesture long press timeout</string>
     <string name="key_double_click_timeout">Double click timeout</string>
     <string name="key_long_click_timeout">Long click timeout</string>
+    <string name="floating_widget_timeout">Floating widget timeout</string>
     <string name="clip_history_size">Clipboard history size</string>
     <string name="save_clip_data">Save clipboard data</string>
     <string name="scroll_speed">Scrolling speed of successive adjust</string>
     <string name="gesture_pointer_modes">Gesture pointer modes</string>
     <string name="gesture_pointer_scale">Gesture pointer scale</string>
     <string name="gesture_pointer_color">Gesture pointer color</string>
+    <string name="pie_scale">Pie scale</string>
+    <string name="panel_scale">Panel scale</string>
     <string name="screen_filter_color">Screen filter color</string>
     <string name="panel_color">Panel color</string>
     <string name="pie_color">Pie color</string>
@@ -409,6 +417,7 @@
     <string name="verbose">Verbose</string>
     <string name="as_default">As default</string>
     <string name="system_default">System default</string>
+    <string name="by_two_finger">Only by two finger</string>
     <string name="force_no_nav_bar">Force no navigation bar</string>
     <string name="force_has_nav_bar">Force has navigation bar</string>
 
@@ -467,6 +476,7 @@
     <string name="enter_name">Enter name</string>
     <string name="get_gesture_hint">Click back to cancel, other key to save gesture. \nYou can also record gesture via action: gesture record.</string>
     <string name="enter_duration">Enter duration</string>
+    <string name="enter_count">Enter repeat count</string>
     <string name="time_in_milliseconds">Time in milliseconds</string>
     <string name="view">View</string>
     <string name="move_up">Move up</string>
@@ -485,12 +495,14 @@
     <string name="toast_description">%t: time.\n%w: day of week.\n%d: date.\n%b: battery level.</string>
     <string name="command_hint">Shell command for developers only</string>
     <string name="command_on_system_process">Runs on system process</string>
+    <string name="command_request_root">Root access</string>
     <string name="su_not_supported_on_system">su not supported run on system process.</string>
+    <string name="not_need_to_exec_su_explicitly">Not need to call su explicitly if root access checked.</string>
     <string name="run_command_failed">Failed to run command:&#160;</string>
     <string name="action_info">Action info</string>
     <string name="export_as_command">Export as command</string>
     <string name="text_copied">Text copied.</string>
-    <string name="nothing_copied">Nothing copied!</string>
+    <string name="nothing_fetched">Nothing fetched!</string>
     <string name="sound">Sound</string>
     <string name="vibrate">Vibrate</string>
     <string name="light">Light</string>
@@ -558,6 +570,8 @@
     <string name="perform_by_broadcast_not_allowed">Perform by broadcast not allowed!</string>
     <string name="ignore_edges">Ignore edges</string>
     <string name="intercept_keys">Intercept keys</string>
+    <string name="settings_should_be_moved">Settings should be moved from /data/data/com.jozein… to /data/user_de/0/com.jozein…\nPlease launch this app, and reboot/soft reboot.</string>
+    <string name="count">Count:</string>
 
     <!-- help -->
     <string name="help_how_to_set">How to set(click to learn):</string>
@@ -574,7 +588,7 @@
     <string name="add_translation_or_fix">Add translation or fix</string>
 
     <!-- untranslatable -->
-    <string name="description" translatable="false">This module provides you system level controls and actions. Remap gesture, keys, phone state, etc…, to trigger actions you want.</string>
+    <string name="description" translatable="false">This module provides you Gesture control, Key control and other smart triggers. To trigger actions you want.</string>
 
 </resources>
 

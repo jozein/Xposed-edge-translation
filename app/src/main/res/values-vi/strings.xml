@@ -573,9 +573,23 @@
     <string name="intercept_keys">Intercept keys</string>
     <string name="do_not_show_pen_toolbar_automatically">Do not show pen toolbar automatically</string>
     <string name="do_not_show_pen_toolbar_automatically_hint">You can also show toolbar by tap with two fingers.</string>
-    <string name="nothing_copied">Nothing copied!</string>
+    <string name="nothing_fetched">Nothing fetched!</string>
     <string name="action_universal_copy">Universal copy</string>
     <string name="clipboard_color">Clipboard color</string>
+    <string name="pie_scale">Pie scale</string>
+    <string name="by_two_finger">Only by two finger</string>
+    <string name="floating_widget_timeout">Floating widget timeout</string>
+    <string name="settings_should_be_moved">Settings should be moved from /data/data/com.jozein… to /data/user_de/0/com.jozein…\\nPlease launch this app, and reboot/soft reboot.</string>
+    <string name="action_finish_activity">Finish activity</string>
+    <string name="input_method_menu">Input method menu</string>
+    <string name="last_input_method">Last input method</string>
+    <string name="action_abort">Abort</string>
+    <string name="action_repeat">Repeat</string>
+    <string name="command_request_root">Root access</string>
+    <string name="count">Count:</string>
+    <string name="enter_count">Enter repeat count</string>
+    <string name="not_need_to_exec_su_explicitly">Not need to call su explicitly if root access checked.</string>
+    <string name="panel_scale">Panel scale</string>
 
 </resources>
 
