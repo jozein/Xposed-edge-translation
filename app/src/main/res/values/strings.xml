@@ -108,6 +108,8 @@
     <string name="action_volume_up">Volume up</string>
     <string name="action_volume_down">Volume down</string>
     <string name="action_adjust_volume">Adjust volume</string>
+    <string name="action_media_control">Media control</string>
+    <string name="action_media_play">Media play</string>
     <string name="action_media_play_pause">Media play/pause</string>
     <string name="action_media_stop">Media stop</string>
     <string name="action_media_previous">Media previous</string>
@@ -495,7 +497,7 @@
     <string name="toast_description">%t: time.\n%w: day of week.\n%d: date.\n%b: battery level.</string>
     <string name="command_hint">Shell command for developers only</string>
     <string name="command_on_system_process">Runs on system process</string>
-    <string name="command_request_root">Root access</string>
+    <string name="command_root_access">Root access</string>
     <string name="su_not_supported_on_system">su not supported run on system process.</string>
     <string name="not_need_to_exec_su_explicitly">Not need to call su explicitly if root access checked.</string>
     <string name="run_command_failed">Failed to run command:&#160;</string>

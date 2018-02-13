@@ -578,10 +578,12 @@
     <string name="last_input_method">Last input method</string>
     <string name="action_abort">Abort</string>
     <string name="action_repeat">Repeat</string>
-    <string name="command_request_root">Root access</string>
+    <string name="command_root_access">Root access</string>
     <string name="count">Count:</string>
     <string name="enter_count">Enter repeat count</string>
     <string name="not_need_to_exec_su_explicitly">Not need to call su explicitly if root access checked.</string>
     <string name="panel_scale">Panel scale</string>
+    <string name="action_media_control">Media control</string>
+    <string name="action_media_play">Media play</string>
 
 </resources>

@@ -572,11 +572,13 @@
     <string name="last_input_method">上一输入法</string>
     <string name="action_abort">终止</string>
     <string name="action_repeat">重复</string>
-    <string name="command_request_root">以root身份运行</string>
+    <string name="command_root_access">以root身份运行</string>
     <string name="count">次数：</string>
     <string name="enter_count">输入次数</string>
     <string name="not_need_to_exec_su_explicitly">勾选了以root身份运行就不需要显示调用su了。</string>
     <string name="panel_scale">面板尺寸比例</string>
+    <string name="action_media_control">音乐控制</string>
+    <string name="action_media_play">播放音乐</string>
 
 
 </resources>
