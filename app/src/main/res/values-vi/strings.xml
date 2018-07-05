@@ -8,11 +8,6 @@
     <string name="app_name_pro">Xposed edge pro</string>
     <string name="shortcut_name">Xposed edge actions</string>
     <string name="shortcut_name_pro">Xposed edge pro actions</string>
-    <!-- some wrong? -->
-    <!--<string name="app_name">Phím cạnh Xposed</string>-->
-    <!--<string name="app_name_pro">Phím cạnh Xposed edge</string>-->
-    <!--<string name="shortcut_name">Các hành động phím cạnh Xposed</string>-->
-    <!--<string name="shortcut_name_pro">Các hành động phím cạnh Xposed pro</string>-->
 
     <!-- main -->
     <string name="gestures">Các cử chỉ</string>
@@ -592,6 +587,10 @@
     <string name="panel_scale">Panel scale</string>
     <string name="action_media_control">Media control</string>
     <string name="action_media_play">Media play</string>
+    <string name="gesture_hold">Hold</string>
+    <string name="action_sub_gestures">Sub gestures</string>
+    <string name="mode_default">Default</string>
+    <string name="widget_hint">Long press and hold to move widget, double tap and swipe to resize widget, use two finger to hide it.</string>
 
 </resources>
 

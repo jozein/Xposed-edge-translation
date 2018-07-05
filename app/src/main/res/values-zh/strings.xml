@@ -579,6 +579,10 @@
     <string name="panel_scale">面板尺寸比例</string>
     <string name="action_media_control">音乐控制</string>
     <string name="action_media_play">播放音乐</string>
+    <string name="gesture_hold">悬停</string>
+    <string name="action_sub_gestures">子手势</string>
+    <string name="mode_default">默认</string>
+    <string name="widget_hint">长按按住hu可移动小部件，双击滑动可调整尺寸，双指触摸可隐藏。</string>
 
 
 </resources>

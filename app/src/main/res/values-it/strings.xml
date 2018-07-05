@@ -413,7 +413,7 @@
     <string name="select_shortcut">Seleziona scorciatoia</string>
     <string name="set_level">imposta il livello</string>
     <string name="settings_restored">Impostazioni ripristinate, è necessario riavviare ora!</string>
-    <string name="settings_should_be_moved">"Le impostazioni dovrebbero essere spostate da /data/data/com.jozein... a /data/user_de/0/com.jozein... Si prega di avviare questa applicazione e riavviare/riavviare il sistema."</string>
+    <string name="settings_should_be_moved">"Le impostazioni dovrebbero essere spostate da /data/data/com.jozein… a /data/user_de/0/com.jozein… Si prega di avviare questa applicazione e riavviare/riavviare il sistema."</string>
     <string name="share">Condividi</string>
     <string name="shortcut_name">Azioni Xposed edge</string>
     <string name="shortcut_name_pro">Azioni Xposed edge pro</string>
@@ -521,7 +521,15 @@
     <string name="widgets">Widget</string>
     <string name="wifi_ssid">SSID</string>
     <string name="windows_not_focusable">Windows non attivabile</string>
-    <string name="windows_not_focusable_hint">"Windows (pannelli, drawer ...) mostra sopra la tastiera virtuale, non può ricevere l'evento chiave se impostato."</string>
+    <string name="windows_not_focusable_hint">"Windows (pannelli, drawer …) mostra sopra la tastiera virtuale, non può ricevere l'evento chiave se impostato."</string>
     <string name="xposed_not_installed">Xposed non installato!!!</string>
     <string name="description">Questo modulo fornisce il controllo dei gesti, il controllo tasti e altre azioni intelligenti per attivare azioni che desideri.</string>
+
+    <string name="gesture_hold">Hold</string>
+    <string name="action_sub_gestures">Sub gestures</string>
+    <string name="mode_default">Default</string>
+    <string name="widget_hint">Long press and hold to move widget, double tap and swipe to resize widget, use two finger to hide it.</string>
+    <string name="speech_description">%t: time. %w: day of week. %d: date. %b: battery level. Empty triggers stop speech. Note: Maybe you should install a engine for local language(e.g. Google text to speech engine).</string>
+    <string name="toast_description">%t: time. %w: day of week. %d: date. %b: battery level.</string>
+    <string name="variable_expression_hint"><![CDATA[Variable:\n  32 bit signed integer.\nSupported operators:\n  +, -, *, /, %, <<, >>, &, ^, |, ~, ++, --.\n  Same as C/C++/Java…\nExample:\n  (var + 1) % 2]]></string>
 </resources>

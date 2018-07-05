@@ -1,6 +1,4 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- please save translation as utf-8 or utf-16(unicode) -->
-<!-- and send to jozein@sina.com  -->
 <resources>
 
     <!-- add translator name here if you want -->
@@ -538,6 +536,10 @@
     <string name="panel_scale">Panel scale</string>
     <string name="action_media_control">Media control</string>
     <string name="action_media_play">Media play</string>
+    <string name="gesture_hold">Hold</string>
+    <string name="action_sub_gestures">Sub gestures</string>
+    <string name="mode_default">Default</string>
+    <string name="widget_hint">Long press and hold to move widget, double tap and swipe to resize widget, use two finger to hide it.</string>
 
 
 </resources>
