@@ -20,6 +20,7 @@
     <string name="custom_panels">Custom panels</string>
     <string name="left_side_bar">Left side bar</string>
     <string name="right_side_bar">Right side bar</string>
+    <string name="tiles">Quick settings tiles</string>
     <string name="schedule">Schedule</string>
     <string name="app_state">App state</string>
     <string name="more_triggers">More triggers</string>
@@ -38,6 +39,7 @@
     <string name="help_and_support">Help and support</string>
     <string name="about">About</string>
     <string name="pro_only">Pro only</string>
+    <string name="since_nougat">Since Android N</string>
 
     <!-- gesture edge -->
     <string name="edge_left_top">Left top</string>
@@ -361,6 +363,29 @@
     <string name="state_full_screen">Full screen</string>
     <string name="state_exit_full_screen">Exit full screen</string>
 
+    <!-- tiles -->
+    <string name="tile_1">Tile 1</string>
+    <string name="tile_2">Tile 2</string>
+    <string name="tile_3">Tile 3</string>
+    <string name="tile_4">Tile 4</string>
+    <string name="tile_5">Tile 5</string>
+    <string name="tile_6">Tile 6</string>
+    <string name="tile_7">Tile 7</string>
+    <string name="tile_8">Tile 8</string>
+    <string name="tile_9">Tile 9</string>
+    <string name="tile_10">Tile 10</string>
+    <string name="tile_11">Tile 11</string>
+    <string name="tile_12">Tile 12</string>
+
+    <string name="edit_tile">Edit tile</string>
+    <string name="add_tile">Add tile</string>
+    <string name="remove_tile">Remove tile</string>
+    <string name="enable_tile">Enable tile</string>
+    <string name="disable_tile">Disable tile</string>
+
+    <string name="tile_added">Tile added.</string>
+    <string name="tile_removed">Tile removed.</string>
+
     <!-- preferences -->
     <string name="theme">Theme</string>
     <string name="edge_width">Edge width</string>
@@ -373,6 +398,8 @@
     <string name="gesture_long_press_timeout">Gesture long press timeout</string>
     <string name="key_double_click_timeout">Double click timeout</string>
     <string name="key_long_click_timeout">Long click timeout</string>
+    <string name="real_time_detect_sub_gesture">Real-time detect sub gesture</string>
+    <string name="gesture_hold_timeout">Hold timeout</string>
     <string name="floating_widget_timeout">Floating widget timeout</string>
     <string name="clip_history_size">Clipboard history size</string>
     <string name="save_clip_data">Save clipboard data</string>

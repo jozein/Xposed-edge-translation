@@ -532,4 +532,28 @@
     <string name="speech_description">%t: time. %w: day of week. %d: date. %b: battery level. Empty triggers stop speech. Note: Maybe you should install a engine for local language(e.g. Google text to speech engine).</string>
     <string name="toast_description">%t: time. %w: day of week. %d: date. %b: battery level.</string>
     <string name="variable_expression_hint"><![CDATA[Variable:\n  32 bit signed integer.\nSupported operators:\n  +, -, *, /, %, <<, >>, &, ^, |, ~, ++, --.\n  Same as C/C++/Java…\nExample:\n  (var + 1) % 2]]></string>
+    <string name="tiles">Quick settings tiles</string>
+    <string name="since_nougat">Since Android N</string>
+    <string name="edit_tile">Edit tile</string>
+    <string name="add_tile">Add tile</string>
+    <string name="remove_tile">Remove tile</string>
+    <string name="enable_tile">Enable tile</string>
+    <string name="disable_tile">Disable tile</string>
+    <string name="tile_added">Tile added.</string>
+    <string name="tile_removed">Tile removed.</string>
+    <string name="gesture_hold_timeout">Hold timeout</string>
+    <string name="real_time_detect_sub_gesture">Real-time detect sub gesture</string>
+    <string name="tile_1">Tile 1</string>
+    <string name="tile_2">Tile 2</string>
+    <string name="tile_3">Tile 3</string>
+    <string name="tile_4">Tile 4</string>
+    <string name="tile_5">Tile 5</string>
+    <string name="tile_6">Tile 6</string>
+    <string name="tile_7">Tile 7</string>
+    <string name="tile_8">Tile 8</string>
+    <string name="tile_9">Tile 9</string>
+    <string name="tile_10">Tile 10</string>
+    <string name="tile_11">Tile 11</string>
+    <string name="tile_12">Tile 12</string>
+
 </resources>

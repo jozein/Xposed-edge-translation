@@ -580,9 +580,31 @@
     <string name="action_media_control">音乐控制</string>
     <string name="action_media_play">播放音乐</string>
     <string name="gesture_hold">悬停</string>
-    <string name="action_sub_gestures">子手势</string>
+    <string name="action_sub_gestures">次手势</string>
     <string name="mode_default">默认</string>
-    <string name="widget_hint">长按按住hu可移动小部件，双击滑动可调整尺寸，双指触摸可隐藏。</string>
-
+    <string name="widget_hint">长按按住可移动小部件，双击滑动可调整尺寸，双指触摸可隐藏。</string>
+    <string name="tiles">快速设置磁贴</string>
+    <string name="since_nougat">Android N 起</string>
+    <string name="edit_tile">编辑磁贴</string>
+    <string name="add_tile">添加磁贴</string>
+    <string name="remove_tile">移除磁贴</string>
+    <string name="enable_tile">启用磁贴</string>
+    <string name="disable_tile">停用磁贴</string>
+    <string name="tile_added">磁贴已添加</string>
+    <string name="tile_removed">磁贴已移除</string>
+    <string name="gesture_hold_timeout">悬停延时</string>
+    <string name="real_time_detect_sub_gesture">实时分析子手势</string>
+    <string name="tile_1">Tile 1</string>
+    <string name="tile_2">Tile 2</string>
+    <string name="tile_3">Tile 3</string>
+    <string name="tile_4">Tile 4</string>
+    <string name="tile_5">Tile 5</string>
+    <string name="tile_6">Tile 6</string>
+    <string name="tile_7">Tile 7</string>
+    <string name="tile_8">Tile 8</string>
+    <string name="tile_9">Tile 9</string>
+    <string name="tile_10">Tile 10</string>
+    <string name="tile_11">Tile 11</string>
+    <string name="tile_12">Tile 12</string>
 
 </resources>
