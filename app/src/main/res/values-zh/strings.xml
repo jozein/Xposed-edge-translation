@@ -416,7 +416,7 @@
     <string name="sound">声音</string>
     <string name="vibrate">振动</string>
     <string name="light">指示灯</string>
-    <string name="pie_slide_adjust_support">Pie与划动调节与指针仅支持未抬手的手势，长按/双击。或者未设置抬手后触发划动手势，还支持划动触发。</string>
+    <string name="pie_slide_adjust_support">Pie，划动调节，指针，子手势等仅支持未抬手的手势，长按/双击。或者未设置抬手后触发划动手势，还支持划动触发。</string>
     <string name="app_may_not_has_default_activity">应用可能没有默认入口以运行</string>
     <string name="low_priority">低优先级</string>
     <string name="perform_failed">执行失败：</string>
@@ -580,7 +580,7 @@
     <string name="action_media_control">音乐控制</string>
     <string name="action_media_play">播放音乐</string>
     <string name="gesture_hold">悬停</string>
-    <string name="action_sub_gestures">次手势</string>
+    <string name="action_sub_gestures">子手势</string>
     <string name="mode_default">默认</string>
     <string name="widget_hint">长按按住可移动小部件，双击滑动可调整尺寸，双指触摸可隐藏。</string>
     <string name="tiles">快速设置磁贴</string>
@@ -592,7 +592,7 @@
     <string name="disable_tile">停用磁贴</string>
     <string name="tile_added">磁贴已添加</string>
     <string name="tile_removed">磁贴已移除</string>
-    <string name="gesture_hold_timeout">悬停延时</string>
+    <string name="gesture_hold_timeout">子手势悬停延时</string>
     <string name="real_time_detect_sub_gesture">实时分析子手势</string>
     <string name="tile_1">Tile 1</string>
     <string name="tile_2">Tile 2</string>

@@ -600,7 +600,7 @@
     <string name="disable_tile">Disable tile</string>
     <string name="tile_added">Tile added.</string>
     <string name="tile_removed">Tile removed.</string>
-    <string name="gesture_hold_timeout">Hold timeout</string>
+    <string name="gesture_hold_timeout">Hold timeout of sub gesture</string>
     <string name="real_time_detect_sub_gesture">Real-time detect sub gesture</string>
     <string name="tile_1">Tile 1</string>
     <string name="tile_2">Tile 2</string>

@@ -399,7 +399,7 @@
     <string name="key_double_click_timeout">Double click timeout</string>
     <string name="key_long_click_timeout">Long click timeout</string>
     <string name="real_time_detect_sub_gesture">Real-time detect sub gesture</string>
-    <string name="gesture_hold_timeout">Hold timeout</string>
+    <string name="gesture_hold_timeout">Hold timeout of sub gesture</string>
     <string name="floating_widget_timeout">Floating widget timeout</string>
     <string name="clip_history_size">Clipboard history size</string>
     <string name="save_clip_data">Save clipboard data</string>
@@ -537,7 +537,7 @@
     <string name="sound">Sound</string>
     <string name="vibrate">Vibrate</string>
     <string name="light">Light</string>
-    <string name="pie_slide_adjust_support">Pie/slide adjust/gesture pointer only for gesture long press/double click, or swipes if not enabled swipe triggers after finger upped.</string>
+    <string name="pie_slide_adjust_support">Pie/slide adjust/gesture pointer/sub gesture… only for gesture long press/double click, or swipes if not enabled swipe triggers after finger upped.</string>
     <string name="app_may_not_has_default_activity">App may not has default activity</string>
     <string name="low_priority">Low priority</string>
     <string name="perform_failed">Failed to perform:&#160;</string>
@@ -594,6 +594,7 @@
     <string name="widgets">Widgets</string>
     <string name="invalid_widget">Invalid widget!</string>
     <string name="delete_all">Delete all</string>
+    <string name="mode_default">Default</string>
     <string name="mode_tap">Tap mode</string>
     <string name="mode_long_press">Long press mode</string>
     <string name="mode_double_tap">Double tap mode</string>
@@ -621,7 +622,6 @@
 
     <!-- untranslatable -->
     <string name="description" translatable="false">This module provides you Gesture control, Key control and other smart triggers. To trigger actions you want.</string>
-    <string name="mode_default">Default</string>
 
 </resources>
 
