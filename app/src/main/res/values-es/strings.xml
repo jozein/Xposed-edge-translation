@@ -102,8 +102,6 @@
     <string name="action_recent_apps">Aplicaciones recientes</string>
     <string name="action_menu">Menú</string>
     <string name="action_sleep_wake">Dormir/Despertar</string>
-    <string name="action_volume_up">Subir volumen</string>
-    <string name="action_volume_down">Bajar volumen</string>
     <string name="action_adjust_volume">Ajustar volumen</string>
     <string name="action_media_play_pause">Reproducir/Pausar</string>
     <string name="action_media_stop">Detener</string>
@@ -402,7 +400,6 @@
     <string name="freeze">Congelar</string>
     <string name="code">Code:&#160;</string>
     <string name="click_a_key_to_add">Haga clic en la tecla que desea agregar.</string>
-    <string name="keycode_overflow">Keycode greeter than max keycode.</string>
     <string name="xposed_not_installed">Xposed no instalado!!!</string>
     <string name="module_not_activated">Módulo no activado aún (o no actualizado)! Por favor, active este módulo en el instalador Xposed y reinicie.</string>
     <string name="unable_to_freeze_this_app">No se puede congelar esta aplicación.</string>
@@ -453,7 +450,6 @@
     <string name="vibrate">Vibrar</string>
     <string name="light">Light</string>
     <string name="pie_slide_adjust_support">Pie/slide adjust/gesture pointer only for gesture long press/double click, or swipes if not enabled swipe triggers after finger upped.</string>
-    <string name="app_may_not_has_default_activity">App may not has default activity</string>
     <string name="low_priority">Baja prioridad</string>
     <string name="perform_failed">Failed to perform:&#160;</string>
     <string name="click_to_continue">Clic para continuar…</string>
@@ -510,9 +506,6 @@
     <string name="visit_xda_thread">Visita el foro de XDA</string>
     <string name="add_translation_or_fix">Añadir o corregir traducción</string>
 
-    <!-- untranslatable -->
-    <!--<string name="description" translatable="false">This module provides you system level controls and actions. Remap gesture, keys, phone state, etc…, to trigger actions you want.</string>-->
-
     <string name="app_started">iniciado</string>
     <string name="app_stopped">detenido</string>
     <string name="action_clipboard">Portapapeles</string>
@@ -521,7 +514,6 @@
     <string name="redo">Rehacer</string>
     <string name="undo">Deshacer</string>
     <string name="action_toast">Toast</string>
-    <string name="icon_color">Color del icono</string>
     <string name="user_not_supported">Current user is not supported!!!</string>
     <string name="action_play_sound">Reproducir sonido</string>
     <string name="action_vibrate">Vibrate</string>
@@ -601,7 +593,7 @@
     <string name="tile_added">Tile added.</string>
     <string name="tile_removed">Tile removed.</string>
     <string name="gesture_hold_timeout">Hold timeout of sub gesture</string>
-    <string name="real_time_detect_sub_gesture">Real-time detect sub gesture</string>
+    <string name="sub_gesture_triggers_when_swiping">Sub gesture triggers when swiping</string>
     <string name="tile_1">Tile 1</string>
     <string name="tile_2">Tile 2</string>
     <string name="tile_3">Tile 3</string>
@@ -614,5 +606,15 @@
     <string name="tile_10">Tile 10</string>
     <string name="tile_11">Tile 11</string>
     <string name="tile_12">Tile 12</string>
+    <string name="icon_style_in_app">Icon style in app</string>
+    <string name="pie_icon_color">Pie icon color</string>
+    <string name="circle_icon_on_panels">Circle icon on panels</string>
+    <string name="panel_icon_color">Panel icon color</string>
+    <string name="panel_circle_background_color">Panel circle background color</string>
+    <string name="drawer_color">Drawer color</string>
+    <string name="colorful_circle_icon">Colorful circle icon</string>
+    <string name="circle_icon">Circle icon</string>
+    <string name="default_icon">Default icon</string>
+    <string name="description">This module provides you Gesture control, Key control and other smart triggers. To trigger actions you want.</string>
 
 </resources>

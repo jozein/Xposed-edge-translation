@@ -99,8 +99,6 @@
     <string name="action_recent_apps">最近应用</string>
     <string name="action_menu">菜单</string>
     <string name="action_sleep_wake">锁屏/唤醒</string>
-    <string name="action_volume_up">音量加</string>
-    <string name="action_volume_down">音量减</string>
     <string name="action_adjust_volume">调节音量</string>
     <string name="action_slide_adjust">划动调节</string>
     <string name="action_media_play_pause">音乐播放/暂停</string>
@@ -367,7 +365,6 @@
     <string name="freeze">冻结</string>
     <string name="code">值：</string>
     <string name="click_a_key_to_add">按下你要添加的按键</string>
-    <string name="keycode_overflow">按键超过允许的最大值！</string>
     <string name="xposed_not_installed">Xposed框架未安装！</string>
     <string name="module_not_activated">模块未激活（或未更新）， 请在Xposed installer中激活，然后重启。</string>
     <string name="unable_to_freeze_this_app">不能冻结此应用</string>
@@ -417,7 +414,6 @@
     <string name="vibrate">振动</string>
     <string name="light">指示灯</string>
     <string name="pie_slide_adjust_support">Pie，划动调节，指针，子手势等仅支持未抬手的手势，长按/双击。或者未设置抬手后触发划动手势，还支持划动触发。</string>
-    <string name="app_may_not_has_default_activity">应用可能没有默认入口以运行</string>
     <string name="low_priority">低优先级</string>
     <string name="perform_failed">执行失败：</string>
     <string name="no_alarm">没有定时任务</string>
@@ -513,7 +509,6 @@
     <string name="redo">重做</string>
     <string name="undo">撤销</string>
     <string name="action_toast">Toast提示</string>
-    <string name="icon_color">图标颜色</string>
     <string name="user_not_supported">不支持当前用户！！！</string>
     <string name="action_play_sound">播放音频</string>
     <string name="action_vibrate">振动</string>
@@ -593,7 +588,7 @@
     <string name="tile_added">磁贴已添加</string>
     <string name="tile_removed">磁贴已移除</string>
     <string name="gesture_hold_timeout">子手势悬停延时</string>
-    <string name="real_time_detect_sub_gesture">实时分析子手势</string>
+    <string name="sub_gesture_triggers_when_swiping">子手势滑动中触发</string>
     <string name="tile_1">Tile 1</string>
     <string name="tile_2">Tile 2</string>
     <string name="tile_3">Tile 3</string>
@@ -606,5 +601,15 @@
     <string name="tile_10">Tile 10</string>
     <string name="tile_11">Tile 11</string>
     <string name="tile_12">Tile 12</string>
+    <string name="pie_icon_color">Pie图标颜色</string>
+    <string name="icon_style_in_app">应用端图标式样</string>
+    <string name="circle_icon_on_panels">面板中使用圆形图标</string>
+    <string name="panel_icon_color">面板图标颜色</string>
+    <string name="panel_circle_background_color">面板圆形背景色</string>
+    <string name="drawer_color">抽屉颜色</string>
+    <string name="colorful_circle_icon">多彩圆形图标</string>
+    <string name="circle_icon">圆形图标</string>
+    <string name="default_icon">默认图标</string>
+    <string name="description">此模块提供手势控制，按键控制，及其它自动触发功能。</string>
 
 </resources>

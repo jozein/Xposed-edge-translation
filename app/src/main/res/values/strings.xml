@@ -108,8 +108,6 @@
     <string name="action_recent_apps">Recent apps</string>
     <string name="action_menu">Menu</string>
     <string name="action_sleep_wake">Sleep/wake up</string>
-    <string name="action_volume_up">Volume up</string>
-    <string name="action_volume_down">Volume down</string>
     <string name="action_adjust_volume">Adjust volume</string>
     <string name="action_media_control">Media control</string>
     <string name="action_media_play">Media play</string>
@@ -388,6 +386,7 @@
 
     <!-- preferences -->
     <string name="theme">Theme</string>
+    <string name="icon_style_in_app">Icon style in app</string>
     <string name="edge_width">Edge width</string>
     <string name="edge_height">Edge height</string>
     <string name="swipe_triggers_after_finger_upped">Swipe triggers after finger upped</string>
@@ -398,7 +397,7 @@
     <string name="gesture_long_press_timeout">Gesture long press timeout</string>
     <string name="key_double_click_timeout">Double click timeout</string>
     <string name="key_long_click_timeout">Long click timeout</string>
-    <string name="real_time_detect_sub_gesture">Real-time detect sub gesture</string>
+    <string name="sub_gesture_triggers_when_swiping">Sub gesture triggers when swiping</string>
     <string name="gesture_hold_timeout">Hold timeout of sub gesture</string>
     <string name="floating_widget_timeout">Floating widget timeout</string>
     <string name="clip_history_size">Clipboard history size</string>
@@ -414,7 +413,11 @@
     <string name="pie_color">Pie color</string>
     <string name="slide_adjust_color">Slide adjust color</string>
     <string name="clipboard_color">Clipboard color</string>
-    <string name="icon_color">Icon color</string>
+    <string name="pie_icon_color">Pie icon color</string>
+    <string name="circle_icon_on_panels">Circle icon on panels</string>
+    <string name="panel_icon_color">Panel icon color</string>
+    <string name="panel_circle_background_color">Panel circle background color</string>
+    <string name="drawer_color">Drawer color</string>
     <string name="pen_colors">Pen colors</string>
     <string name="do_not_show_pen_toolbar_automatically">Do not show pen toolbar automatically</string>
     <string name="sound_effect">Sound effect</string>
@@ -439,6 +442,9 @@
     <string name="light_theme">Light</string>
     <string name="light_gray_theme">Light gray</string>
     <string name="black_theme">Black</string>
+    <string name="colorful_circle_icon">Colorful circle icon</string>
+    <string name="circle_icon">Circle icon</string>
+    <string name="default_icon">Default icon</string>
     <string name="never">Never</string>
     <string name="gesture_recording">Gesture recording</string>
     <string name="gesture_injecting">Gesture injecting</string>
@@ -479,7 +485,6 @@
     <string name="freeze">Freeze</string>
     <string name="code">Code:&#160;</string>
     <string name="click_a_key_to_add">Click a key which you want to add.</string>
-    <string name="keycode_overflow">Keycode greeter than max keycode.</string>
     <string name="user_not_supported">Current user is not supported!!!</string>
     <string name="xposed_not_installed">Xposed not installed!!!</string>
     <string name="module_not_activated">Module not activated yet(or not updated)! Please activate this module in Xposed installer, and reboot.</string>
@@ -538,7 +543,6 @@
     <string name="vibrate">Vibrate</string>
     <string name="light">Light</string>
     <string name="pie_slide_adjust_support">Pie/slide adjust/gesture pointer/sub gesture… only for gesture long press/double click, or swipes if not enabled swipe triggers after finger upped.</string>
-    <string name="app_may_not_has_default_activity">App may not has default activity</string>
     <string name="low_priority">Low priority</string>
     <string name="perform_failed">Failed to perform:&#160;</string>
     <string name="click_to_continue">Click to continue…</string>
@@ -621,7 +625,7 @@
     <string name="add_translation_or_fix">Add translation or fix</string>
 
     <!-- untranslatable -->
-    <string name="description" translatable="false">This module provides you Gesture control, Key control and other smart triggers. To trigger actions you want.</string>
+    <string name="description">This module provides you Gesture control, Key control and other smart triggers. To trigger actions you want.</string>
 
 </resources>
 

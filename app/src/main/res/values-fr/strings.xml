@@ -102,8 +102,6 @@
     <string name="action_recent_apps">Applis récentes</string>
     <string name="action_menu">Menu</string>
     <string name="action_sleep_wake">Allumer/Eteindre l\'écran</string>
-    <string name="action_volume_up">Volume (+)</string>
-    <string name="action_volume_down">Volume (-)</string>
     <string name="action_adjust_volume">Ajuster volume</string>
     <string name="action_media_play_pause">Media lecture/pause</string>
     <string name="action_media_stop">Media stop</string>
@@ -359,7 +357,6 @@
     <string name="freeze">Freezer appli</string>
     <string name="code">Code:&#160;</string>
     <string name="click_a_key_to_add">Appuyer sur la touche que vous voulez ajouter.</string>
-    <string name="keycode_overflow">Keycode dépasse le keycode max.</string>
     <string name="xposed_not_installed">Xposed n\'est pas installé!!!</string>
     <string name="module_not_activated">Module inactif(ou non mis à jour)! Activer le module dans Xposed installer et redémarrer. Merci.</string>
     <string name="unable_to_freeze_this_app">Congélation de cette appli impossible!</string>
@@ -406,7 +403,6 @@
     <string name="vibrate">Vibration</string>
     <string name="light">Lumière</string>
     <string name="pie_slide_adjust_support">Touches flottantes, ajustement par glissement, gestes pointés marche uniquement par appui long/double clic ou si l\'execution de geste après relachement du doigt est désactivé.</string>
-    <string name="app_may_not_has_default_activity">l\'appli peu ne pas avoir d\'activité par défaut</string>
     <string name="low_priority">Basse prioritée</string>
     <string name="perform_failed">Echec du lancement:&#160;</string>
     <string name="no_alarm">Pas d\'alarme.</string>
@@ -516,7 +512,6 @@
     <string name="redo">Redo</string>
     <string name="undo">Undo</string>
     <string name="action_toast">Toast</string>
-    <string name="icon_color">Icon color</string>
     <string name="user_not_supported">Current user is not supported!!!</string>
     <string name="action_play_sound">Play sound</string>
     <string name="action_vibrate">Vibrate</string>
@@ -596,7 +591,7 @@
     <string name="tile_added">Tile added.</string>
     <string name="tile_removed">Tile removed.</string>
     <string name="gesture_hold_timeout">Hold timeout of sub gesture</string>
-    <string name="real_time_detect_sub_gesture">Real-time detect sub gesture</string>
+    <string name="sub_gesture_triggers_when_swiping">Sub gesture triggers when swiping</string>
     <string name="tile_1">Tile 1</string>
     <string name="tile_2">Tile 2</string>
     <string name="tile_3">Tile 3</string>
@@ -609,5 +604,15 @@
     <string name="tile_10">Tile 10</string>
     <string name="tile_11">Tile 11</string>
     <string name="tile_12">Tile 12</string>
+    <string name="icon_style_in_app">Icon style in app</string>
+    <string name="pie_icon_color">Pie icon color</string>
+    <string name="circle_icon_on_panels">Circle icon on panels</string>
+    <string name="panel_icon_color">Panel icon color</string>
+    <string name="panel_circle_background_color">Panel circle background color</string>
+    <string name="drawer_color">Drawer color</string>
+    <string name="colorful_circle_icon">Colorful circle icon</string>
+    <string name="circle_icon">Circle icon</string>
+    <string name="default_icon">Default icon</string>
+    <string name="description">This module provides you Gesture control, Key control and other smart triggers. To trigger actions you want.</string>
 
 </resources>

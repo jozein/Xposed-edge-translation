@@ -101,8 +101,6 @@
     <string name="action_recent_apps">Son uygulamalar</string>
     <string name="action_menu">Menü</string>
     <string name="action_sleep_wake">Uyut/uyandır</string>
-    <string name="action_volume_up">Sesi arttır</string>
-    <string name="action_volume_down">Sesi azalt</string>
     <string name="action_adjust_volume">Sesi ayarla</string>
     <string name="action_media_play_pause">Medyayı oynat/duraklat</string>
     <string name="action_media_stop">Medyayı durdur</string>
@@ -365,7 +363,6 @@
     <string name="freeze">Dondur</string>
     <string name="code">Kod:&#160;</string>
     <string name="click_a_key_to_add">Eklemek istediğiniz bir tuşa tıklayın.</string>
-    <string name="keycode_overflow">Tuş kodu maksimum tuş kodundan büyük.</string>
     <string name="xposed_not_installed">Xposed yüklü değil!!!</string>
     <string name="module_not_activated">Modül henüz etkinleştirilmemiş(veya güncel değil)! Lütfen Xposed yükleyicisinde bu modülü etkinleştirin ve yeniden başlatın.</string>
     <string name="unable_to_freeze_this_app">Bu uygulama dondurulamıyor!</string>
@@ -413,7 +410,6 @@
     <string name="vibrate">Titreşim</string>
     <string name="light">Işık</string>
     <string name="pie_slide_adjust_support">Pasta dilimi/sürgü ayarlama/hareket göstergesini yalnızca uzun basma/çift tıklama için kullanın, veya parmağınızı yukarı kaldırdıktan sonra tetikleyiciler etkinleştirilmezse kaydırın.</string>
-    <string name="app_may_not_has_default_activity">Uygulamanın varsayılan etkinliği olmayabilir</string>
     <string name="low_priority">Düşük öncelik</string>
     <string name="perform_failed">Gerçekleştirilemedi:&#160;</string>
     <string name="no_alarm">Alarm yok.</string>
@@ -462,9 +458,7 @@
 
     <string name="visit_xda_thread">XDA konusunu ziyaret et</string>
     <string name="add_translation_or_fix">Çeviri ekle veya düzelt</string>
-
-    <!-- untranslatable -->
-    <!--<string name="description" translatable="false">Bu modül size sistem düzeyinde kontroller ve eylemler sunar. İstediğiniz eylemleri tetiklemek için hareketi, tuşları, telefon durumunu, vb…, yeniden eşleştirin.</string>-->
+    <string name="description" translatable="false">Bu modül size sistem düzeyinde kontroller ve eylemler sunar. İstediğiniz eylemleri tetiklemek için hareketi, tuşları, telefon durumunu, vb…, yeniden eşleştirin.</string>
 
     <string name="condition_soft_keyboard_showing">Yazılımsal klavye gösteriliyor</string>
     <string name="action_refreeze">Dondurucudaki uygulamaları yeniden dondur</string>
@@ -518,7 +512,6 @@
     <string name="redo">Yinele</string>
     <string name="undo">Geri al</string>
     <string name="action_toast">Pencere</string>
-    <string name="icon_color">Simge rengi</string>
     <string name="user_not_supported">Şu anki kullanıcı desteklenmiyor!!!</string>
     <string name="action_play_sound">Ses çal</string>
     <string name="action_vibrate">Titret</string>
@@ -599,7 +592,7 @@
     <string name="tile_added">Tile added.</string>
     <string name="tile_removed">Tile removed.</string>
     <string name="gesture_hold_timeout">Hold timeout of sub gesture</string>
-    <string name="real_time_detect_sub_gesture">Real-time detect sub gesture</string>
+    <string name="sub_gesture_triggers_when_swiping">Sub gesture triggers when swiping</string>
     <string name="tile_1">Tile 1</string>
     <string name="tile_2">Tile 2</string>
     <string name="tile_3">Tile 3</string>
@@ -612,5 +605,14 @@
     <string name="tile_10">Tile 10</string>
     <string name="tile_11">Tile 11</string>
     <string name="tile_12">Tile 12</string>
+    <string name="icon_style_in_app">Icon style in app</string>
+    <string name="pie_icon_color">Pie icon color</string>
+    <string name="circle_icon_on_panels">Circle icon on panels</string>
+    <string name="panel_icon_color">Panel icon color</string>
+    <string name="panel_circle_background_color">Panel circle background color</string>
+    <string name="drawer_color">Drawer color</string>
+    <string name="colorful_circle_icon">Colorful circle icon</string>
+    <string name="circle_icon">Circle icon</string>
+    <string name="default_icon">Default icon</string>
 
 </resources>
