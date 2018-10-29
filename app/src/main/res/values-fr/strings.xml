@@ -118,7 +118,7 @@
     <string name="action_soft_reboot">Redémarrage software</string>
     <string name="action_shutdown">Eteindre</string>
     <string name="action_last_app">Dernière appli</string>
-    <string name="action_previous_app">Appli précèdente</string>
+    <string name="action_previous_app">Appli précédente</string>
     <string name="action_next_app">Appli suivante</string>
     <string name="action_kill_foreground_app">Arrêter appli au premier plan</string>
     <string name="action_kill_app">Arrêter une appli</string>
@@ -126,9 +126,9 @@
     <string name="action_clear_background_apps">Arrêter applis en arrière plan</string>
     <string name="action_location">Localisation</string>
     <string name="action_ringer_mode">Mode de sonnerie </string>
-    <string name="action_auto_brightness">Luminositè auto</string>
+    <string name="action_auto_brightness">Luminosité auto</string>
     <string name="action_auto_rotation">Rotation auto</string>
-    <string name="action_wifi">WIFI</string>
+    <string name="action_wifi">WiFi</string>
     <string name="action_mobile_data">Données mobile</string>
     <string name="action_bluetooth">Bluetooth</string>
     <string name="action_nfc">NFC</string>
@@ -137,7 +137,7 @@
     <string name="action_airplane_mode">Mode avion</string>
     <string name="action_immersive_nav_bar">Barre de navigation immersive</string>
     <string name="action_immersive_status_bar">Barre de status immersive</string>
-    <string name="action_keep_screen_on">Reste réveillé</string>
+    <string name="action_keep_screen_on">Caféine</string>
     <string name="action_torch">Torche</string>
     <string name="action_screen_filter">Filtre d\'écran</string>
     <string name="action_gesture_record">Enregistrer gestes</string>
@@ -161,7 +161,7 @@
     <string name="action_slide_adjust">Ajuster par glissement</string>
     <string name="action_gesture_pointer">Geste pointé</string>
     <string name="action_app">Applications</string>
-    <string name="action_activity">Activitèes</string>
+    <string name="action_activity">Activitées</string>
     <string name="action_shortcut">Raccourcis</string>
     <string name="action_command">Ligne de commande</string>
     <string name="action_delay">Délais</string>
@@ -225,7 +225,7 @@
     <string name="condition_and">Et</string>
     <string name="condition_or">Ou</string>
     <string name="condition_not">N\'est pas</string>
-    <string name="condition_screen_on">Ecran allumè</string>
+    <string name="condition_screen_on">Ecran allumé</string>
     <string name="condition_keyguard_on">Verrouillage actif</string>
     <string name="condition_auto_brightness">Luminosité auto</string>
     <string name="condition_auto_rotation">Rotation auto</string>
@@ -334,13 +334,13 @@
     <string name="force_no_nav_bar">Activer la barre de navigation</string>
     <string name="force_has_nav_bar">Désactiver la barre de navigation</string>
 
-    <string name="gestures_triggers_when_swiping_on_hint">Les actions flottantes/glissement/pointeur peuvent être dèclenchè par glissement.</string>
+    <string name="gestures_triggers_when_swiping_on_hint">Les actions flottantes/glissement/pointeur peuvent être déclenché par glissement.</string>
     <string name="gestures_triggers_when_swiping_off_hint">Vous pouvez annuler un geste en l\'inversant.</string>
 
     <!-- others -->
     <string name="select_action">Selection d\'action</string>
     <string name="select_app">Selection d\'application</string>
-    <string name="select_activity">Selection d\'activitèe</string>
+    <string name="select_activity">Selection d\'activitée</string>
     <string name="select_shortcut">Selection de raccourci</string>
     <string name="select_key_event">Selection d\'évenement de touche</string>
     <string name="select_condition">Selection de condition</string>
@@ -448,7 +448,7 @@
     <string name="help_item_3">- Appuyez sur  [Gauche centre] pour étendre les sous options.</string>
     <string name="help_item_4">- Appuyez sur [Glisser à droite] pour selectionner une action.</string>
     <string name="help_item_5">- Appuyez sur [Retour] pour selectionner cette action.</string>
-    <string name="help_item_6">- Maintenant, glisser depuis le bord gauche au centre, vers la droite. L\'action [Retour] seras éxecuté si [Gestes] est activé.</string>
+    <string name="help_item_6">- Maintenant, glisser depuis le bord gauche au centre, vers la droite. L\'action [Retour] sera éxecuté si [Gestes] est activé.</string>
 
     <string name="visit_xda_thread">Visitez le forum sur XDA</string>
     <string name="add_translation_or_fix">Ajouter ou améliorer une traduction</string>
@@ -561,7 +561,7 @@
     <string name="nothing_fetched">Rien n\'a été trouvé!</string>
     <string name="action_universal_copy">Copie universelle</string>
     <string name="clipboard_color">Couleur du clipboard</string>
-    <string name="pie_scale">Couleur des touches flottantes</string>
+    <string name="pie_scale">Taille des touches flottantes</string>
     <string name="by_two_finger">Seulement avec deux doigts</string>
     <string name="floating_widget_timeout">Delai du widget flottant</string>
     <string name="settings_should_be_moved">Les paramètres doivent être déplacés de /data/data/com.jozein… a /data/user_de/0/com.jozein…\\nMerci de relancer l\'appli et de redémarer.</string>
