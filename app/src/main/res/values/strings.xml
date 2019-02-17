@@ -191,6 +191,7 @@
     <string name="action_set_variable">Set variable</string>
     <string name="action_repeat">Repeat</string>
     <string name="action_abort">Abort</string>
+    <string name="action_stop_all">Stop all</string>
     <string name="action_conditional">Conditional</string>
     <string name="action_multi_action">Multi-action</string>
     <string name="action_saved_multi_action">Saved multi-action</string>
@@ -624,7 +625,6 @@
     <string name="tutorial_online">Tutorial online</string>
     <string name="add_translation_or_fix">Add translation or fix</string>
 
-    <!-- untranslatable -->
     <string name="description">This module provides you Gesture control, Key control and other smart triggers. To trigger actions you want.</string>
 
 </resources>

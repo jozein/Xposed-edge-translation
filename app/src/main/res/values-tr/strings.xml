@@ -614,5 +614,6 @@
     <string name="colorful_circle_icon">Colorful circle icon</string>
     <string name="circle_icon">Circle icon</string>
     <string name="default_icon">Default icon</string>
+    <string name="action_stop_all">Stop all</string>
 
 </resources>

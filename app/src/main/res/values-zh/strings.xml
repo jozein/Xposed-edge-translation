@@ -611,5 +611,6 @@
     <string name="circle_icon">圆形图标</string>
     <string name="default_icon">默认图标</string>
     <string name="description">此模块提供手势控制，按键控制，及其它自动触发功能。</string>
+    <string name="action_stop_all">全部停止</string>
 
 </resources>

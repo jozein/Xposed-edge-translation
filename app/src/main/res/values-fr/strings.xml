@@ -614,5 +614,6 @@
     <string name="circle_icon">Icône circulaire</string>
     <string name="default_icon">Icône par défaut</string>
     <string name="description">Ce module vous fournit le contrôle des gestes, le contrôle des touches et d\'autres déclencheurs intelligents. Pour déclencher des actions que vous souhaitez.</string>
+    <string name="action_stop_all">Stop all</string>
 
 </resources>
