@@ -119,10 +119,10 @@
     <string name="action_last_app">Son uygulama</string>
     <string name="action_previous_app">Önceki uygulama</string>
     <string name="action_next_app">Sonraki uygulama</string>
-    <string name="action_kill_foreground_app">Önplan uygulamayı sonlandır</string>
+    <string name="action_kill_foreground_app">Ön plan uygulamayı sonlandır</string>
     <string name="action_kill_app">Uygulama sonlandır</string>
     <string name="action_app_option_menu">Uygulama seçeneği menüsü</string>
-    <string name="action_clear_background_apps">Arkaplan uygulamalarını temizle</string>
+    <string name="action_clear_background_apps">Arka plan uygulamalarını temizle</string>
     <string name="action_location">Konum modu</string>
     <string name="action_ringer_mode">Zil sesi modu</string>
     <string name="action_auto_brightness">Otomatik parlaklık</string>
@@ -535,12 +535,12 @@
     <string name="mode_transform">Dönüştürme modu</string>
     <string name="export_as_command">Komut olarak dışa aktar</string>
     <string name="variables">Değişkenler</string>
-    <string name="allows_perform_by_broadcast">Yayın yoluyla gerçekleştirilmesine izin verir</string>
-    <string name="perform_by_broadcast_not_allowed">Yayın yoluyla gerçekleştirilmesine izin verilmez!</string>
+    <string name="allows_perform_by_broadcast">Yayın yoluyla gerçekleştirilmesine izin ver</string>
+    <string name="perform_by_broadcast_not_allowed">Yayın yoluyla gerçekleştirilmesine izin verme!</string>
     <string name="tutorial_online">Çevrimiçi öğretici</string>
     <string name="disable_gesture_on_keyguard">Tuş kilidinde hareketi devre dışı bırak</string>
     <string name="slide_adjust_color">Sürgü ayarlama rengi</string>
-    <string name="disable_auto_brightness_when_brightness_adjusted">Parlaklık ayarlıyken oto parlaklığı devre dışı bırak</string>
+    <string name="disable_auto_brightness_when_brightness_adjusted">Parlaklık ayarlıyken oto parlaklığı kapat</string>
     <string name="screenshot_fullscreen">Tam ekran görüntüsü</string>
     <string name="screenshot_selected_region">Kısmi ekran görüntüsü</string>
     <string name="effect_sound">Efekt sesi</string>
@@ -592,7 +592,7 @@
     <string name="tile_added">Kare eklendi.</string>
     <string name="tile_removed">Kare kaldırıldı.</string>
     <string name="gesture_hold_timeout">Alt hareketin basılı tutma zaman aşımı</string>
-    <string name="sub_gesture_triggers_when_swiping">Alt hareket, kaydırırken tetiklenir</string>
+    <string name="sub_gesture_triggers_when_swiping">Alt hareket, kaydırırken tetiklensin</string>
     <string name="tile_1">Kare 1</string>
     <string name="tile_2">Kare 2</string>
     <string name="tile_3">Kare 3</string>
@@ -607,12 +607,12 @@
     <string name="tile_12">Kare 12</string>
     <string name="icon_style_in_app">Uygulamada simge stili</string>
     <string name="pie_icon_color">Pasta dilimi simgesi rengi</string>
-    <string name="circle_icon_on_panels">Panellerde daire simgesi</string>
+    <string name="circle_icon_on_panels">Panellerde daire simge</string>
     <string name="panel_icon_color">Panel simgesi rengi</string>
     <string name="panel_circle_background_color">Panel dairesi arka plan rengi</string>
     <string name="drawer_color">Çekmece rengi</string>
-    <string name="colorful_circle_icon">Renkli daire simgesi</string>
-    <string name="circle_icon">Daire simgesi</string>
+    <string name="colorful_circle_icon">Renkli daire simge</string>
+    <string name="circle_icon">Daire simge</string>
     <string name="default_icon">Varsayılan simge</string>
 
 </resources>
