@@ -617,6 +617,7 @@
     <string name="circle_icon">Circle icon</string>
     <string name="default_icon">Default icon</string>
     <string name="action_stop_all">Stop all</string>
+    <string name="logs">Logs</string>
 
 </resources>
 

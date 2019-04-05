@@ -617,5 +617,6 @@
     <string name="default_icon">Default icon</string>
     <string name="description">This module provides you Gesture control, Key control and other smart triggers. To trigger actions you want.</string>
     <string name="action_stop_all">Stop all</string>
+    <string name="logs">Logs</string>
 
 </resources>

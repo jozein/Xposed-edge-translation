@@ -33,7 +33,6 @@
     <string name="share">分享</string>
     <string name="help_and_support">帮助与支持</string>
     <string name="about">关于</string>
-
     <string name="pro_only">pro版</string>
 
     <!-- gesture edge -->
@@ -612,5 +611,6 @@
     <string name="default_icon">默认图标</string>
     <string name="description">此模块提供手势控制，按键控制，及其它自动触发功能。</string>
     <string name="action_stop_all">全部停止</string>
+    <string name="logs">日志</string>
 
 </resources>

@@ -614,5 +614,6 @@
     <string name="colorful_circle_icon">Renkli daire simge</string>
     <string name="circle_icon">Daire simge</string>
     <string name="default_icon">Varsayılan simge</string>
+    <string name="logs">Logs</string>
 
 </resources>
