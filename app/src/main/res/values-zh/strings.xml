@@ -612,5 +612,12 @@
     <string name="description">此模块提供手势控制，按键控制，及其它自动触发功能。</string>
     <string name="action_stop_all">全部停止</string>
     <string name="logs">日志</string>
+    <string name="auto_dark_mode">自动</string>
+    <string name="vibrate_click">点击</string>
+    <string name="vibrate_custom">自定义</string>
+    <string name="vibrate_disable">禁用</string>
+    <string name="vibrate_double_click">双击</string>
+    <string name="vibrate_heavy_click">重按</string>
+    <string name="vibrate_tick">嘀嗒</string>
 
 </resources>

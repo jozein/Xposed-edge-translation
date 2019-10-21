@@ -444,6 +444,7 @@
     <string name="light_theme">Light</string>
     <string name="light_gray_theme">Light gray</string>
     <string name="black_theme">Black</string>
+    <string name="auto_dark_mode">Automatic</string>
     <string name="colorful_circle_icon">Colorful circle icon</string>
     <string name="circle_icon">Circle icon</string>
     <string name="default_icon">Default icon</string>
@@ -611,6 +612,13 @@
     <string name="settings_should_be_moved">Settings should be moved from /data/data/com.jozein… to /data/user_de/0/com.jozein…\nPlease launch this app, and reboot/soft reboot.</string>
     <string name="count">Count:</string>
     <string name="widget_hint">Long press and hold to move widget, double tap and swipe to resize widget, use two finger to hide it.</string>
+    <string name="vibrate_disable">Disable</string>
+    <string name="vibrate_custom">Custom</string>
+    <string name="vibrate_click">Click</string>
+    <string name="vibrate_double_click">Double click</string>
+    <string name="vibrate_tick">Tick</string>
+    <string name="vibrate_heavy_click">Heavy click</string>
+
 
     <!-- help -->
     <string name="help_how_to_set">How to set(click to learn):</string>

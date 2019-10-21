@@ -616,5 +616,12 @@
     <string name="description">Ce module vous fournit le contrôle des gestes, le contrôle des touches et d\'autres déclencheurs intelligents. Pour déclencher des actions que vous souhaitez.</string>
     <string name="action_stop_all">Stop all</string>
     <string name="logs">Logs</string>
+    <string name="auto_dark_mode">Automatic</string>
+    <string name="vibrate_click">Click</string>
+    <string name="vibrate_custom">Custom</string>
+    <string name="vibrate_disable">Disable</string>
+    <string name="vibrate_double_click">Double click</string>
+    <string name="vibrate_heavy_click">Heavy click</string>
+    <string name="vibrate_tick">Tick</string>
 
 </resources>
