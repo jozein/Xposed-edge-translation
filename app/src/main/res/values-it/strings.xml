@@ -568,5 +568,7 @@
     <string name="vibrate_double_click">Double click</string>
     <string name="vibrate_heavy_click">Heavy click</string>
     <string name="vibrate_tick">Tick</string>
+    <string name="open_from">Open from…</string>
+    <string name="add_backup_to">Add backup to…</string>
 
 </resources>

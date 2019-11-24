@@ -550,9 +550,12 @@
     <string name="perform_failed">Failed to perform:&#160;</string>
     <string name="click_to_continue">Click to continue…</string>
     <string name="backups">Backups</string>
+
     <string name="import_from_free_version">Import from free version</string>
     <string name="check_import_from_free_version">Import from free version. Are you sure continue?</string>
     <string name="add_backup">Add backup</string>
+    <string name="add_backup_to">Add backup to…</string>
+    <string name="open_from">Open from…</string>
     <string name="restore">Import</string>
     <string name="backups_path">Backups path</string>
     <string name="settings_restored">Settings restored, need reboot now!</string>
