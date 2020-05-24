@@ -231,9 +231,9 @@
     <string name="adjust_scroll">Scorri</string>
     <string name="adjust_caret">Cursore</string>
 
-    <string name="scroll_to_top">Scorri verso l'alto</string>
+    <string name="scroll_to_top">Scorri verso l\'alto</string>
     <string name="scroll_to_bottom">Scorri verso il basso</string>
-    <string name="scroll_up">Scorri verso l'alto</string>
+    <string name="scroll_up">Scorri verso l\'alto</string>
     <string name="scroll_down">Scorri verso il basso</string>
 
     <string name="caret_left">Cursore a sinistra</string>
@@ -386,7 +386,7 @@
 
     <!-- preferences -->
     <string name="theme">Tema</string>
-    <string name="icon_style_in_app">Stile icona nell'app</string>
+    <string name="icon_style_in_app">Stile icona nell\'app</string>
     <string name="edge_width">Larghezza edge</string>
     <string name="edge_height">Altezza edge</string>
     <string name="swipe_triggers_after_finger_upped">Swipe attivazioni dopo aver sollevato il dito</string>
@@ -421,7 +421,7 @@
     <string name="pen_colors">Colori Pen</string>
     <string name="do_not_show_pen_toolbar_automatically">Non mostrare la barra degli strumenti della penna automaticamente</string>
     <string name="sound_effect">Effetto sonoro</string>
-    <string name="effect_sound">Suono dell'effetto</string>
+    <string name="effect_sound">Suono dell\'effetto</string>
     <string name="vibrate_effect">Effetto della vibrazione</string>
     <string name="vibrate_strength">Forza della vibrazione</string>
     <string name="vibrate_duration">Durata della vibrazione</string>
@@ -434,7 +434,7 @@
     <string name="show_text_on_other_drawers">Mostra testo sugli altri drawer</string>
     <string name="notify_for_actions">Notifica per le azioni</string>
     <string name="disable_auto_brightness_when_brightness_adjusted">Disattiva la luminosità automatica quando la luminosità viene regolata</string>
-    <string name="auto_freeze_only_app_died">Congela automaticamente solo quando l'app viene terminata</string>
+    <string name="auto_freeze_only_app_died">Congela automaticamente solo quando l\'app viene terminata</string>
     <string name="allows_perform_by_broadcast">Permetti esecuzione da broadcast</string>
     <string name="force_nav_bar_state">Forza lo stato della barra di navigazione (necessita il riavvio)</string>
 
@@ -463,7 +463,7 @@
     <string name="gestures_triggers_when_swiping_off_hint">Puoi annullare lo swipe scorrendo indietro.</string>
 
     <string name="do_not_show_pen_toolbar_automatically_hint">Puoi mostrare la barra degli strumenti anche toccando con due dita.</string>
-    <string name="windows_not_focusable_hint">Finestre (pannelli, drawer…) vengono mostrate sopra la tastiera virtuale, non è possibile ricevere l'evento chiave se impostato.</string>
+    <string name="windows_not_focusable_hint">Finestre (pannelli, drawer…) vengono mostrate sopra la tastiera virtuale, non è possibile ricevere l\'evento chiave se impostato.</string>
 
     <!-- others -->
     <string name="select_action">Seleziona azione</string>
@@ -486,7 +486,7 @@
     <string name="freeze">Congela</string>
     <string name="code">Codice: &#160;</string>
     <string name="click_a_key_to_add">Tocca su una chiave che desideri aggiungere.</string>
-    <string name="user_not_supported">L'utente attuale non è supportato!!!</string>
+    <string name="user_not_supported">L\'utente attuale non è supportato!!!</string>
     <string name="xposed_not_installed">Xposed non installato!!!</string>
     <string name="module_not_activated">Modulo non ancora attivato (o non aggiornato)! Attiva questo modulo in Xposed Installer, e riavvia.</string>
     <string name="unable_to_freeze_this_app">Impossibile congelare questa app!</string>
@@ -498,8 +498,8 @@
     <string name="add">Aggiungi…</string>
     <string name="app_started">avviato</string>
     <string name="app_stopped">fermato</string>
-    <string name="app_got_focus">attiva l'app</string>
-    <string name="app_lost_focus">non attivare l'app</string>
+    <string name="app_got_focus">attiva l\'app</string>
+    <string name="app_lost_focus">non attivare l\'app</string>
     <string name="show_activities_exported_only">Mostra solo le attività esportate</string>
     <string name="show_all_activities">Mostra tutte le attività (non sicuro)</string>
     <string name="check_clear_all">Sei sicuro di voler cancellare tutto?</string>
@@ -511,7 +511,7 @@
     <string name="rename">Rinomina</string>
     <string name="delete">Elimina</string>
     <string name="enter_name">Inserisci nome</string>
-    <string name="get_gesture_hint">Tocca indietro per annullare, premi un altro pulsante per salvare la gesture. \nPuoi registrare le gesture anche tramite l'azione: Registra gesture.</string>
+    <string name="get_gesture_hint">Tocca indietro per annullare, premi un altro pulsante per salvare la gesture. \nPuoi registrare le gesture anche tramite l\'azione: Registra gesture.</string>
     <string name="enter_duration">Inserisci durata</string>
     <string name="enter_count">Inserisci conteggio delle ripetizioni</string>
     <string name="time_in_milliseconds">Tempo in millisecondi</string>
@@ -534,7 +534,7 @@
     <string name="command_on_system_process">Funziona sul processo di sistema</string>
     <string name="command_root_access">Accesso root</string>
     <string name="su_not_supported_on_system">SU non supportato in esecuzione sul processo di sistema.</string>
-    <string name="not_need_to_exec_su_explicitly">Non è necessario chiamare SU esplicitamente se l'accesso root è stato verificato.</string>
+    <string name="not_need_to_exec_su_explicitly">Non è necessario chiamare SU esplicitamente se l\'accesso root è stato verificato.</string>
     <string name="run_command_failed">Impossibile eseguire il comando: &#160;</string>
     <string name="action_info">Info azione</string>
     <string name="export_as_command">Esporta come comando</string>
@@ -563,14 +563,14 @@
     <!-- %1$s: app label -->
     <string name="app_frozen_f">Congelato: %1$s</string>
     <string name="app_thawed_f">Scongelato: %1$s</string>
-    <string name="error_freeze_app_f">Impossibile congelare l'app: %1$s</string>
-    <string name="error_thaw_app_f">Impossibile scongelare l'app: %1$s</string>
+    <string name="error_freeze_app_f">Impossibile congelare l\'app: %1$s</string>
+    <string name="error_thaw_app_f">Impossibile scongelare l\'app: %1$s</string>
     <string name="view_on_play_store">Visualizza sul Play Store</string>
     <string name="collect_activity">Raccogli attività</string>
     <string name="collect_activity_with_params">Raccogli attività con parametri</string>
     <string name="confirm_freeze">Conferma di voler congelare!</string>
     <string name="added_to_collection">Aggiunto alla raccolta delle azioni</string>
-    <string name="remove_activity_params">Rimuovi i parametri dell'attività</string>
+    <string name="remove_activity_params">Rimuovi i parametri dell\'attività</string>
     <string name="action">Azione:</string>
     <string name="label">Etichetta:</string>
     <string name="icon">Icona:</string>
@@ -585,7 +585,7 @@
     <string name="as_week">Come settimana</string>
     <string name="as_date">Come data</string>
     <string name="modify_months">Modifica mesi</string>
-    <string name="modify_days_of_month">Modifica mesi dell'anno</string>
+    <string name="modify_days_of_month">Modifica mesi dell\'anno</string>
     <string name="variables">Variabili</string>
     <string name="show_value">Mostra valore</string>
     <string name="variable_name_hint">Il nome della variabile contiene lettere, numeri, _ e $, non inizia con un numero.</string>
@@ -610,7 +610,7 @@
     <string name="perform_by_broadcast_not_allowed">Esecuzione da broadcast non consentita!</string>
     <string name="ignore_edges">Ignora edges</string>
     <string name="intercept_keys">Intercetta pulsanti</string>
-    <string name="settings_should_be_moved">Le impostazioni devono essere spostate da /data/data/com.jozein… a /data/user_de/0/com.jozein…\nAvvia quest'app, e riavvia il dispositivo.</string>
+    <string name="settings_should_be_moved">Le impostazioni devono essere spostate da /data/data/com.jozein… a /data/user_de/0/com.jozein…\nAvvia quest\'app, e riavvia il dispositivo.</string>
     <string name="count">Conta:</string>
     <string name="widget_hint">Tieni premuto a lungo e mantieni per spostare il widget, doppio tocco e scorri per rimendionare il widget, usa due dita per nasconderlo.</string>
     <string name="vibrate_disable">Disattiva</string>
@@ -627,9 +627,9 @@
     <string name="help_item_1">- Tocca la voce [Gesture] nelle impostazioni delle gesture di edge.</string>
     <string name="help_item_2">- Tocca la casella di controllo di [Centrale a sinistra] per abilitare la gesture.</string>
     <string name="help_item_3">- Tocca la voce [Centrale a sinistra] per espandere le sottovoci.</string>
-    <string name="help_item_4">- Tocca la sottovoce [Scorri verso destra] per selezionare l'azione.</string>
-    <string name="help_item_5">- Tocca la voce [Indietro] per selezionare l'azione.</string>
-    <string name="help_item_6">- Ora, scorri da centrale a sinistra verso destra, l'azione [Indietro] verrà eseguita se il modulo è attivo.</string>
+    <string name="help_item_4">- Tocca la sottovoce [Scorri verso destra] per selezionare l\'azione.</string>
+    <string name="help_item_5">- Tocca la voce [Indietro] per selezionare l\'azione.</string>
+    <string name="help_item_6">- Ora, scorri da centrale a sinistra verso destra, l\'azione [Indietro] verrà eseguita se il modulo è attivo.</string>
 
     <string name="visit_xda_thread">Visita il thread su XDA</string>
     <string name="tutorial_online">Tutorial online</string>
