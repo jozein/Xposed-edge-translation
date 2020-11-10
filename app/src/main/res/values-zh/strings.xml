@@ -2,12 +2,12 @@
 <resources>
 
     <!-- add translator's name here -->
-    <string name="about_description">开发者：jozein</string>
+    <string name="about_description">作者：jozein</string>
 
     <string name="app_name">Xposed edge</string>
     <string name="app_name_pro">Xposed edge pro</string>
-    <string name="shortcut_name">Xposed edge动作</string>
-    <string name="shortcut_name_pro">Xposed edge pro动作</string>
+    <string name="shortcut_name">Xposed edge 操作</string>
+    <string name="shortcut_name_pro">Xposed edge pro 操作</string>
 
     <!-- main -->
     <string name="gestures">手势</string>
@@ -423,8 +423,7 @@
     <string name="check_import_from_free_version">将从免费版导入，是否继续？</string>
     <string name="add_backup">添加备份</string>
     <string name="restore">导入</string>
-    <string name="backups_path">备份路径</string>
-    <string name="settings_restored">已导入，需要重启！</string>
+    <string name="settings_restored">已导入！</string>
     <string name="invalid_file">无效文件！</string>
     <string name="permission_denied">权限被拒绝！</string>
     <string name="memory_released_size_f">释放内存：%1$dM.</string>
@@ -560,7 +559,6 @@
     <string name="pie_scale">Pie比例</string>
     <string name="by_two_finger">仅通过双指</string>
     <string name="floating_widget_timeout">悬浮小部件自动消失</string>
-    <string name="settings_should_be_moved">需要将设置从 /data/data/com.jozein… 移至 /data/user_de/0/com.jozein…\\n请启动应用，然后重启或软重启。</string>
     <string name="action_finish_activity">结束活动</string>
     <string name="input_method_menu">输入法菜单</string>
     <string name="last_input_method">上一输入法</string>

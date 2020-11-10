@@ -458,8 +458,7 @@
     <string name="check_import_from_free_version">Importar desde la versión gratuita. Está seguro de continúar?</string>
     <string name="add_backup">Agregar copia de seguridad</string>
     <string name="restore">Importar</string>
-    <string name="backups_path">Ruta de copias de seguridad</string>
-    <string name="settings_restored">Configuración restaurada, necesita reiniciar ahora!</string>
+    <string name="settings_restored">Configuración restaurada!</string>
     <string name="invalid_file">Archivo no válido</string>
     <string name="permission_denied">Permiso denegado!</string>
     <string name="memory_released_size_f">Memoria liberada: %1$dM.</string>
@@ -566,7 +565,6 @@
     <string name="pie_scale">Pie scale</string>
     <string name="by_two_finger">Only by two finger</string>
     <string name="floating_widget_timeout">Floating widget timeout</string>
-    <string name="settings_should_be_moved">Settings should be moved from /data/data/com.jozein… to /data/user_de/0/com.jozein…\\nPlease launch this app, and reboot/soft reboot.</string>
     <string name="action_finish_activity">Finish activity</string>
     <string name="input_method_menu">Input method menu</string>
     <string name="last_input_method">Last input method</string>

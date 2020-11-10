@@ -550,8 +550,7 @@
     <string name="check_import_from_free_version">Импорт из бесплатной версии. Вы уверены?</string>
     <string name="add_backup">Добавить бекап</string>
     <string name="restore">Импорт</string>
-    <string name="backups_path">Путь к бекапам</string>
-    <string name="settings_restored">Настройки восстановлены, нужно перезагрузить сейчас!</string>
+    <string name="settings_restored">Настройки восстановлены!</string>
     <string name="invalid_file">Неверный формат файла</string>
     <string name="permission_denied">Доступ запрещен!</string>
     <string name="memory_released_size_f">Освобождено памяти: %1$dM.</string>
@@ -605,7 +604,6 @@
     <string name="perform_by_broadcast_not_allowed">Широковещательные действия не разрешены!</string>
     <string name="ignore_edges">Игнорировать границы</string>
     <string name="intercept_keys">Перехватывать нажатия</string>
-    <string name="settings_should_be_moved">Настройки должны быть перемещены из /data/data/com.jozein… to /data/user_de/0/com.jozein…\nПожалуйста, запустите это приложение и перезагрузитесь.</string>
     <string name="count">Счетчик:</string>
     <string name="widget_hint">Долгое нажатие и удержание для перемещения виджета, двойное нажатие и свайп для изменения размеров, нажатие двумя пальцами для того, чтобы убрать.</string>
 

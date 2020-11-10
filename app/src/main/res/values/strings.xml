@@ -4,8 +4,8 @@
 <resources>
 
     <!-- add translator name here if you want, like: -->
-    <!--<string name="about_description">Developer: jozein\nTranslator: your name</string>-->
-    <string name="about_description">Developer: jozein</string>
+    <!--<string name="about_description">Author: jozein\nTranslator: your name</string>-->
+    <string name="about_description">Author: jozein</string>
 
     <string name="app_name">Xposed edge</string>
     <string name="app_name_pro">Xposed edge pro</string>
@@ -103,7 +103,7 @@
 
     <!-- actions -->
     <string name="action_as_default">Default</string>
-    <string name="action_none">None</string>
+    <string name="action_none">Noop</string>
     <string name="action_back">Back</string>
     <string name="action_home">Home</string>
     <string name="action_recent_apps">Recent apps</string>
@@ -557,8 +557,7 @@
     <string name="add_backup_to">Add backup to…</string>
     <string name="open_from">Open from…</string>
     <string name="restore">Import</string>
-    <string name="backups_path">Backups path</string>
-    <string name="settings_restored">Settings restored, need reboot now!</string>
+    <string name="settings_restored">Settings restored!</string>
     <string name="invalid_file">Invalid file</string>
     <string name="permission_denied">Permission denied!</string>
     <string name="memory_released_size_f">Memory released: %1$dM.</string>
@@ -612,7 +611,6 @@
     <string name="perform_by_broadcast_not_allowed">Perform by broadcast not allowed!</string>
     <string name="ignore_edges">Ignore edges</string>
     <string name="intercept_keys">Intercept keys</string>
-    <string name="settings_should_be_moved">Settings should be moved from /data/data/com.jozein… to /data/user_de/0/com.jozein…\nPlease launch this app, and reboot/soft reboot.</string>
     <string name="count">Count:</string>
     <string name="widget_hint">Long press and hold to move widget, double tap and swipe to resize widget, use two finger to hide it.</string>
     <string name="vibrate_disable">Disable</string>

@@ -555,8 +555,7 @@
     <string name="add_backup_to">Aggiungi backup a…</string>
     <string name="open_from">Apri da…</string>
     <string name="restore">Importa</string>
-    <string name="backups_path">Percorso di backup</string>
-    <string name="settings_restored">Impostazioni ripristinate, ora è necessario riavviare!</string>
+    <string name="settings_restored">Impostazioni ripristinate!</string>
     <string name="invalid_file">File non valido</string>
     <string name="permission_denied">Permesso negato!</string>
     <string name="memory_released_size_f">Memoria rilasciata: %1$dM.</string>
@@ -610,7 +609,6 @@
     <string name="perform_by_broadcast_not_allowed">Esecuzione da broadcast non consentita!</string>
     <string name="ignore_edges">Ignora edges</string>
     <string name="intercept_keys">Intercetta pulsanti</string>
-    <string name="settings_should_be_moved">Le impostazioni devono essere spostate da /data/data/com.jozein… a /data/user_de/0/com.jozein…\nAvvia quest\'app, e riavvia il dispositivo.</string>
     <string name="count">Conta:</string>
     <string name="widget_hint">Tieni premuto a lungo e mantieni per spostare il widget, doppio tocco e scorri per rimendionare il widget, usa due dita per nasconderlo.</string>
     <string name="vibrate_disable">Disattiva</string>

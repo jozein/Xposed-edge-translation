@@ -420,8 +420,7 @@
     <string name="check_import_from_free_version">Ücretsiz sürümden içe aktarılacak. Devam etmek istediğinize emin misiniz?</string>
     <string name="add_backup">Yedek ekle</string>
     <string name="restore">İçe aktar</string>
-    <string name="backups_path">Yedekleme yolu</string>
-    <string name="settings_restored">Ayarlar geri yüklendi, şimdi yeniden başlatmak gerekiyor!</string>
+    <string name="settings_restored">Ayarlar geri yüklendi!</string>
     <string name="invalid_file">Geçersiz dosya</string>
     <string name="permission_denied">İzin reddedildi!</string>
     <string name="memory_released_size_f">%1$dM bellek serbest.</string>
@@ -565,7 +564,6 @@
     <string name="pie_scale">Pasta dilimi ölçeği</string>
     <string name="by_two_finger">Yalnızca iki parmakla</string>
     <string name="floating_widget_timeout">Yüzen widget zaman aşımı</string>
-    <string name="settings_should_be_moved">Ayarlar /data/data/com.jozein… içinden /data/user_de/0/com.jozein… içine taşınmalıdır\\nLütfen bu uygulamayı çalıştırıp yeniden başlatın/hızlı yeniden başlatın.</string>
     <string name="action_finish_activity">Etkinliği sonlandır</string>
     <string name="input_method_menu">Giriş yöntemi menüsü</string>
     <string name="last_input_method">Son giriş yöntemi</string>

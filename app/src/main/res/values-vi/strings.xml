@@ -458,8 +458,7 @@
     <string name="check_import_from_free_version">Nhập vào từ phiên bản miễn phí. Là bạn chắc chắn tiếp tục?</string>
     <string name="add_backup">Thêm sao lưu</string>
     <string name="restore">Nhập vào</string>
-    <string name="backups_path">Đường dẫn các bản sao lưu</string>
-    <string name="settings_restored">Khôi phục lại cài đặt, cần khởi động lại bây giờ!</string>
+    <string name="settings_restored">Khôi phục lại cài đặt!</string>
     <string name="invalid_file">Tập tin không hợp lệ</string>
     <string name="permission_denied">Quyền bị từ chối!</string>
     <string name="memory_released_size_f">Bộ nhớ phát hành: %1$dM.</string>
@@ -567,7 +566,6 @@
     <string name="pie_scale">Pie scale</string>
     <string name="by_two_finger">Only by two finger</string>
     <string name="floating_widget_timeout">Floating widget timeout</string>
-    <string name="settings_should_be_moved">Settings should be moved from /data/data/com.jozein… to /data/user_de/0/com.jozein…\\nPlease launch this app, and reboot/soft reboot.</string>
     <string name="action_finish_activity">Finish activity</string>
     <string name="input_method_menu">Input method menu</string>
     <string name="last_input_method">Last input method</string>

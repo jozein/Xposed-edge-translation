@@ -413,8 +413,7 @@
     <string name="check_import_from_free_version">Importer depuis la version gratuite. Etes vous sûr ?</string>
     <string name="add_backup">Ajout d\'une sauvegarde</string>
     <string name="restore">Importer</string>
-    <string name="backups_path">Répertoire de sauvegarde</string>
-    <string name="settings_restored">Paramètres restaurés, vous pouvez redémarrer! Merci.</string>
+    <string name="settings_restored">Paramètres restaurés.</string>
     <string name="invalid_file">Fichier non valide</string>
     <string name="permission_denied">Permission refusée!</string>
     <string name="memory_released_size_f">Memoire libérée: %1$dM.</string>
@@ -564,7 +563,6 @@
     <string name="pie_scale">Taille des touches flottantes</string>
     <string name="by_two_finger">Seulement avec deux doigts</string>
     <string name="floating_widget_timeout">Delai du widget flottant</string>
-    <string name="settings_should_be_moved">Les paramètres doivent être déplacés de /data/data/com.jozein… a /data/user_de/0/com.jozein…\\nMerci de relancer l\'appli et de redémarer.</string>
     <string name="action_finish_activity">Terminer l\'activitée</string>
     <string name="input_method_menu">Menu du mode de saisie</string>
     <string name="last_input_method">Dernier mode de saisie</string>
