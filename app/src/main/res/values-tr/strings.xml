@@ -149,7 +149,7 @@
     <string name="action_freezer_drawer">Dondurucu çekmecesi</string>
     <string name="action_running_apps_drawer">Çalışan uygulamalar çekmecesi</string>
     <string name="action_side_bar">Kenar çubuğu</string>
-    <string name="action_inject_key_event">Tuş olayı ekle</string>
+    <string name="action_inject_key_event">Tuş etkinliği ekle</string>
     <string name="action_inject_gesture">Hareket ekle</string>
     <string name="action_inject_text">Metin ekle</string>
     <string name="action_notify">Bildirim</string>
@@ -323,11 +323,11 @@
     <string name="show_text_on_side_bar">Metni kenar çubuğunda göster</string>
     <string name="show_text_on_other_drawers">Metni diğer çekmecelerde göster</string>
     <string name="notify_for_actions">Bildirilecek eylemler</string>
-    <string name="auto_freeze_only_app_died">Sadece uyg sonlandığında oto dondur</string>
+    <string name="auto_freeze_only_app_died">Sadece uyg. sonlandığında oto. dondur</string>
     <string name="force_nav_bar_state">Gezinti çubuğu durumunu zorla (yeniden başlatma gerekir)</string>
 
-    <string name="dark_theme">Karanlık</string>
-    <string name="light_theme">Aydınlık</string>
+    <string name="dark_theme">Koyu</string>
+    <string name="light_theme">Açık</string>
     <string name="never">Asla</string>
     <string name="gesture_recording">Hareket kaydı</string>
     <string name="gesture_injecting">Hareket ekleme</string>
@@ -348,7 +348,7 @@
     <string name="select_app">Uygulama seç</string>
     <string name="select_activity">Etkinlik seç</string>
     <string name="select_shortcut">Kısayol seç</string>
-    <string name="select_key_event">Tuş olayı seç</string>
+    <string name="select_key_event">Tuş etkinliği seç</string>
     <string name="select_condition">Koşul seç</string>
     <string name="select_focused_app">Odaklanan uygulamayı seç</string>
     <string name="select_icon">Simge seç</string>
@@ -398,8 +398,8 @@
     <string name="notification_hint">Bildirim içeriği</string>
     <string name="wifi_ssid">Ağ Adı</string>
     <string name="speech_hint">Metin Konuşma</string>
-    <string name="speech_description">%t: zaman için.\n%w: haftanın günü için.\n%d: tarih için.\n%b: pil seviyesi.\nBoş tetikleyiciler konuşmayı durdurur.\nNot: Belki yerel dilde bir motor yüklemelisiniz(örneğin, Google metin konuşma motoru)</string>
-    <string name="toast_description">%t: zaman için.\n%w: haftanın günü için.\n%d: tarih için.\n%b: pil seviyesi.</string>
+    <string name="speech_description">%t: saat.\n%w: haftanın günü.\n%d: tarih.\n%b: pil seviyesi.\nBoş tetikleyiciler konuşmayı durdurur.\nNot: Belki yerel dilde bir motor yüklemelisiniz(örneğin, Google metin konuşma motoru)</string>
+    <string name="toast_description">%t: saat.\n%w: haftanın günü.\n%d: tarih.\n%b: pil seviyesi.</string>
     <string name="command_hint">Yalnızca geliştiriciler için kabuk komutu</string>
     <string name="command_on_system_process">Sistem işleminde çalışır</string>
     <string name="su_not_supported_on_system">"su" sistem işleminde çalışmayı desteklemiyor.</string>
@@ -539,7 +539,7 @@
     <string name="tutorial_online">Çevrimiçi öğretici</string>
     <string name="disable_gesture_on_keyguard">Tuş kilidinde hareketi devre dışı bırak</string>
     <string name="slide_adjust_color">Sürgü ayarlama rengi</string>
-    <string name="disable_auto_brightness_when_brightness_adjusted">Parlaklık ayarlıyken oto parlaklığı kapat</string>
+    <string name="disable_auto_brightness_when_brightness_adjusted">Parlaklık ayarlıyken oto. parlaklığı kapat</string>
     <string name="screenshot_fullscreen">Tam ekran görüntüsü</string>
     <string name="screenshot_selected_region">Kısmi ekran görüntüsü</string>
     <string name="effect_sound">Efekt sesi</string>
@@ -550,7 +550,7 @@
     <string name="rotate_90">° döndür</string>
     <string name="rotate_seascape">Deniz manzarasına döndür</string>
     <string name="rotate_upside_down">Baş aşağı döndür</string>
-    <string name="windows_not_focusable">Pencereler odaklanamaz</string>
+    <string name="windows_not_focusable">Pencereler odaklanılamaz</string>
     <string name="windows_not_focusable_hint">Pencereler klavyenin üstünde gösterilir, ayarlanan tuş etkinlikleri alınmaz.</string>
     <string name="action_game_mode">Oyun modu</string>
     <string name="ignore_edges">Kenarları yoksay</string>
@@ -612,16 +612,16 @@
     <string name="colorful_circle_icon">Renkli daire simge</string>
     <string name="circle_icon">Daire simge</string>
     <string name="default_icon">Varsayılan simge</string>
-    <string name="action_stop_all">Stop all</string>
-    <string name="logs">Logs</string>
-    <string name="auto_dark_mode">Automatic</string>
-    <string name="vibrate_click">Click</string>
-    <string name="vibrate_custom">Custom</string>
-    <string name="vibrate_disable">Disable</string>
-    <string name="vibrate_double_click">Double click</string>
-    <string name="vibrate_heavy_click">Heavy click</string>
-    <string name="vibrate_tick">Tick</string>
-    <string name="open_from">Open from…</string>
-    <string name="add_backup_to">Add backup to…</string>
+    <string name="action_stop_all">Hepsini durdur</string>
+    <string name="logs">Günlük</string>
+    <string name="auto_dark_mode">Otomatik</string>
+    <string name="vibrate_click">Tıklama</string>
+    <string name="vibrate_custom">Özel</string>
+    <string name="vibrate_disable">Devre dışı bırak</string>
+    <string name="vibrate_double_click">Çift tıklama</string>
+    <string name="vibrate_heavy_click">Sert tıklama</string>
+    <string name="vibrate_tick">Tikleme</string>
+    <string name="open_from">Şuradan aç…</string>
+    <string name="add_backup_to">Yedeği şuraya ekle…</string>
 
 </resources>
