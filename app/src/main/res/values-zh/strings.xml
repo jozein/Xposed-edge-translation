@@ -4,10 +4,10 @@
     <!-- add translator's name here -->
     <string name="about_description">作者：jozein</string>
 
-    <string name="app_name">Xposed edge</string>
-    <string name="app_name_pro">Xposed edge pro</string>
-    <string name="shortcut_name">Xposed edge 操作</string>
-    <string name="shortcut_name_pro">Xposed edge pro 操作</string>
+    <string name="app_name">Xposed Edge</string>
+    <string name="app_name_pro">Xposed Edge Pro</string>
+    <string name="shortcut_name">Xposed Edge 操作</string>
+    <string name="shortcut_name_pro">Xposed Edge Pro 操作</string>
 
     <!-- main -->
     <string name="gestures">手势</string>
@@ -315,7 +315,7 @@
     <string name="vibrate_effect">振动效果</string>
     <string name="vibrate_strength">振动强度</string>
     <string name="effect_only_screen_on">仅亮屏时有声音与振动效果</string>
-    <string name="toast_level">Toast提示等级</string>
+    <string name="toast_level">Toast 提示等级</string>
     <string name="visual_effect">视觉效果</string>
     <string name="show_text_on_shortcut_panel">快捷面板显示文字</string>
     <string name="show_text_on_side_bar">侧边栏显示文字</string>
@@ -332,9 +332,9 @@
     <string name="gesture_injecting">手势注入</string>
     <string name="both">全部</string>
 
-    <string name="important">最重要的</string>
-    <string name="general">一般的</string>
-    <string name="verbose">详细的</string>
+    <string name="important">重要</string>
+    <string name="general">默认</string>
+    <string name="verbose">详细</string>
     <string name="as_default">默认</string>
     <string name="system_default">系统默认</string>
 
