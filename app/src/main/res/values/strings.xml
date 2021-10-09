@@ -312,7 +312,7 @@
     <string name="condition_time_period">Time period</string>
     <string name="condition_in_days_of_week">In days of week</string>
     <string name="condition_in_days_of_month">In days of month</string>
-    <string name="condition_in_months">In moths</string>
+    <string name="condition_in_months">In months</string>
     <string name="condition_wifi_connected_to">Wifi connected to</string>
     <string name="condition_app_focused">App focused</string>
     <string name="condition_soft_keyboard_showing">Soft keyboard showing</string>
