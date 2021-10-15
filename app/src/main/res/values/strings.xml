@@ -637,5 +637,10 @@
 
     <string name="description">This module provides you Gesture control, Key control and other smart triggers. To trigger actions you want.</string>
 
+
+    <string-array name="xposed_scope">
+        <item>android</item>
+    </string-array>
+
 </resources>
 
