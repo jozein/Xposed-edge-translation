@@ -363,9 +363,7 @@
     <string name="freeze">Dondur</string>
     <string name="code">Kod:&#160;</string>
     <string name="click_a_key_to_add">Eklemek istediğiniz bir tuşa tıklayın.</string>
-    <string name="xposed_not_installed">Xposed yüklü değil!!!</string>
     <string name="module_not_activated">Modül henüz etkinleştirilmemiş(veya güncel değil)! Lütfen Xposed yükleyicisinde bu modülü etkinleştirin ve yeniden başlatın.</string>
-    <string name="unable_to_freeze_this_app">Bu uygulama dondurulamıyor!</string>
     <string name="unsafe_to_freeze_system_app">Sistem uygulamasını dondurmak güvenli değildir, devam etmek istediğinize emin misiniz?</string>
     <string name="save_failed">Dosya kaydedilemiyor!</string>
     <string name="never_intercept_power_key">Güç tuşunu asla engellemeyin!</string>
@@ -374,8 +372,6 @@
     <string name="add">Ekle…</string>
     <string name="app_got_focus">odaklan</string>
     <string name="app_lost_focus">odağı kaybet</string>
-    <string name="show_activities_exported_only">Yalnızca dışa aktarılan etkinlikleri göster</string>
-    <string name="show_all_activities">Tüm etkinlikleri göster(güvenli değil)</string>
     <string name="check_clear_all">Tümünü temizlemek istediğinize emin misiniz?</string>
     <string name="select_first_condition">Lütfen önce koşulu seçin</string>
     <string name="select_second_condition">Lütfen ikinci koşulu seçin</string>

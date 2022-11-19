@@ -489,9 +489,7 @@
     <string name="code">Code:&#160;</string>
     <string name="click_a_key_to_add">Click a key which you want to add.</string>
     <string name="user_not_supported">Current user is not supported!!!</string>
-    <string name="xposed_not_installed">Xposed not installed!!!</string>
     <string name="module_not_activated">Module not activated yet(or not updated)! Please activate this module in Xposed installer, and reboot.</string>
-    <string name="unable_to_freeze_this_app">Unable to freeze this app!</string>
     <string name="unsafe_to_freeze_system_app">Unsafe to freeze system app, are you sure to continue?</string>
     <string name="save_failed">Failed to save file!</string>
     <string name="never_intercept_power_key">Never intercept power key!</string>
@@ -502,8 +500,6 @@
     <string name="app_stopped">stopped</string>
     <string name="app_got_focus">got focus</string>
     <string name="app_lost_focus">lost focus</string>
-    <string name="show_activities_exported_only">Show exported activities only</string>
-    <string name="show_all_activities">Show all activities(unsafe)</string>
     <string name="check_clear_all">Are you sure to clear all?</string>
     <string name="select_first_condition">Please select the first condition</string>
     <string name="select_second_condition">Please select the second condition</string>
@@ -636,6 +632,7 @@
     <string name="add_translation_or_fix">Add translation or fix</string>
 
     <string name="description">This module provides you Gesture control, Key control and other smart triggers. To trigger actions you want.</string>
+
 
     <string-array name="xposed_scope">
         <item>android</item>

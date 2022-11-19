@@ -489,9 +489,7 @@
     <string name="code">Code:&#160;</string>
     <string name="click_a_key_to_add">Appuyer sur la touche que vous voulez ajouter</string>
     <string name="user_not_supported">L\'utilisateur actuel n\'est pas supporté!!!</string>
-    <string name="xposed_not_installed">Xposed n\'est pas installé!!!</string>
     <string name="module_not_activated">Module inactif(ou non mis à jour)! Activer le module dans votre manager Xposed et redémarrer</string>
-    <string name="unable_to_freeze_this_app">Impossible de congeler cette application!</string>
     <string name="unsafe_to_freeze_system_app">Congélation d\'application système risqué, voulez vous vraiment continuer?</string>
     <string name="save_failed">Échec de sauvegarde!</string>
     <string name="never_intercept_power_key">Impossible de modifier la touche "Marche/Arrêt"!</string>
@@ -502,8 +500,6 @@
     <string name="app_stopped">Arrêtée</string>
     <string name="app_got_focus">Visible</string>
     <string name="app_lost_focus">Cachée</string>
-    <string name="show_activities_exported_only">Afficher uniquement les activitées exportées</string>
-    <string name="show_all_activities">Afficher toutes les activitées (risqué!)</string>
     <string name="check_clear_all">Êtes vous sûr de vouloir tout supprimer?</string>
     <string name="select_first_condition">Sélectionner la première condition</string>
     <string name="select_second_condition">Sélectionner la seconde condition</string>

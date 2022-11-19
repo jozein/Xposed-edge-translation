@@ -487,9 +487,7 @@
     <string name="code">Codice: &#160;</string>
     <string name="click_a_key_to_add">Tocca su una chiave che desideri aggiungere.</string>
     <string name="user_not_supported">L\'utente attuale non è supportato!!!</string>
-    <string name="xposed_not_installed">Xposed non installato!!!</string>
     <string name="module_not_activated">Modulo non ancora attivato (o non aggiornato)! Attiva questo modulo in Xposed Installer, e riavvia.</string>
-    <string name="unable_to_freeze_this_app">Impossibile congelare questa app!</string>
     <string name="unsafe_to_freeze_system_app">Congelare app di sistema non è sicuro, vuoi continuare comunque?</string>
     <string name="save_failed">Impossibile salvare il file!</string>
     <string name="never_intercept_power_key">Non intercettare mai il tasto di accensione!</string>
@@ -500,8 +498,6 @@
     <string name="app_stopped">fermato</string>
     <string name="app_got_focus">attiva l\'app</string>
     <string name="app_lost_focus">non attivare l\'app</string>
-    <string name="show_activities_exported_only">Mostra solo le attività esportate</string>
-    <string name="show_all_activities">Mostra tutte le attività (non sicuro)</string>
     <string name="check_clear_all">Sei sicuro di voler cancellare tutto?</string>
     <string name="select_first_condition">Seleziona la prima condizione</string>
     <string name="select_second_condition">Seleziona la seconda condizione</string>
